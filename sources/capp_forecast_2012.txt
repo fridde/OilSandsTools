@@ -1,0 +1,10 @@
+CAPP CANADIAN CRUDE OIL PRODUCTION FORECAST 2012-2030
+June 2012
+Source: http://www.capp.ca/forecast/Pages/default.aspx
+Unit: Thousand barrels per day
+  Raw bitumen numbers are highlighted. The oil sands production numbers (as historically published) are a combination of upgraded crude oil and bitumen and therefore incorporate yield losses from 
+integrated upgrader projects. Production from off-site upgrading projects are included in the production numbers as bitumen.
+
+Year 2010 2011 2012 2013 2014 2015 2016 2017 2018 2019 2020 2021 2022 2023 2024 2025 2026 2027 2028 2029 2030
+Oil Sands Mining 727 772 862 1016 1045 1061 1093 1120 1171 1252 1327 1400 1440 1455 1564 1676 1680 1742 1817 1840 1891
+Oil Sands In-Situ 743 844 914 1011 1133 1238 1361 1476 1565 1690 1838 1975 2141 2277 2402 2539 2660 2795 2896 2994 3129

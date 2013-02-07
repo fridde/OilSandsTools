@@ -1,0 +1,5 @@
+# Data Source: World Energy Outlook 2012, page 107, Table 3.5
+# Units: Million barrels per day
+
+Year 1990 2011 2015 2020 2025 2030 2035
+Value 0.2 1.6 2.3 2.9 3.4 3.8 4.3

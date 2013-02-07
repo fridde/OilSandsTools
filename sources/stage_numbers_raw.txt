@@ -1,0 +1,300 @@
+"Project"	"Company"	"Stage"	"Stage.Nr"	"Operating.Status"	"Startup"
+"Advanced TriStar"	"Value Creation Inc."	"ATS-1"	"1"	""	2016-07-01
+"Advanced TriStar"	"Value Creation Inc."	"ATS-2"	"2"	""	2019-07-01
+"Advanced TriStar"	"Value Creation Inc."	"ATS-3"	"3"	""	2022-07-01
+"Algar"	"Connacher Oil And Gas Limited"	"Pod 2"	"1"	""	2010-07-01
+"Algar Lake"	"Grizzly Oil Sands Ulc"	"Phase 1"	"1"	""	2013-07-01
+"Algar Lake"	"Grizzly Oil Sands Ulc"	"Phase 2"	"2"	""	2014-07-01
+"Aspen"	"Imperial Oil Limited"	"Phase 1"	"1"	""	
+"Audet"	"SilverWillow Energy Corporation"	"Pilot"	"1"	""	2016-07-01
+"Axe Lake"	"Oilsands Quest Inc."	"Reservoir Test"	"1"	""	2008-07-01
+"Axe Lake"	"Oilsands Quest Inc."	"Commercial"	"3"	""	
+"Axe Lake"	"Oilsands Quest Inc."	"SAGD Pilot"	"2"	""	
+"Base Operations"	"Suncor Energy Inc."	"Base Operations"	"1"	"Operating"	1967-07-01
+"Base Operations"	"Suncor Energy Inc."	"Millennium Mine"	"2"	""	1967-07-01
+"Base Operations"	"Suncor Energy Inc."	"Millenium"	"3"	"Under Development"	2001-07-01
+"Base Operations"	"Suncor Energy Inc."	"Steepbank Debottleneck Phase 3"	"4"	""	2007-07-01
+"Base Operations"	"Suncor Energy Inc."	"Millennium Debottlenecking"	"5"	""	2008-07-01
+"Base Operations"	"Suncor Energy Inc."	"Voyageur"	"6"	"Planning"	2010-07-01
+"Base Operations"	"Suncor Energy Inc."	"North Steepbank Extension"	"7"	""	2012-07-01
+"Birch"	"Athabasca Oil Corporation"	"Phase 1"	"1"	""	
+"Birch Mountain"	"Canadian Natural Resources Limited"	"Phase 1"	"1"	""	2019-07-01
+"Birch Mountain"	"Canadian Natural Resources Limited"	"Phase 2"	"2"	""	2023-07-01
+"Birchwood"	"Marathon Oil Corporation"	"Demonstration"	"1"	""	2016-07-01
+"BlackGold"	"Harvest Operations Corp."	"Phase 1"	"1"	""	2014-07-01
+"BlackGold"	"Harvest Operations Corp."	"Phase 2"	"2"	""	
+"Blackrod"	"BlackPearl Resources Inc."	"Pilot"	"1"	""	2011-07-01
+"Blackrod"	"BlackPearl Resources Inc."	"Phase 1"	"2"	""	2015-07-01
+"Blackrod"	"BlackPearl Resources Inc."	"Phase 2"	"3"	""	2018-07-01
+"Blackrod"	"BlackPearl Resources Inc."	"Phase 3"	"4"	""	2021-07-01
+"Caribou"	"Husky Energy Inc."	"Demonstration"	"1"	""	
+"Chard"	"Suncor Energy Inc."	"Phase 1"	"1"	""	
+"Christina Lake"	"Cenovus Energy Inc."	"Phase 1A"	"1"	""	2002-07-01
+"Christina Lake"	"Cenovus Energy Inc."	"Phase 1B"	"2"	""	2008-07-01
+"Christina Lake"	"Cenovus Energy Inc."	"Phase C"	"3"	""	2011-07-01
+"Christina Lake"	"Cenovus Energy Inc."	"Phase D"	"4"	""	2012-07-01
+"Christina Lake"	"Cenovus Energy Inc."	"Phase E"	"5"	""	2013-07-01
+"Christina Lake"	"Cenovus Energy Inc."	"Phase F"	"6"	""	2016-07-01
+"Christina Lake"	"Cenovus Energy Inc."	"Phase G"	"7"	""	2017-07-01
+"Christina Lake"	"Cenovus Energy Inc."	"Phase H"	"8"	""	2019-07-01
+"Christina Lake"	"MEG Energy Corporation"	"Phase 1 Pilot"	"1"	""	2008-07-01
+"Christina Lake"	"MEG Energy Corporation"	"Phase 2A"	"2"	""	2009-07-01
+"Christina Lake"	"MEG Energy Corporation"	"Phase 2B"	"3"	""	2013-07-01
+"Christina Lake"	"MEG Energy Corporation"	"Phase 3A"	"4"	""	2016-07-01
+"Christina Lake"	"MEG Energy Corporation"	"Phase 3B"	"5"	""	2018-07-01
+"Christina Lake"	"MEG Energy Corporation"	"Phase 3C"	"6"	""	2020-07-01
+"Christina Lake"	"PanCanadian"	"Initial"	"1"	"Under Development"	2002-07-01
+"Christina Lake"	"PanCanadian"	"Expansion"	"2"	"Planning"	2008-07-01
+"Clearwater West"	"Alberta Oilsands Inc."	"Phase 2"	"1"	""	2016-07-01
+"Clearwater West"	"Alberta Oilsands Inc."	"Phase 1 Pilot"	"2"	""	
+"Cold Lake"	"Imperial Oil Limited"	"Phases 1-10"	"1"	"Operating"	1985-07-01
+"Cold Lake"	"Imperial Oil Limited"	"Phase 1-10"	"2"	""	1985-07-01
+"Cold Lake"	"Imperial Oil Limited"	"Phase 11-13"	"3"	""	2002-07-01
+"Cold Lake"	"Imperial Oil Limited"	"Phases 11-13"	"4"	"Under Development"	2003-07-01
+"Cold Lake"	"Imperial Oil Limited"	"Phases 14-16"	"5"	"Under Development"	2007-07-01
+"Cold Lake"	"Imperial Oil Limited"	"Phase 14-16"	"6"	""	2014-07-01
+"Dawson"	"Petrobank Energy And Resources Ltd."	"Experimental THAI Demonstration"	"1"	""	2013-07-01
+"Dawson"	"Petrobank Energy And Resources Ltd."	"Phase 2"	"2"	""	
+"Dover"	"Dover Operating Corp."	"Dover North Phase 1"	"1"	""	2016-07-01
+"Dover"	"Dover Operating Corp."	"Dover North Phase 2"	"2"	""	2018-07-01
+"Dover"	"Dover Operating Corp."	"Dover South Phase 3"	"3"	""	2020-07-01
+"Dover"	"Dover Operating Corp."	"Dover South Phase 2"	"4"	""	2022-07-01
+"Dover"	"Dover Operating Corp."	"Dover South Phase 4"	"5"	""	2022-07-01
+"Dover"	"Dover Operating Corp."	"Dover South Phase 5"	"6"	""	2024-07-01
+"Dover"	"N-SOLV Corporation"	"Demonstration Plant"	"1"	""	2012-07-01
+"Dover West Carbonates (Leduc)"	"Athabasca Oil Corporation"	"Phase 1 Demonstration"	"1"	""	2015-07-01
+"Dover West Carbonates (Leduc)"	"Athabasca Oil Corporation"	"Phase 2 Demonstration"	"2"	""	
+"Dover West Sands & Clastics"	"Athabasca Oil Corporation"	"Phase 1"	"1"	""	2015-07-01
+"Dover West Sands & Clastics"	"Athabasca Oil Corporation"	"Phase 2"	"2"	""	2018-07-01
+"Dover West Sands & Clastics"	"Athabasca Oil Corporation"	"Phase 3"	"3"	""	2020-07-01
+"East McMurray"	"Cenovus Energy Inc."	"Phase 1"	"1"	""	
+"Ells River"	"Chevron Canada Resources"	"Commercial"	"1"	""	2015-07-01
+"Firebag"	"Suncor Energy Inc."	"Stage 1"	"1"	""	2004-07-01
+"Firebag"	"Suncor Energy Inc."	"Initial"	"2"	"Under Development"	2005-07-01
+"Firebag"	"Suncor Energy Inc."	"Stage 2"	"3"	""	2006-07-01
+"Firebag"	"Suncor Energy Inc."	"Cogeneration and Expansion"	"4"	""	2007-07-01
+"Firebag"	"Suncor Energy Inc."	"Expansion"	"5"	"Planning"	2008-07-01
+"Firebag"	"Suncor Energy Inc."	"Stage 3"	"6"	""	2011-07-01
+"Firebag"	"Suncor Energy Inc."	"Stage 4"	"7"	""	2013-07-01
+"Firebag"	"Suncor Energy Inc."	"Stage 5"	"8"	""	2018-07-01
+"Firebag"	"Suncor Energy Inc."	"Stage 6"	"9"	""	2019-07-01
+"Firebag"	"Suncor Energy Inc."	"Stage 3-6 Debottleneck"	"10"	""	
+"Fort Hills"	"Suncor Energy Inc."	"Phase 1"	"1"	""	2016-07-01
+"Fort Hills"	"Suncor Energy Inc."	"Debottleneck"	"2"	""	
+"Fort Hills"	"True North Energy"	"Stage 1"	"1"	"Under Development"	2005-07-01
+"Fort Hills"	"UTS Energy"	"Stage 2"	"1"	"Planning"	2008-07-01
+"Foster Creek"	"Alberta Energy Co."	"Phase 1"	"1"	"Operating"	2001-07-01
+"Foster Creek"	"Alberta Energy Co."	"Debottleneck"	"2"	"Planning"	2003-07-01
+"Foster Creek"	"Alberta Energy Co."	"Phase 2"	"3"	"Planning"	2005-07-01
+"Foster Creek"	"Alberta Energy Co."	"Phase 3"	"4"	"Planning"	2007-07-01
+"Foster Creek"	"Cenovus Energy Inc."	"Phase A"	"1"	""	2001-07-01
+"Foster Creek"	"Cenovus Energy Inc."	"Phase B Debottleneck"	"2"	""	2003-07-01
+"Foster Creek"	"Cenovus Energy Inc."	"Phase C Stage 1"	"3"	""	2005-07-01
+"Foster Creek"	"Cenovus Energy Inc."	"Phase C Stage 2"	"4"	""	2007-07-01
+"Foster Creek"	"Cenovus Energy Inc."	"Phase D"	"5"	""	2009-07-01
+"Foster Creek"	"Cenovus Energy Inc."	"Phase E"	"6"	""	2009-07-01
+"Foster Creek"	"Cenovus Energy Inc."	"Phase F"	"7"	""	2014-07-01
+"Foster Creek"	"Cenovus Energy Inc."	"Phase G"	"8"	""	2015-07-01
+"Foster Creek"	"Cenovus Energy Inc."	"Phase H"	"9"	""	2016-07-01
+"Foster Creek"	"Cenovus Energy Inc."	"Phase J"	"10"	""	2019-07-01
+"Frontier"	"Teck Resources Limited"	"Phase 1"	"1"	""	2021-07-01
+"Frontier"	"Teck Resources Limited"	"Phase 2"	"2"	""	2024-07-01
+"Frontier"	"Teck Resources Limited"	"Phase 3"	"3"	""	2027-07-01
+"Frontier"	"Teck Resources Limited"	"Phase 4 Equinox"	"4"	""	2030-07-01
+"Gemini"	"Koch Exploration Canada Corporation"	"Stage 1"	"1"	""	
+"Gemini"	"Koch Exploration Canada Corporation"	"Stage 2"	"2"	""	
+"Germain"	"Laricina Energy Ltd."	"Phase 1 CDP"	"1"	""	2013-07-01
+"Germain"	"Laricina Energy Ltd."	"Phase 2"	"2"	""	2015-07-01
+"Germain"	"Laricina Energy Ltd."	"Phase 3"	"3"	""	
+"Germain"	"Laricina Energy Ltd."	"Phase 4"	"4"	""	
+"Great Divide"	"Connacher Oil And Gas Limited"	"Pod 1"	"1"	""	2007-07-01
+"Great Divide"	"Connacher Oil And Gas Limited"	"Expansion 1A"	"2"	""	2014-07-01
+"Great Divide"	"Connacher Oil And Gas Limited"	"Expansion 1B"	"3"	""	2016-07-01
+"Gregoire Lake"	"Canadian Natural Resources Limited"	"Phase 1"	"1"	""	2021-07-01
+"Gregoire Lake"	"Canadian Natural Resources Limited"	"Phase 2"	"2"	""	2025-07-01
+"Grouse"	"Canadian Natural Resources Limited"	"Commercial"	"1"	""	2018-07-01
+"Hangingstone"	"Athabasca Oil Corporation"	"Phase 1"	"1"	""	2014-07-01
+"Hangingstone"	"Athabasca Oil Corporation"	"Phase 2"	"2"	""	2017-07-01
+"Hangingstone"	"Athabasca Oil Corporation"	"Phase 3"	"3"	""	2019-07-01
+"Hangingstone"	"Japan Canada Oil Sands Limited"	"Initial"	"1"	"Operating"	1997-07-01
+"Hangingstone"	"Japan Canada Oil Sands Limited"	"Expansion"	"2"	""	2016-07-01
+"Hangingstone"	"Nexen Inc."	"Phase 2"	"1"	"Under Development"	2006-07-01
+"Hangingstone"	"Nexen Inc."	"Phase 3"	"2"	"Planning"	2010-07-01
+"Hangingstone Pilot"	"Japan Canada Oil Sands Limited"	"Pilot"	"1"	""	1999-07-01
+"Harper"	"Sunshine Oilsands Ltd."	"Carbonate Pilot"	"1"	""	2011-07-01
+"Hoole"	"Cavalier Energy Inc."	"Phase 1"	"1"	""	2015-07-01
+"Hoole"	"Cavalier Energy Inc."	"Phase 2"	"2"	""	
+"Hoole"	"Cavalier Energy Inc."	"Phase 3"	"3"	""	
+"Hoole"	"Cavalier Energy Inc."	"Phase 4"	"4"	""	
+"Horizon"	"Canadian Natural Resources Limited"	"Initial"	"1"	"Under Development"	2007-07-01
+"Horizon"	"Canadian Natural Resources Limited"	"Phase 1"	"2"	""	2008-07-01
+"Horizon"	"Canadian Natural Resources Limited"	"Tranche 2"	"3"	""	2012-07-01
+"Horizon"	"Canadian Natural Resources Limited"	"Phase 2A"	"4"	""	2014-07-01
+"Horizon"	"Canadian Natural Resources Limited"	"Phase 2B"	"5"	""	
+"Horizon"	"Canadian Natural Resources Limited"	"Phase 3"	"6"	""	
+"Jackfish"	"Devon Canada Corporation"	"Phase 1"	"1"	""	2007-07-01
+"Jackfish"	"Devon Canada Corporation"	"Phase 2"	"2"	""	2011-07-01
+"Jackfish"	"Devon Canada Corporation"	"Phase 3"	"3"	""	2015-07-01
+"Jackpine"	"Shell Albian Sands"	"Phase 1A"	"1"	""	2010-07-01
+"Jackpine"	"Shell Albian Sands"	"Expansion"	"2"	""	2017-07-01
+"Jackpine"	"Shell Albian Sands"	"Phase 1B"	"3"	""	
+"Joslyn"	"Total E&P Canada Ltd."	"Phase 1"	"1"	""	2004-07-01
+"Joslyn"	"Total E&P Canada Ltd."	"Phase 2"	"2"	""	2006-07-01
+"Joslyn"	"Total E&P Canada Ltd."	"Phase 3A"	"3"	""	2009-07-01
+"Joslyn"	"Total E&P Canada Ltd."	"Phase 3B"	"4"	""	2011-07-01
+"Joslyn Creek"	"Deer Creek"	"Initial SAGD"	"1"	"Planning"	
+"Joslyn Creek"	"Deer Creek"	"Expansion"	"2"	"Planning"	
+"Joslyn North Mine"	"Total E&P Canada Ltd."	"Phase 1"	"1"	""	2018-07-01
+"Joslyn South Mine"	"Total E&P Canada Ltd."	"Phase 1"	"1"	""	
+"Kai Kos Dehseh"	"Statoil"	"Leismer Demonstration"	"1"	""	2010-07-01
+"Kai Kos Dehseh"	"Statoil"	"Corner"	"2"	""	2017-07-01
+"Kai Kos Dehseh"	"Statoil"	"Corner Expansion"	"3"	""	
+"Kai Kos Dehseh"	"Statoil"	"Hangingstone"	"4"	""	
+"Kai Kos Dehseh"	"Statoil"	"Leismer Commercial"	"5"	""	
+"Kai Kos Dehseh"	"Statoil"	"Leismer Expansion"	"6"	""	
+"Kai Kos Dehseh"	"Statoil"	"Leismer Northwest"	"7"	""	
+"Kai Kos Dehseh"	"Statoil"	"Leismer South"	"8"	""	
+"Kai Kos Dehseh"	"Statoil"	"Thornbury"	"9"	""	
+"Kai Kos Dehseh"	"Statoil"	"Thornbury Expansion"	"10"	""	
+"Kearl"	"Imperial Oil Limited"	"Phase 1"	"1"	""	2012-07-01
+"Kearl"	"Imperial Oil Limited"	"Phase 2"	"2"	""	2015-07-01
+"Kearl"	"Imperial Oil Limited"	"Phase 3 Debottleneck"	"3"	""	2020-07-01
+"Kearl"	"Imperial Oil Limited"	"Phase 1"	"4"	"Planning"	
+"Kearl Lake"	"Husky Energy Inc."	"Phase 2"	"1"	"Planning"	
+"Kirby"	"Rio Alto Exploration"	"Initial"	"1"	"Under Development"	2004-07-01
+"Kirby North"	"Canadian Natural Resources Limited"	"Phase 1"	"1"	""	2016-07-01
+"Kirby North"	"Canadian Natural Resources Limited"	"Phase 2"	"2"	""	2019-07-01
+"Kirby South"	"Canadian Natural Resources Limited"	"Phase 1"	"1"	""	2013-07-01
+"Kirby South"	"Canadian Natural Resources Limited"	"Phase 2"	"2"	""	2020-07-01
+"Legend Lake"	"Sunshine Oilsands Ltd."	"A Phase 1"	"1"	""	2016-07-01
+"Legend Lake"	"Sunshine Oilsands Ltd."	"A Phase 2"	"6"	""	
+"Legend Lake"	"Sunshine Oilsands Ltd."	"B Phase 1"	"7"	""	
+"Leismer"	"Canadian Natural Resources Limited"	"Commercial"	"1"	""	2020-07-01
+"Lewis"	"Oak Point Energy Ltd."	"Pilot"	"1"	""	2013-07-01
+"Lewis"	"Petro-Canada"	"Initial"	"1"	"Planning"	
+"Lewis"	"Suncor Energy Inc."	"Phase 1"	"1"	""	
+"Lewis"	"Suncor Energy Inc."	"Phase 2"	"2"	""	
+"Lindbergh"	"Pengrowth Energy Corporation"	"Pilot"	"1"	""	2012-07-01
+"Lindbergh"	"Pengrowth Energy Corporation"	"Phase 1 Commercial"	"2"	""	2015-07-01
+"Lindbergh"	"Pengrowth Energy Corporation"	"Phase 2 Commercial"	"3"	""	2016-07-01
+"Long Lake"	"Nexen Inc."	"Phase 1"	"1"	""	2008-07-01
+"Long Lake"	"Nexen Inc."	"Phase 2  (Upgrader)"	"2"	"Planning"	2009-07-01
+"Long Lake"	"Nexen Inc."	"Long Lake South (Kinosis) Phase 1"	"3"	""	
+"Long Lake"	"Nexen Inc."	"Long Lake South (Kinosis) Phase 2"	"4"	""	
+"Long Lake"	"Nexen Inc."	"Phase 2"	"5"	""	
+"Long Lake"	"Nexen Inc."	"Phase 3"	"6"	""	
+"Long Lake"	"Nexen Inc."	"Phase 4"	"7"	""	
+"Long Lake"	"OPTI Canada"	"Phase 1"	"1"	"Under Development"	2006-07-01
+"Mackay River"	"Dover Operating Corp."	"Phase 1"	"1"	""	2014-07-01
+"Mackay River"	"Dover Operating Corp."	"Phase 2"	"2"	""	2017-07-01
+"Mackay River"	"Dover Operating Corp."	"Phase 3"	"3"	""	2019-07-01
+"Mackay River"	"Dover Operating Corp."	"Phase 4"	"4"	""	
+"MacKay River"	"Petro-Canada"	"Initial"	"1"	"Under Development"	2003-07-01
+"MacKay River"	"Suncor Energy Inc."	"Phase 1"	"1"	""	2002-07-01
+"MacKay River"	"Suncor Energy Inc."	"MR2"	"2"	""	2016-07-01
+"May River"	"Grizzly Oil Sands Ulc"	"Phase 1"	"1"	""	2013-07-01
+"May River"	"Grizzly Oil Sands Ulc"	"Subsequent Phases"	"2"	""	
+"McMullen"	"Husky Energy Inc."	"Air Injection Pilot-Experimental"	"1"	""	2012-07-01
+"Meadow Creek"	"Petro-Canada"	"Initial"	"1"	"Planning"	2007-07-01
+"Meadow Creek"	"Suncor Energy Inc."	"Phase 1"	"1"	""	
+"Meadow Creek"	"Suncor Energy Inc."	"Phase 2"	"2"	""	
+"Mildred Lake/Aurora"	"Syncrude Canada Ltd."	"Base Operations"	"1"	"Operating"	1978-07-01
+"Mildred Lake/Aurora"	"Syncrude Canada Ltd."	"Stage 2"	"2"	"Operating"	2001-07-01
+"Mildred Lake/Aurora"	"Syncrude Canada Ltd."	"Stage 3"	"3"	"Under Development"	2005-07-01
+"Mildred Lake/Aurora"	"Syncrude Canada Ltd."	"Stage 4"	"4"	"Planning"	2008-07-01
+"Mildred Lake/Aurora"	"Syncrude Canada Ltd."	"Stage 5"	"5"	"Planning"	2013-07-01
+"Mildred Lake/Aurora North & South"	"Syncrude Canada Ltd."	"Base Mine Stage 1 & 2 Expansion"	"1"	""	1978-07-01
+"Mildred Lake/Aurora North & South"	"Syncrude Canada Ltd."	"Stage 3 Expansion"	"2"	""	2006-07-01
+"Mildred Lake/Aurora North & South"	"Syncrude Canada Ltd."	"Aurora South Train 1"	"3"	""	2016-07-01
+"Mildred Lake/Aurora North & South"	"Syncrude Canada Ltd."	"Aurora South Train 2"	"4"	""	2018-07-01
+"Muskeg River"	"Shell Albian Sands"	"Commercial"	"1"	""	2002-07-01
+"Muskeg River"	"Shell Albian Sands"	"Expansion & Debottlenecking"	"2"	""	
+"Muskeg River  (Albian)"	"Chevron Canada Resources"	"Debottlenecking"	"1"	"Planning"	2005-07-01
+"Muskeg River  (Albian)"	"Royal Dutch Shell plc"	"Muskeg River"	"1"	"Under Development"	2003-07-01
+"Muskeg River  (Albian)"	"Western Oil Sands"	"Expansion"	"1"	"Planning"	2010-07-01
+"Muskwa"	"Koch Exploration Canada Corporation"	"Pilot"	"1"	""	2015-07-01
+"Narrows Lake"	"Cenovus Energy Inc."	"Phase 1"	"1"	""	2017-07-01
+"Narrows Lake"	"Cenovus Energy Inc."	"Phase 2"	"2"	""	
+"Narrows Lake"	"Cenovus Energy Inc."	"Phase 3"	"3"	""	
+"Northern Lights"	"Synenco Energy"	"Mining & Upgrading"	"1"	"Planning"	
+"Orion"	"Anadarko"	"Phase 2"	"1"	"Planning"	
+"Orion"	"Blackrock Ventures"	"Phase 1"	"1"	"Under Development"	
+"Orion"	"Royal Dutch Shell plc"	"Phase 1"	"1"	""	2007-07-01
+"Orion"	"Royal Dutch Shell plc"	"Phase 2"	"2"	""	
+"Peace River"	"Royal Dutch Shell plc"	"Cadotte Lake"	"1"	""	1986-07-01
+"Peace River"	"Royal Dutch Shell plc"	"Carmon Creek - Phase 1"	"2"	""	2015-07-01
+"Peace River"	"Royal Dutch Shell plc"	"Carmon Creek - Phase 2"	"3"	""	2018-07-01
+"Pelican Lake Grand Rapids"	"Cenovus Energy Inc."	"Pilot"	"1"	""	2011-07-01
+"Pelican Lake Grand Rapids"	"Cenovus Energy Inc."	"Phase A"	"2"	""	2017-07-01
+"Pelican Lake Grand Rapids"	"Cenovus Energy Inc."	"Phase B"	"3"	""	
+"Pelican Lake Grand Rapids"	"Cenovus Energy Inc."	"Phase C"	"4"	""	
+"Pierre River"	"Shell Albian Sands"	"Phase 1"	"1"	""	2018-07-01
+"Pierre River"	"Shell Albian Sands"	"Phase 2"	"2"	""	
+"Pike"	"Devon Canada Corporation"	"1A"	"1"	""	2016-07-01
+"Pike"	"Devon Canada Corporation"	"1B"	"2"	""	2017-07-01
+"Pike"	"Devon Canada Corporation"	"1C"	"3"	""	2018-07-01
+"Poplar Creek"	"E-T Energy Ltd."	"Experimental Pilot"	"1"	""	2007-07-01
+"Poplar Creek"	"E-T Energy Ltd."	"Phase 1"	"2"	""	
+"Poplar Creek"	"E-T Energy Ltd."	"Phase 2"	"3"	""	
+"Primrose & Wolf Lake"	"Canadian Natural Resources Limited"	"Primrose South"	"1"	""	1985-07-01
+"Primrose & Wolf Lake"	"Canadian Natural Resources Limited"	"Wolf Lake"	"2"	""	1985-07-01
+"Primrose & Wolf Lake"	"Canadian Natural Resources Limited"	"Base Operations"	"3"	"Operating"	1987-07-01
+"Primrose & Wolf Lake"	"Canadian Natural Resources Limited"	"Primrose North"	"4"	""	2006-07-01
+"Primrose & Wolf Lake"	"Canadian Natural Resources Limited"	"Primrose East"	"5"	""	2008-07-01
+"Primrose & Wolf Lake"	"Canadian Natural Resources Limited"	"Phase 1"	"6"	"Planning"	
+"Primrose & Wolf Lake"	"Canadian Natural Resources Limited"	"Phase 2"	"7"	"Planning"	
+"Red Earth"	"Southern Pacific Resource Corp."	"Pilot"	"1"	""	2009-07-01
+"Red Earth"	"Southern Pacific Resource Corp."	"Commercial"	"3"	""	
+"Red Earth"	"Southern Pacific Resource Corp."	"Pilot Expansion"	"2"	""	
+"Sage"	"Birchwood Resources Inc."	"Pilot"	"1"	""	2015-07-01
+"Saleski"	"Husky Energy Inc."	"Carbonate Pilot"	"1"	""	2016-07-01
+"Saleski"	"Laricina Energy Ltd."	"Experimental Pilot"	"1"	""	2011-07-01
+"Saleski"	"Laricina Energy Ltd."	"Phase 1"	"2"	""	2014-07-01
+"Saleski"	"Laricina Energy Ltd."	"Phase 2"	"3"	""	2017-07-01
+"Saleski"	"Laricina Energy Ltd."	"Phase 3"	"4"	""	2020-07-01
+"Saleski"	"Laricina Energy Ltd."	"Phase 4"	"5"	""	2023-07-01
+"Saleski"	"Laricina Energy Ltd."	"Phase 5"	"6"	""	2026-07-01
+"Sawn Lake"	"Andora Energy Corporation"	"SAGD Demonstration"	"1"	""	2013-07-01
+"Sawn Lake"	"Northern Alberta Oil Ltd."	"CSS Pilot"	"1"	""	
+"Steepbank"	"Cenovus Energy Inc."	"Phase 1"	"1"	""	
+"STP McKay"	"Southern Pacific Resource Corp."	"Phase 1"	"1"	""	2012-07-01
+"STP McKay"	"Southern Pacific Resource Corp."	"Phase 2A"	"2"	""	2015-07-01
+"STP McKay"	"Southern Pacific Resource Corp."	"Phase 1 Expansion"	"3"	""	
+"STP McKay"	"Southern Pacific Resource Corp."	"Phase 2B"	"4"	""	
+"Sunrise"	"Husky Energy Inc."	"Phase 1"	"1"	""	2014-07-01
+"Sunrise"	"Husky Energy Inc."	"Phase 2"	"2"	""	2016-07-01
+"Sunrise"	"Husky Energy Inc."	"Phase 3"	"3"	""	
+"Sunrise"	"Husky Energy Inc."	"Phase 4"	"4"	""	
+"Surmont"	"ConocoPhillips Canada Limited"	"Pilot"	"1"	""	1997-07-01
+"Surmont"	"ConocoPhillips Canada Limited"	"Phase 1"	"2"	""	2007-07-01
+"Surmont"	"ConocoPhillips Canada Limited"	"Phase 2"	"3"	""	2015-07-01
+"Surmont"	"ConocoPhillips Canada Limited"	"Stage 1"	"1"	"Planning"	
+"Surmont"	"MEG Energy Corporation"	"Phase 1"	"1"	""	2018-07-01
+"Surmont"	"MEG Energy Corporation"	"Phase 2"	"2"	""	
+"Surmont"	"Total E&P Canada Ltd."	"Stage 2"	"1"	"Planning"	
+"Surmont"	"Total E&P Canada Ltd."	"Stage 3"	"3"	"Planning"	
+"Surmont"	"Total E&P Canada Ltd."	"Stage 4"	"4"	"Planning"	
+"Taiga"	"OSUM Oil Sands Corp."	"Phase 1"	"1"	""	2016-07-01
+"Taiga"	"OSUM Oil Sands Corp."	"Phase 2"	"2"	""	2017-07-01
+"Tamarack"	"Ivanhoe Energy Inc."	"Phase 1"	"1"	""	2013-07-01
+"Tamarack"	"Ivanhoe Energy Inc."	"Phase 2"	"2"	""	
+"Telephone Lake Borealis"	"Cenovus Energy Inc."	"Phase A"	"1"	""	
+"Telephone Lake Borealis"	"Cenovus Energy Inc."	"Phase B"	"2"	""	
+"Terre de Grace"	"BP p.l.c."	"Pilot"	"1"	""	
+"Thickwood"	"Sunshine Oilsands Ltd."	"A Phase 1"	"1"	""	2015-07-01
+"Thickwood"	"Sunshine Oilsands Ltd."	"A Phase 2"	"2"	""	2018-07-01
+"Thickwood"	"Sunshine Oilsands Ltd."	"B Phase 1"	"3"	""	2021-07-01
+"Trout / Christina Lake"	"Devon Canada Corporation"	"Initial"	"1"	"Under Development"	2007-07-01
+"Tucker"	"Husky Energy Inc."	"Phase 1"	"1"	""	2006-07-01
+"Tucker"	"Husky Energy Inc."	"Initial"	"2"	"Planning"	
+"Walleye"	"Devon Canada Corporation"	"Phase 1"	"1"	""	2016-07-01
+"West Ells"	"Sunshine Oilsands Ltd."	"A Phase 1"	"1"	""	2013-07-01
+"West Ells"	"Sunshine Oilsands Ltd."	"A Phase 2"	"2"	""	2014-07-01
+"West Ells"	"Sunshine Oilsands Ltd."	"A Phase 3"	"3"	""	2018-07-01
+"West Ells"	"Sunshine Oilsands Ltd."	"B Phase 1"	"4"	""	2020-07-01
+"West Ells"	"Sunshine Oilsands Ltd."	"B Phase 2"	"5"	""	
+"West Ells"	"Sunshine Oilsands Ltd."	"C Phase 1"	"6"	""	
+"West Kirby"	"Cenovus Energy Inc."	"Phase 1"	"1"	""	
+"Wildwood"	"Surmont Energy Ltd."	"Phase 1"	"1"	""	2015-07-01
+"Winefred Lake"	"Cenovus Energy Inc."	"Phase 1"	"1"	""	
+"Voyageur South"	"Suncor Energy Inc."	"Phase 1"	"1"	""	

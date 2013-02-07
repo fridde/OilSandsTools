@@ -1,0 +1,134 @@
+Main.Project.Name	Synonym.Project.Name	Project.Type	Main.Company.Name	Synonym.Company.Name	Company.Type
+Advanced TriStar	Advanced TriStar	Project	Alberta Energy Co.	Alberta Energy Co.	Company
+Algar	Algar	Project	Alberta Oilsands Inc.	Alberta Oilsands Inc.	Company
+Algar	Algar Lake	Project	Albian Sands	Albian Sands	Company
+Aspen	Aspen	Project	Anadarko Petroleum Corporation	Anadarko	Company
+Audet	Audet	Project	Andora Energy Corporation	Andora Energy Corporation	Company
+Aurora North	Aurora North	Project	Athabasca Oil Corporation	Athabasca Oil Corporation	Company
+Axe Lake	Axe Lake	Project	Baytex Energy Ltd.	Baytex Energy Ltd.	Company
+Base Operations	Base Operations	Project	Birchwood Resources Inc.	Birchwood Resources Inc.	Company
+Birch	Birch	Project	BlackPearl Resources Inc.	BlackPearl Resources Inc.	Company
+Birch	Birch Mountain	Project	BlackRock Ventures	Blackrock Ventures	Company
+Birchwood	Birchwood	Project	British Petroleum	BP p.l.c.	Company
+BlackGold	BlackGold	Project	Canadian Natural Resources Limited	Canadian Natural	Company
+Blackrod	Blackrod	Project	Canadian Natural Resources Limited	Canadian Natural Resources Limited	Company
+Blackrod	Blackrod Pilot	Project	Cavalier Energy Inc.	Cavalier Energy Inc.	Company
+Caribou	Caribou	Project	Cenovus Energy	Cenovus	Company
+Chard	Chard	Project	Cenovus Energy	Cenovus Energy	Company
+Christina Lake	Christina Lake	Project	Cenovus Energy	Cenovus Energy Inc.	Company
+Christina Lake	Christina Lake Phase 1 Pilot	Project	Chevron Canada Resources	Chevron Canada Resources	Company
+Christina Lake	Christina Lake Phase 2A	Project	Connacher Oil and Gas	Connacher Oil and Gas	Company
+Christina Lake	Christina Lake Regional Project	Project	Connacher Oil and Gas	Connacher Oil And Gas Limited	Company
+Clearwater West	Clearwater West	Project	ConocoPhillips Canada Limited	ConocoPhillips Canada Limited	Company
+Cliffdale Pilot	Cliffdale Pilot	Project	ConocoPhillips Canada Limited	ConocoPhillips Canada Resources Limited	Company
+Cold Lake	Cold Lake	Project	Deer Creek	Deer Creek	Company
+Cold Lake	Cold Lake Operations	Project	Devon Canada Corporation	Devon Canada Corporation	Company
+Dawson	Dawson	Project	Dover Operating Corp.	Dover Operating Corp.	Company
+Dover	Dover	Project	E-T Energy Ltd.	E-T Energy Ltd.	Company
+Dover West	Dover West Carbonates (Leduc)	Project	Grizzly Oil Sands Ulc	Grizzly Oil Sands Ulc	Company
+Dover West	Dover West Sands & Clastics	Project	Harvest Energy Trust	Harvest Operations Corp.	Company
+East McMurray	East McMurray	Project	Husky Energy	Husky Energy	Company
+Ells River	Ells River	Project	Husky Energy	Husky Energy Inc.	Company
+Firebag	Firebag	Project	Imperial Oil Resources Ltd	Imperial	Company
+Fort Hills	Fort Hills	Project	Imperial Oil Resources Ltd	Imperial Oil Limited	Company
+Foster Creek	Foster Creek	Project	Ivanhoe Energy, Inc.	Ivanhoe Energy Inc.	Company
+Frontier	Frontier	Project	JACOS	JACOS	Company
+Gemini	Gemini	Project	JACOS	Japan Canada Oil Sands Limited	Company
+Germain	Germain	Project	Koch Exploration Canada Corporation	Koch Exploration Canada Corporation	Company
+Great Divide	Great Divide	Project	Laricina Energy Ltd.	Laricina Energy Ltd.	Company
+Great Divide	Great Divide: Algar	Project	Marathon Oil	Marathon Oil Corporation	Company
+Great Divide	Great Divide: Pilot	Project	MEG Energy Corporation	MEG Energy Corp.	Company
+Gregoire Lake	Gregoire Lake	Project	MEG Energy Corporation	MEG Energy Corporation	Company
+Grouse	Grouse	Project	N-SOLV Corporation	N-SOLV Corporation	Company
+Hangingstone	Hangingstone	Project	Nexen	Nexen	Company
+Hangingstone	Hangingstone Pilot	Project	Nexen	Nexen Inc.	Company
+Harper	Harper	Project	Northern Alberta Oil Ltd	Northern Alberta Oil Ltd.	Company
+Hoole	Hoole	Project	Oak Point Energy Ltd.	Oak Point Energy Ltd.	Company
+Horizon	Horizon	Project	Oilsands Quest Inc	Oilsands Quest Inc.	Company
+Jackfish	Jackfish	Project	OPTI Canada	OPTI Canada	Company
+Jackpine	Jackpine	Project	OSUM Oil Sands Corp.	OSUM Oil Sands Corp.	Company
+Jackpine	Jackpine Mine	Project	PanCanadian	PanCanadian	Company
+Joslyn	Joslyn	Project	Pengrowth Energy Trust	Pengrowth Energy Corporation	Company
+Joslyn	Joslyn Creek	Project	Petro-Canada	Petro-Canada	Company
+Joslyn	Joslyn North Mine	Project	Petrobank Energy And Resources Ltd.	Petrobank Energy And Resources Ltd.	Company
+Joslyn	Joslyn South Mine	Project	Rio Alto Exploration	Rio Alto Exploration	Company
+Kai Kos Dehseh	Kai Kos Dehseh	Project	Royal Dutch Shell	Royal Dutch Shell	Company
+Kearl	Kearl	Project	Royal Dutch Shell	Royal Dutch Shell plc	Company
+Kearl	Kearl Lake	Project	Royal Dutch Shell	Shell	Company
+Kirby	Kirby	Project	Royal Dutch Shell	Shell Albian Sands	Company
+Kirby	Kirby North	Project	SilverWillow Energy Corporation	SilverWillow Energy Corporation	Company
+Kirby	Kirby South	Project	Southern Pacific Resource Corp.	Southern Pacific Resource Corp.	Company
+Legend Lake	Legend Lake	Project	Statoil	Statoil	Company
+Leismer	Leismer	Project	Suncor	Suncor	Company
+Lewis	Lewis	Project	Suncor Energy	Suncor Energy	Company
+Lindbergh	Lindbergh	Project	Suncor Energy	Suncor Energy Inc.	Company
+Lindbergh	Lindbergh Pilot	Project	Sunshine Oilsands Ltd.	Sunshine Oilsands Ltd.	Company
+Long Lake	Long Lake	Project	Surmont Energy Ltd.	Surmont Energy Ltd.	Company
+Long Lake	Long Lake/Nexen Canada Ltd. Long Lake South	Project	Syncrude	Syncrude	Company
+MacKay River	Mackay River	Project	Syncrude	Syncrude Canada Ltd.	Company
+MacKay River	MacKay River	Project	Synenco Energy	Synenco Energy	Company
+MacKay River	MacKay River Phase 1	Project	Teck Cominco	Teck Resources Limited	Company
+May River	May River	Project	Total E&P Canada Ltd.	Total E&P Canada Ltd.	Company
+McMullen	McMullen	Project	True North Energy	True North Energy	Company
+Meadow Creek	Meadow Creek	Project	Uts Energy	UTS Energy	Company
+Mildred Lake	Mildred Lake	Project	Value Creation Inc.	Value Creation Inc.	Company
+Mildred Lake/Aurora	Mildred Lake/Aurora	Project	Western Oil Sands	Western Oil Sands	Company
+Mildred Lake/Aurora	Mildred Lake/Aurora North & South	Project			Company
+Muskeg River	Muskeg River	Project			Company
+Muskeg River	Muskeg River  (Albian)	Project			Company
+Muskeg River	Muskeg River Mine	Project			Company
+Muskwa	Muskwa	Project			Company
+Narrows Lake	Narrows Lake	Project			Company
+Northern Lights	Northern Lights	Project			Company
+Orion	Orion	Project			Company
+Orion	Orion EOR	Project			Company
+Peace River	Peace River	Project			Company
+Peace River	Peace River Cadotte Lake	Project			Company
+Pelican Lake	Pelican Lake	Project			Company
+Pelican Lake	Pelican Lake Grand Rapids	Project			Company
+Pierre River	Pierre River	Project			Company
+Pike	Pike	Project			Company
+Poplar Creek	Poplar Creek	Project			Company
+Primrose & Wolf Lake	Primrose-Wolf Lake	Project			Company
+Primrose & Wolf Lake	Primrose & Wolf Lake	Project			Company
+Red Earth	Red Earth	Project			Company
+Red Earth	Red Earth CCS Pilot	Project			Company
+Red Earth	Red Earth Pilot	Project			Company
+Sage	Sage	Project			Company
+Saleski	Saleski	Project			Company
+Sawn Lake	Sawn Lake	Project			Company
+Scotford Upgrader	Scotford Upgrader	Project			Company
+Peace River	Shell Peace River	Project			Company
+Steepbank	Steepbank	Project			Company
+STP McKay	STP McKay	Project			Company
+Sunrise	Sunrise	Project			Company
+Surmont	Surmont	Project			Company
+Surmont	Surmont Pilot	Project			Company
+Taiga	Taiga	Project			Company
+Tamarack	Tamarack	Project			Company
+Telephone Lake Borealis	Telephone Lake Borealis	Project			Company
+Terre de Grace	Terre de Grace	Project			Company
+Thickwood	Thickwood	Project			Company
+Total In-Situ	Total In-Situ	Project			Company
+Total In-Situ	Total In-Situ Bitumen	Project			Company
+Total In-Situ	Total In-situ Synthetic Crude	Project			Company
+Total In-Situ, Scenario Supply Push	Total In-Situ, Scenario Supply Push	Project			Company
+Total In-Situ, Scenario Techno-Vert	Total In-Situ, Scenario Techno-Vert	Project			Company
+Total In-Situ	Total In Situ	Project			Company
+Total Mined	Total Mined Bitumen	Project			Company
+Total Mined	Total Mined Synthetic Crude	Project			Company
+Total Mined	Total Mining	Project			Company
+Total Mined plus In-Situ	Total Mining plus In-Situ	Project			Company
+Total Mined, Scenario Supply Push	Total Mining, Scenario Supply Push	Project			Company
+Total Mined, Scenario Techno-Vert	Total Mining, Scenario Techno-Vert	Project			Company
+Total	Total Oil Sands	Project			Company
+Total Upgraded	Total Oil Sands Upgraded	Project			Company
+Total Upgraded Plus Non-Upgraded	Total Oil Sands Upgraded Plus Non-Upgraded	Project			Company
+Trout / Christina Lake	Trout / Christina Lake	Project			Company
+Tucker	Tucker	Project			Company
+Walleye	Walleye	Project			Company
+West Ells	West Ells	Project			Company
+West Kirby	West Kirby	Project			Company
+Wildwood	Wildwood	Project			Company
+Winefred Lake	Winefred Lake	Project			Company
+Voyageur South	Voyageur South	Project			Company

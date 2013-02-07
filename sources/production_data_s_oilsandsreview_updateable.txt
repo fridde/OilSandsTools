@@ -1,0 +1,373 @@
+# Data Source: http://www.oilsandsreview.com/
+# This file is updateable, and can be updated at http://www.oilsandsreview.com/statistics/production.asp
+# Update by simply inserting every datatable available at the source above into this file, preferably at the end. 
+# Don't worry about creating  duplicate rows: those will be erased by the conversion-script, but "updated" rows (i.e. rows that have changed) we will treated as new rows.
+# Thus, to be sure, erase all data before entering any new
+# Please change the year in the next row when changing the data (without changing the initial words)
+Year of last change: 2012
+
+
+Oilsands Bitumen Production
+Three Months Ended March 31
+
+(Barrels Per Day)
+In Situ
+Project	Operator	2011		2012		Difference
+Cold Lake	Imperial Oil Limited	157,073		157,052		(21)
+Foster Creek	Cenovus Energy Inc.	115,488		114,428		(1,060)
+Firebag	Suncor Energy Inc.	55,180		83,600		28,420
+Primrose & Wolf Lake	Canadian Natural Resources Limited	95,665		78,902		(16,763)
+Christina Lake	Cenovus Energy Inc.	18,168		49,466		31,298
+Jackfish	Devon Canada Corporation	31,083		48,202		17,119
+Long Lake	Nexen Inc.	25,613		34,585		8,972
+MacKay River	Suncor Energy Inc.	32,073		31,015		(1,058)
+Christina Lake	MEG Energy Corporation	27,653		28,446		793
+Surmont	ConocoPhillips Canada Limited	22,426		21,810		(616)
+Kai Kos Dehseh	Statoil	3,972		16,615		12,643
+Great Divide	Connacher Oil And Gas Limited	13,198		12,452		(746)
+Tucker	Husky Energy Inc.	6,191		9,718		3,527
+Peace River	Royal Dutch Shell plc	5,049		7,687		2,638
+Hangingstone Pilot	Japan Canada Oil Sands Limited	6,608		6,672		64
+Orion	Royal Dutch Shell plc	4,171		4,766		595
+Surmont Pilot	ConocoPhillips Canada Limited	820		740		(80)
+Blackrod Pilot	BlackPearl Resources Inc.	---		241		241
+Pelican Lake Grand Rapids	Cenovus Energy Inc.	---		45		45
+Red Earth	Southern Pacific Resource Corp.	18		---		(18)
+
+Total In Situ		620,449		706,442		85,993
+
+Mining
+Project	Operator	2011		2012		Difference
+Base Operations	Suncor Energy Inc.	318,018		262,062		(55,956)
+Muskeg River	Shell Albian Sands	124,601		125,446		845
+Jackpine	Shell Albian Sands	59,911		79,029		19,118
+Horizon	Canadian Natural Resources Limited	8,605		60,184		51,579
+
+Total Mining		511,135		526,721		15,586
+
+Grand Total		1,131,584		1,233,163		101,579
+Oilsands Bitumen Production
+Three Months Ended June 30
+
+(Barrels Per Day)
+In Situ
+Project	Operator	2011		2012		Difference
+Cold Lake	Imperial Oil Limited	158,000		152,000		(6,000)
+Foster Creek	Cenovus Energy Inc.	100,746		103,480		2,734
+Firebag	Suncor Energy Inc.	56,413		95,800		39,387
+Primrose & Wolf Lake	Canadian Natural Resources Limited	104,910		94,000		(10,910)
+Christina Lake	Cenovus Energy Inc.	15,760		57,154		41,394
+Jackfish	Devon Canada Corporation	33,406		51,100		17,694
+Long Lake	Nexen Inc.	27,803		33,700		5,897
+MacKay River	Suncor Energy Inc.	29,393		32,000		2,607
+Christina Lake	MEG Energy Corporation	27,826		30,429		2,603
+Great Divide	Connacher Oil And Gas Limited	13,687		11,313		(2,374)
+Tucker	Husky Energy Inc.	6,533		9,800		3,267
+Blackrod Pilot	BlackPearl Resources Inc.	---		298		298
+Hangingstone Pilot	Japan Canada Oil Sands Limited	5,804		---		(5,804)
+Orion	Royal Dutch Shell plc	3,614		---		(3,614)
+Peace River	Royal Dutch Shell plc	3,696		---		(3,696)
+Surmont	ConocoPhillips Canada Limited	16,406		---		(16,406)
+Surmont Pilot	ConocoPhillips Canada Limited	730		---		(730)
+Poplar Creek	E-T Energy Ltd.	1		---		(1)
+Pelican Lake Grand Rapids	Cenovus Energy Inc.	4		---		(4)
+Red Earth	Southern Pacific Resource Corp.	28		---		(28)
+Kai Kos Dehseh	Statoil	8,625		---		(8,625)
+
+Total In Situ		613,385		671,074		57,689
+
+Mining
+Project	Operator	2011		2012		Difference
+Base Operations	Suncor Energy Inc.	215,942		244,500		28,558
+Horizon	Canadian Natural Resources Limited	---		131,657		131,657
+Muskeg River	Shell Albian Sands	122,819		123,585		766
+Jackpine	Shell Albian Sands	88,550		109,595		21,045
+
+Total Mining		427,311		609,337		182,026
+
+Grand Total		1,040,696		1,280,411		239,715
+Oilsands Bitumen Production
+Three Months Ended March 31
+
+(Barrels Per Day)
+In Situ
+Project	Operator	2010		2011		Difference
+Cold Lake	Imperial Oil Limited	150,560		157,073		6,513
+Foster Creek	Cenovus Energy Inc.	102,252		115,488		13,236
+Primrose & Wolf Lake	Canadian Natural Resources Limited	73,516		95,665		22,149
+Firebag	Suncor Energy Inc.	55,590		55,180		(410)
+MacKay River	Suncor Energy Inc.	31,755		32,073		318
+Jackfish	Devon Canada Corporation	27,277		31,083		3,806
+Christina Lake	MEG Energy Corporation	---		27,653		27,653
+Long Lake	Nexen Inc.	18,700		25,613		6,913
+Surmont	ConocoPhillips Canada Limited	17,392		22,426		5,034
+Christina Lake	Cenovus Energy Inc.	14,840		18,168		3,328
+Great Divide	Connacher Oil And Gas Limited	6,936		13,198		6,262
+Hangingstone Pilot	Japan Canada Oil Sands Limited	7,215		6,608		(607)
+Tucker	Husky Energy Inc.	4,224		6,191		1,967
+Peace River	Royal Dutch Shell plc	---		5,049		5,049
+Orion	Royal Dutch Shell plc	2,561		4,171		1,610
+Kai Kos Dehseh	Statoil	---		3,972		3,972
+Surmont Pilot	ConocoPhillips Canada Limited	704		820		116
+Red Earth	Southern Pacific Resource Corp.	---		18		18
+Red Earth Pilot	Southern Pacific Resource Corp.	38		---		(38)
+Peace River Cadotte Lake	Royal Dutch Shell plc	8,181		---		(8,181)
+Christina Lake Phase 1 Pilot	MEG Energy Corporation	3,149		---		(3,149)
+Christina Lake Phase 2A	MEG Energy Corporation	12,367		---		(12,367)
+
+Total In Situ		537,257		620,449		83,192
+
+Mining
+Project	Operator	2010		2011		Difference
+Base Operations	Suncor Energy Inc.	165,375		318,018		152,643
+Muskeg River	Shell Albian Sands	129,606		124,601		(5,005)
+Jackpine	Shell Albian Sands	---		59,911		59,911
+Horizon	Canadian Natural Resources Limited	106,257		8,605		(97,652)
+Mildred Lake/Aurora North & South	Syncrude Canada Ltd.	153,787		---		(153,787)
+
+Total Mining		555,025		511,135		(43,890)
+
+Grand Total		1,092,282		1,131,584		39,302
+Oilsands Bitumen Production
+Three Months Ended June 30
+
+(Barrels Per Day)
+In Situ
+Project	Operator	2010		2011		Difference
+Cold Lake	Imperial Oil Limited	141,070		158,000		16,930
+Primrose & Wolf Lake	Canadian Natural Resources Limited	87,839		104,910		17,071
+Foster Creek	Cenovus Energy Inc.	102,020		100,746		(1,274)
+Firebag	Suncor Energy Inc.	55,692		56,413		721
+Jackfish	Devon Canada Corporation	30,416		33,406		2,990
+MacKay River	Suncor Energy Inc.	32,475		29,393		(3,082)
+Christina Lake	MEG Energy Corporation	24,412		27,826		3,414
+Long Lake	Nexen Inc.	24,900		27,803		2,903
+Surmont	ConocoPhillips Canada Limited	19,824		16,406		(3,418)
+Christina Lake	Cenovus Energy Inc.	15,432		15,760		328
+Great Divide	Connacher Oil And Gas Limited	6,211		13,687		7,476
+Kai Kos Dehseh	Statoil	---		8,625		8,625
+Tucker	Husky Energy Inc.	2,801		6,533		3,732
+Hangingstone Pilot	Japan Canada Oil Sands Limited	6,730		5,804		(926)
+Peace River	Royal Dutch Shell plc	---		3,696		3,696
+Orion	Royal Dutch Shell plc	3,231		3,614		383
+Surmont Pilot	ConocoPhillips Canada Limited	696		730		34
+Red Earth	Southern Pacific Resource Corp.	---		28		28
+Pelican Lake Grand Rapids	Cenovus Energy Inc.	---		4		4
+Poplar Creek	E-T Energy Ltd.	---		1		1
+Peace River Cadotte Lake	Royal Dutch Shell plc	7,242		---		(7,242)
+Red Earth Pilot	Southern Pacific Resource Corp.	9		---		(9)
+
+Total In Situ		561,000		613,385		52,385
+
+Mining
+Project	Operator	2010		2011		Difference
+Base Operations	Suncor Energy Inc.	281,175		215,942		(65,233)
+Muskeg River	Shell Albian Sands	86,516		122,819		36,303
+Jackpine	Shell Albian Sands	---		88,550		88,550
+Horizon	Canadian Natural Resources Limited	118,988		---		(118,988)
+Mildred Lake/Aurora North & South	Syncrude Canada Ltd.	165,688		---		(165,688)
+
+Total Mining		652,367		427,311		(225,056)
+
+Grand Total		1,213,367		1,040,696		(172,671)
+Oilsands Bitumen Production
+Three Months Ended September 30
+
+(Barrels Per Day)
+In Situ
+Project	Operator	2010		2011		Difference
+Cold Lake	Imperial Oil Limited	140,388		162,325		21,937
+Foster Creek	Cenovus Energy Inc.	100,538		112,644		12,106
+Primrose & Wolf Lake	Canadian Natural Resources Limited	83,810		108,211		24,401
+Firebag	Suncor Energy Inc.	50,415		54,773		4,358
+Jackfish	Devon Canada Corporation	22,176		36,750		14,574
+MacKay River	Suncor Energy Inc.	28,823		29,031		208
+Long Lake	Nexen Inc.	26,400		28,182		1,782
+Surmont	ConocoPhillips Canada Limited	21,178		22,992		1,814
+Christina Lake	MEG Energy Corporation	19,339		20,945		1,606
+Christina Lake	Cenovus Energy Inc.	15,676		20,134		4,458
+Great Divide	Connacher Oil And Gas Limited	6,758		13,454		6,696
+Kai Kos Dehseh	Statoil	38		13,242		13,204
+Hangingstone Pilot	Japan Canada Oil Sands Limited	7,129		7,136		7
+Tucker	Husky Energy Inc.	4,108		7,060		2,952
+Peace River	Royal Dutch Shell plc	---		4,408		4,408
+Orion	Royal Dutch Shell plc	3,601		4,072		471
+Surmont Pilot	ConocoPhillips Canada Limited	804		740		(64)
+Pelican Lake Grand Rapids	Cenovus Energy Inc.	---		81		81
+Blackrod Pilot	BlackPearl Resources Inc.	---		49		49
+Poplar Creek	E-T Energy Ltd.	---		1		1
+Peace River Cadotte Lake	Royal Dutch Shell plc	6,647		---		(6,647)
+Red Earth Pilot	Southern Pacific Resource Corp.	1		---		(1)
+
+Total In Situ		537,829		646,230		108,401
+
+Mining
+Project	Operator	2010		2011		Difference
+Base Operations	Suncor Energy Inc.	304,050		318,441		14,391
+Muskeg River	Shell Albian Sands	137,455		142,756		5,301
+Jackpine	Shell Albian Sands	9,306		85,182		75,876
+Horizon	Canadian Natural Resources Limited	100,995		60,967		(40,028)
+Mildred Lake/Aurora North & South	Syncrude Canada Ltd.	126,018		---		(126,018)
+
+Total Mining		677,824		607,346		(70,478)
+
+Grand Total		1,215,653		1,253,576		37,923
+Oilsands Bitumen Production
+Three Months Ended December 31
+
+(Barrels Per Day)
+In Situ
+Project	Operator	2010		2011		Difference
+Cold Lake	Imperial Oil Limited	147,746		161,745		13,999
+Foster Creek	Cenovus Energy Inc.	104,366		110,090		5,724
+Primrose & Wolf Lake	Canadian Natural Resources Limited	101,978		76,627		(25,351)
+Firebag	Suncor Energy Inc.	52,772		71,686		18,914
+Jackfish	Devon Canada Corporation	23,376		41,238		17,862
+Christina Lake	Cenovus Energy Inc.	17,212		39,062		21,850
+Long Lake	Nexen Inc.	28,100		31,569		3,469
+Christina Lake	MEG Energy Corporation	27,744		30,032		2,288
+MacKay River	Suncor Energy Inc.	32,929		29,728		(3,201)
+Surmont	ConocoPhillips Canada Limited	22,564		21,820		(744)
+Kai Kos Dehseh	Statoil	838		14,374		13,536
+Great Divide	Connacher Oil And Gas Limited	13,238		13,173		(65)
+Tucker	Husky Energy Inc.	4,965		9,527		4,562
+Hangingstone Pilot	Japan Canada Oil Sands Limited	7,289		6,949		(340)
+Peace River Cadotte Lake	Royal Dutch Shell plc	5,461		5,925		464
+Orion	Royal Dutch Shell plc	3,900		4,266		366
+Surmont Pilot	ConocoPhillips Canada Limited	856		796		(60)
+Pelican Lake Grand Rapids	Cenovus Energy Inc.	---		186		186
+Blackrod Pilot	BlackPearl Resources Inc.	---		178		178
+Poplar Creek	E-T Energy Ltd.	---		---		---
+Red Earth Pilot	Southern Pacific Resource Corp.	---		---		---
+
+Total In Situ		595,334		668,971		73,637
+
+Mining
+Project	Operator	2010		2011		Difference
+Base Operations	Suncor Energy Inc.	321,580		299,049		(22,531)
+Muskeg River	Shell Albian Sands	73,405		119,411		46,006
+Horizon	Canadian Natural Resources Limited	112,732		119,358		6,626
+Jackpine	Shell Albian Sands	92,571		92,615		44
+Mildred Lake/Aurora North & South	Syncrude Canada Ltd.	126,018		---		(126,018)
+
+Total Mining		726,306		630,433		(95,873)
+
+Grand Total		1,321,640		1,299,404		(22,236)
+Oilsands Bitumen Production
+Twelve Months Ended December 31
+
+(Barrels Per Day)
+In Situ
+Project	Operator	2009		2010		Difference
+Cold Lake	Imperial Oil Limited	141,000		144,921		3,921
+Foster Creek	Cenovus Energy Inc.	75,450		102,294		26,844
+Primrose & Wolf Lake	Canadian Natural Resources Limited	61,735		86,851		25,116
+Firebag	Suncor Energy Inc.	49,100		53,601		4,501
+MacKay River	Suncor Energy Inc.	29,700		31,492		1,792
+Jackfish	Devon Canada Corporation	22,332		25,790		3,458
+Long Lake	Nexen Inc.	12,571		24,400		11,829
+Christina Lake	MEG Energy Corporation	---		21,257		21,257
+Surmont	ConocoPhillips Canada Limited	14,638		20,256		5,618
+Christina Lake	Cenovus Energy Inc.	13,396		15,796		2,400
+Great Divide	Connacher Oil And Gas Limited	6,274		8,299		2,025
+Hangingstone Pilot	Japan Canada Oil Sands Limited	7,382		7,026		(356)
+Peace River Cadotte Lake	Royal Dutch Shell plc	6,185		6,875		690
+Tucker	Husky Energy Inc.	3,877		4,027		150
+Orion	Royal Dutch Shell plc	2,722		3,328		606
+Surmont Pilot	ConocoPhillips Canada Limited	590		766		176
+Kai Kos Dehseh	Statoil	---		221		221
+Red Earth Pilot	Southern Pacific Resource Corp.	44		12		(32)
+Joslyn	Total E&P Canada Ltd.	561		---		(561)
+Lindbergh Pilot	Pengrowth Energy Corporation	124		---		(124)
+Christina Lake Phase 1 Pilot	MEG Energy Corporation	2,534		---		(2,534)
+Christina Lake Phase 2A	MEG Energy Corporation	924		---		(924)
+
+Total In Situ		451,139		557,212		106,073
+
+Mining
+Project	Operator	2009		2010		Difference
+Base Operations	Suncor Energy Inc.	284,450		268,650		(15,800)
+Mildred Lake/Aurora North & South	Syncrude Canada Ltd.	151,041		127,120		(23,921)
+Horizon	Canadian Natural Resources Limited	59,821		108,787		48,966
+Muskeg River	Shell Albian Sands	130,000		107,181		(22,819)
+Jackpine	Shell Albian Sands	---		25,671		25,671
+
+Total Mining		625,312		637,409		12,097
+
+Grand Total		1,076,451		1,194,621		118,170
+Oilsands Bitumen Production
+Twelve Months Ended December 31
+
+(Barrels Per Day)
+In Situ
+Project	Operator	2008		2009		Difference
+Cold Lake	Imperial Oil Limited	147,000		141,000		(6,000)
+Foster Creek	Cenovus Energy Inc.	51,894	*	75,450		23,556
+Primrose & Wolf Lake	Canadian Natural Resources Limited	61,275		61,735		460
+Firebag	Suncor Energy Inc.	37,400		49,100		11,700
+MacKay River	Suncor Energy Inc.	---		29,700		29,700
+Jackfish	Devon Canada Corporation	10,327		22,332		12,005
+Surmont	ConocoPhillips Canada Limited	11,168	*	14,638		3,470
+Christina Lake	Cenovus Energy Inc.	8,472	*	13,396		4,924
+Long Lake	Nexen Inc.	8,000		12,571		4,571
+Hangingstone Pilot	Japan Canada Oil Sands Limited	7,042		7,382		340
+Great Divide	Connacher Oil And Gas Limited	5,456		6,274		818
+Peace River Cadotte Lake	Royal Dutch Shell plc	8,782		6,185		(2,597)
+Tucker	Husky Energy Inc.	2,685		3,877		1,192
+Orion	Royal Dutch Shell plc	2,016		2,722		706
+Christina Lake Phase 1 Pilot	MEG Energy Corporation	1,372		2,534		1,162
+Christina Lake Phase 2A	MEG Energy Corporation	---		924		924
+Surmont Pilot	ConocoPhillips Canada Limited	---		590		590
+Joslyn	Total E&P Canada Ltd.	3,060		561		(2,499)
+Lindbergh Pilot	Pengrowth Energy Corporation	200		124		(76)
+Red Earth Pilot	Southern Pacific Resource Corp.	---		44		44
+MacKay River Phase 1	Suncor Energy Inc.	25,085		---		(25,085)
+
+Total In Situ		391,234		451,139		59,905
+
+Mining
+Project	Operator	2008		2009		Difference
+Base Operations	Suncor Energy Inc.	247,600		284,450		36,850
+Mildred Lake/Aurora North & South	Syncrude Canada Ltd.	192,952	*	151,041		(41,911)
+Muskeg River	Shell Albian Sands	125,000		130,000		5,000
+Horizon	Canadian Natural Resources Limited	---		59,821		59,821
+
+Total Mining		565,552		625,312		59,760
+
+Grand Total		956,786		1,076,451		119,665
+Oilsands Bitumen Production
+Twelve Months Ended December 31
+
+(Barrels Per Day)
+In Situ
+Project	Operator	2007		2008		Difference
+Cold Lake	Imperial Oil Limited	154,000		147,000		(7,000)
+Primrose & Wolf Lake	Canadian Natural Resources Limited	61,055		61,275		220
+Foster Creek	Cenovus Energy Inc.	48,524	*	51,894	*	3,370
+Firebag	Suncor Energy Inc.	36,900		37,400		500
+MacKay River Phase 1	Suncor Energy Inc.	20,300		25,085		4,785
+Surmont	ConocoPhillips Canada Limited	506	*	11,168	*	10,662
+Jackfish	Devon Canada Corporation	225		10,327		10,102
+Peace River Cadotte Lake	Royal Dutch Shell plc	9,013		8,782		(231)
+Christina Lake	Cenovus Energy Inc.	5,104	*	8,472	*	3,368
+Long Lake	Nexen Inc.	---		8,000		8,000
+Hangingstone Pilot	Japan Canada Oil Sands Limited	6,859		7,042		183
+Great Divide	Connacher Oil And Gas Limited	---		5,456		5,456
+Joslyn	Total E&P Canada Ltd.	1,276		3,060		1,784
+Tucker	Husky Energy Inc.	1,642		2,685		1,043
+Orion	Royal Dutch Shell plc	568		2,016		1,448
+Christina Lake Phase 1 Pilot	MEG Energy Corporation	---		1,372		1,372
+Lindbergh Pilot	Pengrowth Energy Corporation	---		200		200
+
+Total In Situ		345,972		391,234		45,262
+
+Mining
+Project	Operator	2007		2008		Difference
+Base Operations	Suncor Energy Inc.	257,600		247,600		(10,000)
+Mildred Lake/Aurora North & South	Syncrude Canada Ltd.	209,705	*	192,952	*	(16,753)
+Muskeg River	Shell Albian Sands	127,466	*	125,000		(2,466)
+
+Total Mining		594,771		565,552		(29,219)
+
+Grand Total		940,743		956,786		16,043
+

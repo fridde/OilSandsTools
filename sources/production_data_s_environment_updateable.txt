@@ -1,0 +1,250 @@
+# Data Source: http://environment.alberta.ca/
+# This file is updateable, and can be updated at http://environment.alberta.ca/apps/OSIPDL/Dataset/Details/45
+# Update by simply inserting every datatable available at the source above into this file, preferably at the end. 
+# Don't worry about creating  duplicate rows: those will be erased by the conversion-script 
+# Please change the year in the next row when changing the data (without changing the initial words)
+Year of last change: 2012
+
+Project	Year	Production (m3) - Bitumen
+Baytex Energy Ltd. Cliffdale Pilot	2007	1,878.00
+Baytex Energy Ltd. Cliffdale Pilot	2008	7,003.00
+Baytex Energy Ltd. Cliffdale Pilot	2009	426.00
+Baytex Energy Ltd. Cliffdale Pilot	2010	2,835.00
+Baytex Energy Ltd. Cliffdale Pilot	2011	6,756.00
+
+Project	Year	Production (m3) - Bitumen
+Baytex Energy Ltd. Cliffdale Pilot	2007	1,878.00
+Baytex Energy Ltd. Cliffdale Pilot	2008	7,003.00
+Baytex Energy Ltd. Cliffdale Pilot	2009	426.00
+Baytex Energy Ltd. Cliffdale Pilot	2010	2,835.00
+Baytex Energy Ltd. Cliffdale Pilot	2011	6,756.00
+
+Project	Year	Production (m3) - Bitumen
+BlackPearl Resources Inc. Blackrod	2011	3,311.00
+Project	Year	Production (m3) - Synthetic Crude Oil
+Canadian Natural Horizon	2009	3,033,563.00
+Canadian Natural Horizon	2010	5,341,123.00
+Canadian Natural Horizon	2011	2,350,112.00
+Project	Year	Production (m3) - Bitumen
+Canadian Natural Primrose-Wolf Lake	2002	2,121,133.00
+Canadian Natural Primrose-Wolf Lake	2003	2,030,229.00
+Canadian Natural Primrose-Wolf Lake	2004	2,394,278.00
+Canadian Natural Primrose-Wolf Lake	2005	2,935,581.00
+Canadian Natural Primrose-Wolf Lake	2006	3,471,536.00
+Canadian Natural Primrose-Wolf Lake	2007	3,543,689.00
+Canadian Natural Primrose-Wolf Lake	2008	3,565,536.00
+Canadian Natural Primrose-Wolf Lake	2009	3,579,833.00
+Canadian Natural Primrose-Wolf Lake	2010	5,038,256.00
+Canadian Natural Primrose-Wolf Lake	2011	5,588,341.00
+Project	Year	Production (m3) - Bitumen
+Cenovus Christina Lake	2002	32,404.00
+Cenovus Christina Lake	2003	133,863.00
+Cenovus Christina Lake	2004	195,898.00
+Cenovus Christina Lake	2005	174,207.00
+Cenovus Christina Lake	2006	250,127.00
+Cenovus Christina Lake	2007	240,919.00
+Cenovus Christina Lake	2008	427,750.00
+Cenovus Christina Lake	2009	772,597.00
+Cenovus Christina Lake	2010	863,690.00
+Cenovus Christina Lake	2011	1,301,984.00
+Project	Year	Production (m3) - Bitumen
+Cenovus Foster Creek	2001	21,838.00
+Cenovus Foster Creek	2002	771,912.00
+Cenovus Foster Creek	2003	1,288,785.00
+Cenovus Foster Creek	2004	1,705,871.00
+Cenovus Foster Creek	2005	1,696,103.00
+Cenovus Foster Creek	2006	2,160,568.00
+Cenovus Foster Creek	2007	2,855,078.00
+Cenovus Foster Creek	2008	3,030,634.00
+Cenovus Foster Creek	2009	4,404,410.00
+Cenovus Foster Creek	2010	5,918,953.00
+Cenovus Foster Creek	2011	6,364,997.00
+Project	Year	Production (m3) - Bitumen
+Cenovus Energy Inc. Pelican Lake	2011	3,945.00
+Project	Year	Production (m3) - Bitumen
+Connacher Oil and Gas Limited Great Divide: Algar	2010	121,777.00
+Connacher Oil and Gas Limited Great Divide: Algar	2011	394,276.00
+Project	Year	Production (m3) - Bitumen
+Connacher Oil and Gas Limited Great Divide: Pilot	2007	3,486.00
+Connacher Oil and Gas Limited Great Divide: Pilot	2008	334,871.00
+Connacher Oil and Gas Limited Great Divide: Pilot	2009	367,685.00
+Connacher Oil and Gas Limited Great Divide: Pilot	2010	394,963.00
+Connacher Oil and Gas Limited Great Divide: Pilot	2011	381,723.00
+Project	Year	Production (m3) - Bitumen
+ConocoPhillips Canada Resources Limited Surmont	2005	39,692.00
+ConocoPhillips Canada Resources Limited Surmont	2006	31,058.00
+ConocoPhillips Canada Resources Limited Surmont	2007	61,864.00
+ConocoPhillips Canada Resources Limited Surmont	2008	683,720.00
+ConocoPhillips Canada Resources Limited Surmont	2009	883,414.00
+ConocoPhillips Canada Resources Limited Surmont	2010	1,219,518.00
+ConocoPhillips Canada Resources Limited Surmont	2011	1,258,009.00
+Project	Year	Production (m3) - Bitumen
+Devon Canada Corporation Jackfish	2007	13,042.00
+Devon Canada Corporation Jackfish	2008	600,917.00
+Devon Canada Corporation Jackfish	2009	1,295,481.00
+Devon Canada Corporation Jackfish	2010	1,496,110.00
+Devon Canada Corporation Jackfish	2011	2,004,674.00
+Project	Year	Production (m3) - Bitumen
+Husky Energy Tucker	2007	95,267.00
+Husky Energy Tucker	2008	156,228.00
+Husky Energy Tucker	2009	224,907.00
+Husky Energy Tucker	2010	233,586.00
+Husky Energy Tucker	2011	425,569.00
+Project	Year	Production (m3) - Bitumen
+Imperial Cold Lake Operations	1999	7,567,755.00
+Imperial Cold Lake Operations	2000	6,896,995.00
+Imperial Cold Lake Operations	2001	7,403,450.00
+Imperial Cold Lake Operations	2002	6,468,072.00
+Imperial Cold Lake Operations	2003	7,513,195.00
+Imperial Cold Lake Operations	2004	7,320,435.00
+Imperial Cold Lake Operations	2005	8,045,893.00
+Imperial Cold Lake Operations	2006	8,789,389.00
+Imperial Cold Lake Operations	2007	8,907,724.00
+Imperial Cold Lake Operations	2008	8,530,521.00
+Imperial Cold Lake Operations	2009	8,199,320.00
+Imperial Cold Lake Operations	2010	8,406,862.00
+Imperial Cold Lake Operations	2011	9,270,344.00
+Project	Year	Production (m3) - Bitumen
+Japan Canada Oil Sands Limited Hangingstone	2002	267,945.00
+Japan Canada Oil Sands Limited Hangingstone	2003	278,405.00
+Japan Canada Oil Sands Limited Hangingstone	2004	412,313.00
+Japan Canada Oil Sands Limited Hangingstone	2005	449,314.00
+Japan Canada Oil Sands Limited Hangingstone	2006	447,027.00
+Japan Canada Oil Sands Limited Hangingstone	2007	407,811.00
+Japan Canada Oil Sands Limited Hangingstone	2008	406,591.00
+Japan Canada Oil Sands Limited Hangingstone	2009	427,023.00
+Japan Canada Oil Sands Limited Hangingstone	2010	409,117.00
+Japan Canada Oil Sands Limited Hangingstone	2011	382,397.00
+Project	Year	Production (m3) - Bitumen
+MEG Energy Corp. Christina Lake Regional Project	2008	79,810.00
+MEG Energy Corp. Christina Lake Regional Project	2009	200,596.00
+MEG Energy Corp. Christina Lake Regional Project	2010	1,219,520.00
+MEG Energy Corp. Christina Lake Regional Project	2011	1,532,028.00
+Project	Year	Production (m3) - Synthetic Crude Oil
+Nexen Canada Ltd. Long Lake/Nexen Canada Ltd. Long Lake South	2009	273,975.00
+Nexen Canada Ltd. Long Lake/Nexen Canada Ltd. Long Lake South	2010	1,283,625.00
+Nexen Canada Ltd. Long Lake/Nexen Canada Ltd. Long Lake South	2011	1,748,907.00
+Project	Year	Production (m3) - Bitumen
+Shell Orion EOR	2005	23,625.00
+Shell Orion EOR	2006	33,639.00
+Shell Orion EOR	2007	32,893.00
+Shell Orion EOR	2008	117,333.00
+Shell Orion EOR	2009	157,926.00
+Shell Orion EOR	2010	193,046.00
+Shell Orion EOR	2011	233,854.00
+Project	Year	Production (m3) - Synthetic Crude Oil
+Shell Scotford Upgrader	2003	4,460,151.00
+Shell Scotford Upgrader	2004	7,949,291.00
+Shell Scotford Upgrader	2005	9,481,214.00
+Shell Scotford Upgrader	2006	8,140,755.00
+Shell Scotford Upgrader	2007	8,277,320.00
+Shell Scotford Upgrader	2008	7,508,696.00
+Shell Scotford Upgrader	2009	8,019,537.00
+Shell Scotford Upgrader	2010	7,171,298.00
+Shell Scotford Upgrader	2011	12,297,723.00
+Project	Year	Production (m3) - Bitumen
+Shell Shell Peace River	1997	312,257.00
+Shell Shell Peace River	1998	390,356.00
+Shell Shell Peace River	1999	346,521.00
+Shell Shell Peace River	2000	247,294.00
+Shell Shell Peace River	2001	262,977.00
+Shell Shell Peace River	2002	513,610.00
+Shell Shell Peace River	2003	533,707.00
+Shell Shell Peace River	2004	468,653.00
+Shell Shell Peace River	2005	519,040.00
+Shell Shell Peace River	2006	446,108.00
+Shell Shell Peace River	2007	523,040.00
+Shell Shell Peace River	2008	511,009.00
+Shell Shell Peace River	2009	358,805.00
+Shell Shell Peace River	2010	398,800.00
+Shell Shell Peace River	2011	276,752.00
+Project	Year	Production (m3) - Bitumen
+Shell Albian Sands Jackpine Mine	2010	1,489,258.00
+Shell Albian Sands Jackpine Mine	2011	4,788,618.00
+Project	Year	Production (m3) - Bitumen
+Shell Albian Sands Muskeg River Mine	2002	34,784.00
+Shell Albian Sands Muskeg River Mine	2003	4,869,891.00
+Shell Albian Sands Muskeg River Mine	2004	8,459,705.00
+Shell Albian Sands Muskeg River Mine	2005	9,840,716.00
+Shell Albian Sands Muskeg River Mine	2006	8,457,921.00
+Shell Albian Sands Muskeg River Mine	2007	8,724,392.00
+Shell Albian Sands Muskeg River Mine	2008	7,830,752.00
+Shell Albian Sands Muskeg River Mine	2009	8,096,945.00
+Shell Albian Sands Muskeg River Mine	2010	6,217,626.00
+Shell Albian Sands Muskeg River Mine	2011	7,391,929.00
+Project	Year	Production (m3) - Bitumen
+Southern Pacific Resource Corp Red Earth CCS Pilot	2009	2,890.00
+Project	Year	Production (m3) - Bitumen
+Southern Pacific Resource Corp Red Earth CCS Pilot	2009	2,890.00
+Project	Year	Production (m3) - Bitumen
+Statoil Leismer	2010	12,420.00
+Statoil Leismer	2011	585,349.00
+Project	Year	Production (m3) - Synthetic Crude Oil
+Suncor Base Operations	1996	3,895,213.00
+Suncor Base Operations	1997	3,808,828.00
+Suncor Base Operations	1998	4,062,511.00
+Suncor Base Operations	1999	3,712,106.00
+Suncor Base Operations	2000	4,415,597.00
+Suncor Base Operations	2001	4,536,837.00
+Suncor Base Operations	2002	8,049,730.00
+Suncor Base Operations	2003	8,181,941.00
+Suncor Base Operations	2004	12,807,321.00
+Suncor Base Operations	2005	9,370,922.00
+Suncor Base Operations	2006	14,952,344.00
+Suncor Base Operations	2007	13,634,111.00
+Suncor Base Operations	2008	13,457,125.00
+Suncor Base Operations	2009	16,527,376.00
+Suncor Base Operations	2010	14,998,518.00
+Project	Year	Production (m3) - Synthetic Crude Oil
+Suncor Base Operations	2011	16,711,569.00
+Project	Year	Production (m3) - Bitumen
+Suncor Firebag	2004	639,794.00
+Suncor Firebag	2005	1,095,260.00
+Suncor Firebag	2006	1,953,479.00
+Suncor Firebag	2007	2,142,345.00
+Suncor Firebag	2008	2,185,489.00
+Suncor Firebag	2009	2,833,495.00
+Suncor Firebag	2010	3,109,399.00
+Suncor Firebag	2011	3,454,239.00
+Project	Year	Production (m3) - Bitumen
+Suncor MacKay River	2002	65,022.00
+Suncor MacKay River	2003	621,527.00
+Suncor MacKay River	2004	962,584.00
+Suncor MacKay River	2005	1,235,344.00
+Suncor MacKay River	2006	1,266,568.00
+Suncor MacKay River	2007	1,196,603.00
+Suncor MacKay River	2008	1,459,692.00
+Suncor MacKay River	2009	1,702,242.00
+Suncor MacKay River	2010	1,826,831.00
+Suncor MacKay River	2011	1,743,049.00
+Project	Year	Production (m3) - Bitumen
+Syncrude Aurora North	2000	463,492.00
+Syncrude Aurora North	2001	3,404,015.00
+Syncrude Aurora North	2002	4,267,245.00
+Syncrude Aurora North	2003	4,734,285.00
+Syncrude Aurora North	2004	8,204,447.00
+Syncrude Aurora North	2005	7,953,628.00
+Syncrude Aurora North	2006	10,705,248.00
+Syncrude Aurora North	2007	11,955,882.00
+Syncrude Aurora North	2008	10,112,451.00
+Syncrude Aurora North	2009	11,001,010.00
+Syncrude Aurora North	2010	11,366,933.00
+Syncrude Aurora North	2011	11,479,975.00
+Project	Year	Production (m3) - Synthetic Crude Oil
+Syncrude Mildred Lake	1996	11,752,449.00
+Syncrude Mildred Lake	1997	12,152,158.00
+Syncrude Mildred Lake	1998	12,321,642.00
+Syncrude Mildred Lake	1999	13,059,011.00
+Syncrude Mildred Lake	2000	11,946,067.00
+Syncrude Mildred Lake	2001	13,141,633.00
+Syncrude Mildred Lake	2002	13,537,388.00
+Syncrude Mildred Lake	2003	12,523,735.00
+Syncrude Mildred Lake	2004	14,084,477.00
+Syncrude Mildred Lake	2005	12,856,611.00
+Syncrude Mildred Lake	2006	15,073,798.00
+Syncrude Mildred Lake	2007	17,979,519.00
+Syncrude Mildred Lake	2008	17,038,028.00
+Syncrude Mildred Lake	2009	16,551,514.00
+Syncrude Mildred Lake	2010	17,315,882.00
+Project	Year	Production (m3) - Synthetic Crude Oil
+Syncrude Mildred Lake	2011	16,934,052.00

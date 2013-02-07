@@ -1,0 +1,827 @@
+# Data Source: http://www.oilsandsreview.com/
+# This file is updateable, and can be updated at http://www.oilsandsreview.com/statistics/projects.asp
+# Update by simply inserting every datatable available at the source above into this file, preferably at the end. 
+# Dont worry about creating  duplicate rows: those will be erased by the conversion-script, but updated rows (i.e. rows that have changed) we will treated as new rows.
+# Thus, to be sure, erase all data before entering any new
+# Please change the year in the following row when changing the data (without changing the initial words)
+Year of last change: 2012
+
+Athabasca Oil Corporation									
+	Birch								
+			Jul 2012:	AOS says that $26.3 million was spent on Birch in the first half of the year on its winter drilling and 3D seismic programs. These both support the filing of its regulatory application, which is anticipated by the end of 2012.					
+		Athabasca Oil Corporation (100.0%)							
+		Phase 1			Type: SAGD		12,000 bpd		Announced
+			Description:	2012 plans are to prepare a regulatory application, drilling delineation wells, water wells and acquiring approximately 50 square kilometres of 3-D seismic data. Production potential of 155,000 bbl/d.					
+	Dover West Carbonates (Leduc)								
+			Jul 2012:	AOS says testing of its TAGD technology has demonstrated proof of concept. Design basis memorandum engineering for the demonstration project is wrapping up, and engineering design specifications work has begun. Construction has started on a heater assembly facility outside of Strathmore, Alta.					
+		Athabasca Oil Corporation (100.0%)							
+		Phase 1 Demonstration			Type: TAGD	Start-up: 2015	6,000 bpd		Application
+			Description:	Regulatory application to be submitted second half of 2011. First steam possibly by 2014. Applied for regulatory approval to conduct two experimental tests. First test will use steam injection to evaluate SAGD in the Leduc and the second is a two-well conduction heating trial to assess the effectiveness of thermal assisted gravity drainage (TAGD) in the same zone.					
+		Phase 2 Demonstration			Type: TAGD		6,000 bpd		Application
+	Dover West Sands & Clastics								
+			Jul 2012:	AOS says the first round of supplemental information requests relating to its application have been received and design basis memorandum engineering is progressing.					
+		Athabasca Oil Corporation (100.0%)							
+		Phase 1			Type: SAGD	Start-up: 2015	12,000 bpd	$480 million	Application
+		Phase 2			Type: SAGD	Start-up: 2018	35,000 bpd		Announced
+			Description:	Phase two 25,000 - 40,000 bbls/d					
+		Phase 3			Type: SAGD	Start-up: 2020	35,000 bpd		Announced
+			Description:	Phase three 25,000 - 40,000 bbls/d.					
+									
+BP p.l.c.									
+	Terre de Grace								
+			May 2012:	BP says that ongoing appraisal activities include delineation drilling, seismic acquisition and appraisal of water sources.					
+		BP p.l.c. (75.0%)							
+		Value Creation Inc. (25.0%)							
+		Pilot			Type: SAGD		10,000 bpd	$4.0 billion	Approved
+			Description:	The Pilot Project will include a central processing facility that will initially be fed by up to 16 SAGD well pairs. VCI estimates that less than 65 well pairs will be required over the entire life of the Pilot Project. This facility will include steam boilers, ADCTM and USPTM units (VCI’s proprietary upgrading technology), water treatment, storage and other support & administration facilities.					
+									
+Canadian Natural Resources Limited									
+	Birch Mountain								
+			Jul 2012:	Canadian Natural says geological scoping is underway.					
+		Canadian Natural Resources Limited (100.0%)							
+		Phase 1			Type: SAGD	Start-up: 2019	60,000 bpd		Announced
+			Description:	Regulatory application to be filed 2012					
+		Phase 2			Type: SAGD	Start-up: 2023	60,000 bpd		Announced
+									
+Cenovus Energy Inc.									
+	East McMurray								
+		Cenovus Energy Inc. (100.0%)							
+		Phase 1			Type: SAGD		30,000 bpd		Announced
+			Description:	Two phases of 30,000 bbls/d planned					
+	Steepbank								
+		Cenovus Energy Inc. (100.0%)							
+		Phase 1			Type: SAGD		30,000 bpd		Announced
+	Telephone Lake Borealis								
+			May 2012:	Cenovus says it continues to search for a strategic transaction to support development of the Telephone Lake project.					
+		Cenovus Energy Inc. (100.0%)							
+		Phase A			Type: SAGD		45,000 bpd	$1.0 billion	Application
+			Description:	Cenovus is seeking regulatory approval to recover bitumen from the McMurray Formation (which is directly overlain by a layer of non-saline groundwater (top water) using SAGD and Cenovus’s patented Wedge Well™ Technology. Project cost estimated for both phases is 3 billion dollars.The project will also require additional infrastructure, all weather roads, fuel gas pipeline, a siluent supply pipeline and a produced sales pipeline.					
+		Phase B			Type: SAGD		45,000 bpd		Application
+									
+Chevron Canada Resources									
+	Ells River								
+		Chevron Canada Resources (60.0%)							
+		Royal Dutch Shell plc (20.0%)							
+		Marathon Oil Corporation (20.0%)							
+		Commercial			Type: SAGD	Start-up: 2015	100,000 bpd		On Hold
+			Description:	Chevron is looking at a range of thermal and enhanced technologies					
+									
+Dover Operating Corp.									
+	Dover								
+			Jul 2012:	The director of environmental assessment has notified the ERCB that the environmental impact assessment report for the project is complete.					
+		PetroChina International Investment Company Limited (60.0%)							
+		Athabasca Oil Corporation (40.0%)							
+		Dover North Phase 1			Type: SAGD	Start-up: 2016	50,000 bpd	$2.5 billion	Application
+			Description:	The Dover Commercial Project is now operated by Dover Operating Corp, was previously operated by Athabasca Oil Sands Corp.The project will use SAGD technology and will have an ultimate production capacity of 250,000 bbls/d for approximately 50 years. The project will be developed in phases and will include two processing facilities and multiple well pads. Additional infrastructure will include roads, pipeline to supply fuel gas, electric power line, a diluted bitumen sales pipeline and a diluent supply pipeline. Initial phase 1 production capacity 50,000 bpd. Phase 1 and 2 to be developed in Dover North and phases 3-5 in Dover South.					
+		Dover North Phase 2			Type: SAGD	Start-up: 2018	50,000 bpd		Application
+		Dover South Phase 2			Type: SAGD	Start-up: 2022	50,000 bpd		Application
+		Dover South Phase 3			Type: SAGD	Start-up: 2020	50,000 bpd		Application
+		Dover South Phase 4			Type: SAGD	Start-up: 2022	50,000 bpd		Application
+		Dover South Phase 5			Type: SAGD	Start-up: 2024	50,000 bpd		Application
+	Mackay River								
+			Apr 2012:	ERCB project approval granted January 2012. Dover OpCo says construction is underway.					
+		PetroChina International Investment Company Limited (100.0%)							
+		Phase 1			Type: SAGD	Start-up: 2014	35,000 bpd	$1.3 billion	Construction
+			Description:	The project would include one remote steam generation facility and one central processing facility consisting of steam generation, bitumen and water treatment, and vapour recovery equipment. ERCB approved waiting on environmental approval.					
+		Phase 2			Type: SAGD	Start-up: 2017	40,000 bpd		Approved
+			Description:	ERCB approval December 2011 waiting on Environmental approval.					
+		Phase 3			Type: SAGD	Start-up: 2019	40,000 bpd		Approved
+			Description:	ERCB approval December 2011 waiting on Environmental approval.					
+		Phase 4			Type: SAGD		35,000 bpd		Approved
+			Description:	ERCB approval December 2011 waiting on Environmental approval.					
+									
+E-T Energy Ltd.									
+	Poplar Creek								
+			Jun 2012:	The ERCB has released its decision on the 10,000 barrel per day project application. It says E-T has not demonstrated the technology is capable of obtaining or sustaining commercial production rates and the application is not approved. The ERCB says E-T can reapply based on more performance data, which the company says it has (the application did not include data from the current test).					
+		E-T Energy Ltd. (100.0%)							
+		Experimental Pilot			Type: ET-DSP	Start-up: 2007	1,000 bpd		Operating
+			Description:	Expanded field test underway and planning for commercial implementation of ET-DSP (Electro-Thermal Dynamic Stripping Process).					
+		Phase 1			Type: ET-DSP		10,000 bpd	$175 million	Announced
+			Description:	On June 12, 2012, the ERCB rendered a decision that based on the limited production data available to date, the ERCB was of the view that E-T Energy has not demonstrated to date that ET-DSP™ is capable of obtaining or sustaining commercial bitumen production rates. The ERCB encouraged E-T Energy to continue testing the technology and reapplying as future performance data from Step 3 demonstrates commercial viability. E-T Energy looks forward to re-filing a commercial application for the 10,000 barrel per day Commercial Project as more data becomes available. While Step 3 continues to progress, the recovery factor and the energy/oil ratio required to produce bitumen will not be established until later this year or early next year. In light of the recent decision by the ERCB, the timing of the Step 3 results, and weak capital markets, management will be considering other alternatives including a smaller project building upon the existing Step 3 Field Test surface assets.					
+		Phase 2			Type: ET-DSP		40,000 bpd	$600 million	Announced
+									
+Husky Energy Inc.									
+	Saleski								
+			Jul 2012:	Husky says evaluation work continues, as does design basis memorandum work for the pilot plant and initial field environmental monitoring. These activities will support a regulatory application.					
+		Husky Energy Inc. (100.0%)							
+		Carbonate Pilot			Type: In Situ	Start-up: 2016			Announced
+			Description:	Targeting bitumen from the Grosmont, Ireton and Nisku formations.					
+	Sunrise								
+			Jul 2012:	Husky says drilling of its planned 49 SAGD well pairs is now complete. Detailed engineering is also complete, and construction of field facilities has reached 50 per cent completion.					
+		Husky Energy Inc. (50.0%)							
+		BP p.l.c. (50.0%)							
+		Phase 1			Type: SAGD	Start-up: 2014	60,000 bpd	$2.5 billion	Construction
+			Description:	Sunrise Project, Each Phase Consisting of 60,000 bbls/d With a Design Capacity of 200,000 bbls/d, 9 Well Pads Each Containing 6 Well Pairs, Proposed Airstrip & Terminal, Camp To House 1,500 - 2,000 People, Gravel Pit, Landfill, 250 ft Commounicatiosn Tower, Fibreoptics Communications Network, Waste Treatment Facility, Steam Generation, Water De-oiling, Steam Generation, Bitumen Treating Facility, Maintenance Warehouse, operations & Control Complex, 260 kV Power Line, Pipeline Distribution System, Final Phase to Expand Central Plant Facility.					
+		Phase 2			Type: SAGD	Start-up: 2016	50,000 bpd	$1.9 billion	Approved
+		Phase 3			Type: SAGD		50,000 bpd		Approved
+		Phase 4			Type: SAGD		50,000 bpd		Approved
+									
+Imperial Oil Limited									
+	Aspen								
+		Imperial Oil Limited (100.0%)							
+		Phase 1			Type: SAGD		40,000 bpd		Announced
+			Description:	Potential 80,000 bbls/d phased SAGD or SA-SAGD development.					
+									
+Ivanhoe Energy Inc.									
+	Tamarack								
+			Jul 2012:	Ivanhoe says it has received and responded to the second round of supplemental information requests regarding its project application from the ERCB. It continues to expect approval in 2012.					
+		Ivanhoe Energy Inc. (100.0%)							
+		Phase 1			Type: SAGD	Start-up: 2013	20,000 bpd	$820 million	Application
+			Description:	Tamarack SAGD Project & Field Upgrading First Commercial Application of HTL Heavy Oil Upgrading Technology, Capacity of the Initial Phase 20,000 bbls/d, After Final Delineation Drilling in Winter of 2009 - 2010, First Production in Q4 of 2013, First Synthetic Sour Crude Production in Q2 of 2014, Design of the surface facilities is ongoing with AMEC-BDR, with completion of the Front-End Engineering and Design anticipated in the fall of 2011. Tamarack Project remains on track for approval expected in the second half of 2012.					
+		Phase 2			Type: SAGD		20,000 bpd		Application
+									
+Marathon Oil Corporation									
+	Birchwood								
+			Jul 2012:	Marathon says that based on results of completed appraisal drilling, a regulatory application will be filed in 2012.					
+		Marathon Oil Corporation (100.0%)							
+		Demonstration			Type: SAGD	Start-up: 2016	12,000 bpd	$510 million	Application
+			Description:	The Project will consist of six well pads (totalling thirty-six (36) horizontal well pairs) connected to a central processing facility (CPF). Various uncertainties and technologies will be tested as part of the SAGD in-situ extraction methods that Marathon will employ. If the SAGD performance at Birchwood meets or exceeds Marathon’s forecasts over the first two to four (2 to 4) years of operation, Marathon may decide to apply for an expanded SAGD project capable of approximately 40,000 bpd.					
+									
+Oak Point Energy Ltd.									
+	Lewis								
+		Oak Point Energy Ltd. (100.0%)							
+		Pilot			Type: SAGD	Start-up: 2013	1,720 bpd		Application
+			Description:	Project includes two production wells, two injection wells, observations wells and one well pad. Proprietary Modular Facility to include (developed by KemeX Ltd.) steam generation facilities, production (bitumen, gas and water) handling and treatment facilities, tankage, water treatment and recycle facilities, utility systems and support buildings.The life of the project is 5 years.					
+									
+SilverWillow Energy Corporation									
+	Audet								
+			Aug 2012:	SilverWillow says it is continuing the analysis of data gained from the winter field program and has initiated reservoir simulation studies and a geo-mechanical evaluation program to better assess cap rock. Tender packages for preliminary engineering of production facilities and environmental and regulatory support have been prepared, to be awarded in Q3. Regulatory application to be filed in 2013.					
+		SilverWillow Energy Corporation (100.0%)							
+		Pilot			Type: SAGD	Start-up: 2016	12,000 bpd		Announced
+			Description:	Potential future expansion to 40,000 bbls/d					
+									
+Southern Pacific Resource Corp.									
+	STP McKay								
+			Jul 2012:	Southern Pacific says steaming has begun at the STP McKay project.					
+		Southern Pacific Resource Corp. (100.0%)							
+		Phase 1			Type: SAGD	Start-up: 2012	12,000 bpd	$468 million	Operating
+			Description:	Project includes well pairs, roads, power lines, pipelines and a central processing facility. Southern Pacific plans to transport its bitumen to the U.S. Gulf Coast via the rail network.					
+		Phase 1 Expansion			Type: SAGD		6,000 bpd	$150 million	Application
+			Description:	An additional cogeneration turbine will be required to supplememnt the power demand of the expanded facilities.Approval of the Phase 1 Expansion will be incorprated into the Phase 2 approval process. Once approved construction is estimated to take nine months.					
+		Phase 2A			Type: SAGD	Start-up: 2015	12,000 bpd	$100 million	Application
+			Description:	Project includes 30 MW Cogeneration Plant, Central Processing Facility, Tankage, Water Source Wells, Steam & Product Lines, Gas Line, Powerlines, Camp and Acess Roads.					
+		Phase 2B			Type: SAGD		6,000 bpd		Application
+									
+Suncor Energy Inc.									
+	Firebag								
+			Jul 2012:	Suncor says construction of the Stage 4 expansion is 90 per cent complete. Production from Firebags combined phases is now approaching 100,000 barrels per day.					
+		Suncor Energy Inc. (100.0%)							
+		Cogeneration and Expansion			Type: SAGD	Start-up: 2007	25,000 bpd		Operating
+		Stage 1			Type: SAGD	Start-up: 2004	35,000 bpd		Operating
+			Description:	Suncor plans to integrate the in-situ project with its existing oil sands mining operation, adding up to 35,000 bbls of bitumen per day in 2004. Long-term plans call for further investments to increase in-situ production in stages to approximately 140,000 bbls of bitumen per day by the end of the decade. Peoject to cost $1 Billion including the upgrading component.					
+		Stage 2			Type: SAGD	Start-up: 2006	35,000 bpd		Operating
+		Stage 3			Type: SAGD	Start-up: 2011	62,500 bpd	$4.4 billion	Operating
+			Description:	Construction nearing completion. Began steam injection April 2011.					
+		Stage 3-6 Debottleneck			Type: SAGD		23,000 bpd		Application
+		Stage 4			Type: SAGD	Start-up: 2013	62,500 bpd	$2.0 billion	Construction
+			Description:	Project includes well pads, central plant and cogeneration facilities,.					
+		Stage 5			Type: SAGD	Start-up: 2018	62,500 bpd		Approved
+		Stage 6			Type: SAGD	Start-up: 2019	62,500 bpd		Approved
+	Lewis								
+		Suncor Energy Inc. (100.0%)							
+		Phase 1			Type: In Situ		40,000 bpd		Application
+		Phase 2			Type: In Situ		40,000 bpd		Application
+	MacKay River								
+			Jul 2012:	Suncor plans to complete routine planned maintenance at MacKay River over the end of Q3 and the start of Q4/2012.					
+		Suncor Energy Inc. (100.0%)							
+		MR2			Type: SAGD	Start-up: 2016	40,000 bpd		Application
+			Description:	Project includes construction, operation and reclamation of a new central processing facility consisting of steam generation, cogeneration, water treatment and bitumen handling facilities, and relocation of seventeen approved pads and the addition of four new pads.					
+		Phase 1			Type: SAGD	Start-up: 2002	33,000 bpd	$175 million	Operating
+									
+Sunshine Oilsands Ltd.									
+	Harper								
+			May 2012:	Sunshine says that steam cycle injection operations at Harper have proved thermally induced oil mobility.					
+		Sunshine Oilsands Ltd. (100.0%)							
+		Carbonate Pilot			Type: CSS	Start-up: 2011	1,000 bpd		Operating
+			Description:	The pilot will allow Sunshine to analyze the bitumen and determine the correct approach for carbonate development such as CSS versus SAGD and horizontal versus vertical wells.					
+	Legend Lake								
+			Aug 2012:	Sunshine says it has received a supplemental information request from the ERCB relating to the project application and will respond in the near term.					
+		Sunshine Oilsands Ltd. (100.0%)							
+		A Phase 1			Type: SAGD	Start-up: 2016	10,000 bpd	$419 million	Application
+			Description:	Planned facilities for the project include a number of wells, well pads and associated infrastructure (e.g., roads, pipeline) and a central processing facility (“CPF”). At the CPF, the bitumen will be cleaned and diluted with condensate before it is transported by trucks to market.					
+		A Phase 2			Type: SAGD		20,000 bpd		Announced
+		B Phase 1			Type: SAGD		20,000 bpd		Announced
+	Thickwood								
+			Aug 2012:	Sunshine says FEED has been initiated for the Thickwood project. The company has also submitted its responses to the ERCBs supplemental information requests relating to the project application.					
+		Sunshine Oilsands Ltd. (100.0%)							
+		A Phase 1			Type: SAGD	Start-up: 2015	10,000 bpd	$375 million	Application
+			Description:	Sunshine anticipates that over the course of the Project, at least 272 well pairs will be drilled from 34 well pads. Planned facilities for the Project include a number of wells, well pads and associated infrastructure (e.g., roads, pipeline) and a central processing facility (“CPF”). At the CPF, the bitumen will be cleaned and diluted with condensate before it is transported by trucks to market.					
+		A Phase 2			Type: SAGD	Start-up: 2018	20,000 bpd	$620 million	Announced
+			Description:	The Phase 2 Thickwood project is forecasted for completion in 2017 and will provide an additional 30,000 bbl/d of production. The company anticipates Phase 3 will add another 25,000 bbl/d of production by 2020.					
+		B Phase 1			Type: SAGD	Start-up: 2021	20,000 bpd	$620 million	Announced
+	West Ells								
+			Aug 2012:	Sunshine says constuction at West Ells is on time and on budget. The central processing facility site has been cleared, FEED is complete, all long-lead equipment has been ordered and 75% of secondary long-lead equipment has been procured. No major delays have been encountered to-date.					
+		Sunshine Oilsands Ltd. (100.0%)							
+		A Phase 1			Type: SAGD	Start-up: 2013	5,000 bpd	$480 million	Construction
+			Description:	Road access work to West Ells has now been completed, and site construction activities have commenced. First steam is targeted for Q2, 2013.					
+		A Phase 2			Type: SAGD	Start-up: 2014	5,000 bpd	$620 million	Approved
+		A Phase 3			Type: SAGD	Start-up: 2018	20,000 bpd		Announced
+		B Phase 1			Type: SAGD	Start-up: 2020	20,000 bpd		Announced
+		B Phase 2			Type: SAGD		20,000 bpd		Announced
+		C Phase 1			Type: SAGD		30,000 bpd		Announced
+									
+Total E&P Canada Ltd.									
+	Joslyn								
+		Total E&P Canada Ltd. (38.3%)							
+		Suncor Energy Inc. (36.8%)							
+		Occidental Petroleum Corporation (15.0%)							
+		Inpex Canada Limited (10.0%)							
+		Phase 1			Type: SAGD	Start-up: 2004	2,000 bpd		Suspended
+			Description:	Suspended					
+		Phase 2			Type: SAGD	Start-up: 2006	10,000 bpd		Suspended
+			Description:	Suspended					
+		Phase 3A			Type: SAGD	Start-up: 2009	15,000 bpd		Terminated
+		Phase 3B			Type: SAGD	Start-up: 2011	15,000 bpd		Terminated
+									
+South Athabasca									
+									
+									
+Alberta Oilsands Inc.									
+	Clearwater West								
+			Jun 2012:	Alberta Oilsands says it has responded to a third round of supplemental information requests from the ERCB regarding the project application. The company expects the regulator will hold a public hearing into the project due in part to its proximity to the Fort McMurray airport.					
+		Alberta Oilsands Inc. (100.0%)							
+		Phase 1 Pilot			Type: SLP-SAGD		4,350 bpd	$180 million	Application
+			Description:	Phase I will consist of an initial six SLP-SAGD well-pairs (injectors and producers), drilled from a common pad adjoining the surface facilities. The wells have planned horizontal legs of 600 metres’ length and lateral spacing of 75 metres between wellbores. Facilities will consist of one steam boiler, one diluent fractionator, six SLP-SAGD well-pairs, observation wells, water source wells and lines, bitumen/diluent blending, temporary bitumen storage tanks, electricity and natural gas service, office/control room building, vapour recovery system, extensive tiltmeter array, and various other monitoring and observation systems.					
+		Phase 2			Type: SAGD	Start-up: 2016	25,000 bpd	$1.5 billion	Announced
+			Description:	The Phase II facilities would be largely scaled-up versions of the Phase I plant design, with water recycling and similar safety and environmental protection systems as Phase I. There will also be additional well pads and satellite facilities. The overall surface footprint of facilities and well pads will remain small. Production 15,000 to 25,000 bbls/d.					
+									
+Athabasca Oil Corporation									
+	Hangingstone								
+			Jul 2012:	AOS says FEED and procurement are underway. with orders now placed for all major long-lead items needed for plant construction. Approval anticipated later in 2012.					
+		Athabasca Oil Corporation (100.0%)							
+		Phase 1			Type: SAGD	Start-up: 2014	12,000 bpd		Application
+			Description:	2012 activities include delineation drilling and D seismic.					
+		Phase 2			Type: SAGD	Start-up: 2017	35,000 bpd		Announced
+			Description:	Phase two 25,000-40,000 bbls/d.					
+		Phase 3			Type: SAGD	Start-up: 2019	35,000 bpd		Announced
+			Description:	Phase three 25,000 to 40,000 bbls/d.					
+									
+BlackPearl Resources Inc.									
+	Blackrod								
+			Aug 2012:	BlackPearl is planning to drill a second horizontal well pair at its operating pilot in the first quarter of 2013 in order to test alternative operating strategies to those that have already provided commercial production rates. The company is nearing completion of FEED for the commercial project, which will lead to the award of an EPC contract later this year.					
+		BlackPearl Resources Inc. (100.0%)							
+		Phase 1			Type: SAGD	Start-up: 2015	20,000 bpd	$350 million	Application
+			Description:	Phase 1 and 2 both have their own processing facility and associated well pads. All processing facilities will be located in one central location.					
+		Phase 2			Type: SAGD	Start-up: 2018	30,000 bpd		Application
+			Description:	Phase 2 includes installation of additional production equipment at the CPF, construction of additional well pads, access roads and associated project infrastructure to increase the bitumen productionby 30,000 bbl/d to 50,000 bbl/d.					
+		Phase 3			Type: SAGD	Start-up: 2021	30,000 bpd		Application
+			Description:	Phase 3 is seperated into a Phase 3A and 3B. Phase 3A includes the third CPF amd associated well pads and Phase 3B will consist of well pads which serve to keep the facilities running at the maximum capacity 80,000 bbl/d.					
+		Pilot			Type: SAGD	Start-up: 2011	800 bpd	$25 million	Operating
+			Description:	he pilot will provide a better understanding of reservoir performance expectations, refine operating and capital cost estimates and provide valuable information to plan full field development. Following a successful pilot test, we would begin commercial development at Blackrod. We believe Blackrod has the potential to be a 20,000-40,000 barrels of oil per day commercial project.					
+									
+Canadian Natural Resources Limited									
+	Gregoire Lake								
+			Jul 2012:	Canadian Natural says geological scoping is underway.					
+		Canadian Natural Resources Limited (100.0%)							
+		Phase 1			Type: SAGD	Start-up: 2021	40,000 bpd		Announced
+		Phase 2			Type: SAGD	Start-up: 2025	40,000 bpd		Announced
+	Grouse								
+			Aug 2012:	Canadian Natural says design basis memorandum engineering is progressing on track with completion targeted this year.					
+		Canadian Natural Resources Limited (100.0%)							
+		Commercial			Type: SAGD	Start-up: 2018	50,000 bpd	$1.53 billion	Application
+			Description:	Project includes a Central Processing Facility which includes a bitumen processing facility with a capacity of 50,000 bbls/d, Produced Water Treatment, Product Line, Power Lines and Steam Generation.					
+	Kirby North								
+			Aug 2012:	Canadian Natural says the 2012 stratigraphic test well drilling program is complete and procurement of long lead items is progressing.					
+		Canadian Natural Resources Limited (100.0%)							
+		Phase 1			Type: SAGD	Start-up: 2016	40,000 bpd		Application
+			Description:	The proposed Project will include initially 2 well pads each with 7 SAGD well pairs; a central plant to process the bitumen, produce steam and treat and recycle water; other infrastructure including fuel gas and export pipelines, saline water source, disposal wells and associated pipelines, access roads, permanent accommodation complex, temporary construction and drilling camp, and utility power.					
+		Phase 2			Type: SAGD	Start-up: 2019	40,000 bpd		Application
+	Kirby South								
+			Aug 2012:	Canadian Natural says construction of Phase 1 was 53% complete at the end of Q2 and remains on schedule. Drilling is nearing completion on the fourth of seven pads with wells confirming geological expectations.					
+		Canadian Natural Resources Limited (100.0%)							
+		Phase 1			Type: SAGD	Start-up: 2013	40,000 bpd	$1.25 billion	Construction
+			Description:	The facility will include produced water treatment capability to enable the use of recycled water for steam generation in the SAGD process, construction of a centralized steam generation plant. Natural gas purchased from a third party will be used as the main fuel; it will be mixed with produced gas as fuel for the steam generators. Development and/or improvement of associated infrastructure, including access roads, power and pipelines (to carry steam to well pads, bitumen/water emulsion from the well pads to the processing facility, deliver diluent to the plant, and transport the diluted bitumen to upgrading facilities and markets). A number of diluted bitumen storage tanks will be located on-site.					
+		Phase 2			Type: SAGD	Start-up: 2020	20,000 bpd		Application
+			Description:	Phase two regulatory application to be filed in 2011.					
+	Leismer								
+		Canadian Natural Resources Limited (100.0%)							
+		Commercial			Type: In Situ	Start-up: 2020	30,000 bpd		Announced
+									
+Cavalier Energy Inc.									
+	Hoole								
+			Aug 2012:	Cavalier says it remains on schedule to submit the regulatory application for Hooles first phase in the fourth quarter of 2012.					
+		Cavalier Energy Inc. (100.0%)							
+		Phase 1			Type: SAGD	Start-up: 2015	10,000 bpd	$700 million	Announced
+			Description:	Paramount plans to submit an application for the commercial development of the Hoole Grand Rapids resource to the ERCB and to Alberta Environment in 2012. The Company will continue to finalize its plans for the initial development of the Hoole property and complete the engineering design and environmental impact analysis for the project with a view to submitting a regulatory application for commercial development of the resource by the end of 2012.					
+		Phase 2			Type: SAGD		30,000 bpd		Announced
+		Phase 3			Type: SAGD		30,000 bpd		Announced
+		Phase 4			Type: SAGD		30,000 bpd		Announced
+									
+Cenovus Energy Inc.									
+	Christina Lake								
+			Jul 2012:	Cenovus says it has commissioned more than 90 per cent of the Phase D plant and expects first production in Q3. Construction of Phase E is more than 50 per cent complete, with initial production expected in Q3/2013. Site preparation continues for Phase F. Phase H capacity has been increased from 40,000 to 50,000 barrels per day due to the addition of a fifth steam generator that will incorporate boiler blowdown technology.					
+		ConocoPhillips Canada Limited (50.0%)							
+		Cenovus Energy Inc. (50.0%)							
+		Phase 1A			Type: SAGD	Start-up: 2002	10,000 bpd		Operating
+		Phase 1B			Type: SAGD	Start-up: 2008	8,800 bpd		Operating
+		Phase C			Type: SAGD	Start-up: 2011	40,000 bpd	$800 million	Operating
+		Phase D			Type: SAGD	Start-up: 2012	40,000 bpd		Operating
+		Phase E			Type: SAGD	Start-up: 2013	40,000 bpd	$2.7 billion	Construction
+		Phase F			Type: SAGD	Start-up: 2016	50,000 bpd		Approved
+			Description:	Site preparation underway.					
+		Phase G			Type: SAGD	Start-up: 2017	50,000 bpd		Approved
+		Phase H			Type: SAGD	Start-up: 2019	50,000 bpd		Announced
+			Description:	The project will be integrated into the current Christina Lake central plant site and will require other related infrastructure projects including electrical power lines, fuel gas pipelines and oil transportation pipelines.					
+	Foster Creek								
+			Jul 2012:	Cenovus says fabrication and facility construction for Phase F is more than 50 per cent complete. Earthworks and site preparation are also underway for Phase G and design engineering for Phase H. Alberta regulators have issued the final terms of reference for Phase J.					
+		ConocoPhillips Canada Limited (50.0%)							
+		Cenovus Energy Inc. (50.0%)							
+		Phase A			Type: SAGD	Start-up: 2001	24,000 bpd		Operating
+		Phase B Debottleneck			Type: SAGD	Start-up: 2003	6,000 bpd		Operating
+		Phase C Stage 1			Type: SAGD	Start-up: 2005	10,000 bpd		Operating
+		Phase C Stage 2			Type: SAGD	Start-up: 2007	20,000 bpd		Operating
+		Phase D			Type: SAGD	Start-up: 2009	30,000 bpd		Operating
+		Phase E			Type: SAGD	Start-up: 2009	30,000 bpd		Operating
+		Phase F			Type: SAGD	Start-up: 2014	45,000 bpd	$2.0 billion	Construction
+			Description:	Regulatory approval received for phases F, G and H.					
+		Phase G			Type: SAGD	Start-up: 2015	40,000 bpd		Approved
+		Phase H			Type: SAGD	Start-up: 2016	40,000 bpd		Approved
+		Phase J			Type: SAGD	Start-up: 2019	50,000 bpd		Announced
+			Description:	The proposed Project is an expansion of the existing Cenovus Foster Creek SAGD operation and is expected to have a production capacity of 55,000 bbls/d, increasing the total approved production to 295,000 bbls/d. The Phase J project involves optimization of the existing Central Processing Facilities (CPFs) and will not require the construction of a new CPF. Other infrastructure required for the Project includes additional well pads and associated shared infrastructure such as pipelines, roads and power lines.					
+	Narrows Lake								
+			Jun 2012:	Narrows Lake regulatory approval granted in late May. Sanction by partners Cenovus and ConocoPhillips Canada anticipated later this year.					
+		ConocoPhillips Canada Limited (50.0%)							
+		Cenovus Energy Inc. (50.0%)							
+		Phase 1			Type: SAP-SAGD	Start-up: 2017	45,000 bpd	$1.6 billion	Approved
+			Description:	The Project is expected to have a production capacity of 130,000 barrels of oil per day, up to three phases and a project life of up to 40 years. The Project may require other related infrastructure projects including electrical power lines, fuel gas pipelines, diluent supply pipelines, produced oil pipelines and salt caverns for potential storage of solvent, diluent or produced oil. Pipelines and/or rail are being studied for solvent transportation. These related projects will be applied for separately, as appropriate.					
+		Phase 2			Type: SAP-SAGD		45,000 bpd		Approved
+		Phase 3			Type: SAP-SAGD		40,000 bpd		Approved
+	Pelican Lake Grand Rapids								
+			Jul 2012:	While regulators review the commercial application, Cenovus continues development work at its pilot. It is currently installing a third steam generator, and anticipates steam injection at its second well pair to start in Q3/2012.					
+		Cenovus Energy Inc. (100.0%)							
+		Phase A			Type: SAP-SAGD	Start-up: 2017	60,000 bpd		Application
+			Description:	Once the SAGD operation is established plans are to incorporate co-injection of light hydrocarbons, referred to as Solvent Aided Process (SAP) where economically feasible. Project to include central processing, an estimated number of five initial well pads and 100 initial well pairs will be operating within 12 months of operations start up; an estimated total of 200 well pads supporting up to 3,700 well pairs over the life of the Project; roads and pipelines required to operate the wells and transport the oil to the central processing site; and up to six disposal wells.					
+		Phase B			Type: SAP-SAGD		60,000 bpd		Application
+		Phase C			Type: SAP-SAGD		60,000 bpd		Application
+		Pilot			Type: SAGD	Start-up: 2011	600 bpd		Operating
+			Description:	ERCB approval was received to proceed with a single well pair SAGD pilot in the Grand Rapids. Received ERCB approval June 2010 and AENV approval November 2010.					
+	West Kirby								
+		Cenovus Energy Inc. (50.0%)							
+		Phase 1			Type: SAGD		30,000 bpd		Announced
+			Description:	Two potential phases each 30,000 bbls/d					
+	Winefred Lake								
+		Cenovus Energy Inc. (50.0%)							
+		Phase 1			Type: SAGD		30,000 bpd		Announced
+			Description:	Two potential phases of 30,000 bbls/d					
+									
+Connacher Oil And Gas Limited									
+	Algar								
+			Jul 2012:	Connacher reports that, with its budget constrained for 2012, operational activities include increasing netbacks by reducing operating costs and increasing realized bitumen prices, maintaining production within its announced guidance, de-risking and preparing various short-term projects for bitumen production increases, and improving production with technology innovations such as SAGD+ at Algar and gas re-injection at Great Divide. The companys strategic review process continues.					
+		Connacher Oil And Gas Limited (100.0%)							
+		Pod 2			Type: SAGD	Start-up: 2010	10,000 bpd	$326 million	Operating
+	Great Divide								
+			Jun 2012:	Connacher reports that, with its budget constrained for 2012, operational activities include increasing netbacks by reducing operating costs and increasing realized bitumen prices, maintaining production within its announced guidance, de-risking and preparing various short-term projects for bitumen production increases, and improving production with technology innovations such as SAGD+ at Algar and gas re-injection at Great Divide. The companys strategic review process continues.					
+		Connacher Oil And Gas Limited (100.0%)							
+		Expansion 1A			Type: SAGD	Start-up: 2014	12,000 bpd	$600 million	Application
+		Expansion 1B			Type: SAGD	Start-up: 2016	12,000 bpd		Application
+		Pod 1			Type: SAGD	Start-up: 2007	10,000 bpd	$200 million	Operating
+									
+ConocoPhillips Canada Limited									
+	Surmont								
+			Jul 2012:	ConocoPhillips Canada says engineering is 90 per cent complete on its Surmont 2 expansion.					
+		ConocoPhillips Canada Limited (50.0%)							
+		Total E&P Canada Ltd. (50.0%)							
+		Phase 1			Type: SAGD	Start-up: 2007	27,000 bpd	$1.4 billion	Operating
+			Description:	Additional drilling planned for 2012 and continue to convert the activation method on the existing wells from gas lift to electric submersible pump (ESP) in order to improve production.					
+		Phase 2			Type: SAGD	Start-up: 2015	109,000 bpd	$2.49 billion	Construction
+			Description:	Roughly 100 steam assisted gravity drainage (SAGD) well pairs will be drilled to achieve annual average output of 83,000 bbls of bitumen.Operations to start in 2014 and then first production will be early in 2015 or late 2014,					
+		Pilot			Type: SAGD	Start-up: 1997	1,200 bpd		Operating
+									
+Devon Canada Corporation									
+	Jackfish								
+			Jul 2012:	Devon says construction of the Jackfish 3 project is now approximately 40 per cent complete.					
+		Devon Canada Corporation (100.0%)							
+		Phase 1			Type: SAGD	Start-up: 2007	35,000 bpd	$650 million	Operating
+			Description:	Phase 1 - Extract 35,000 bpd					
+		Phase 2			Type: SAGD	Start-up: 2011	35,000 bpd	$1.05 billion	Operating
+			Description:	Will commence steam injection in the second quarter of 2011.					
+		Phase 3			Type: SAGD	Start-up: 2015	35,000 bpd	$1.2 billion	Construction
+			Description:	A third facility capable of producing an additional 35,000 bpd for over 20 years using SAGD technology. Project will include a Central Processing Facility, 19 new well pads, pipelines, roads and power lines.					
+	Pike								
+			Jul 2012:	Devon filed the regulatory application for all three phases of the Pike project in June. The company says facility construction and SAGD drilling for the first phase will begin in late 2013 or early 2014, pending corporate approvals.The company has also submitted its environmental impact assessment report for the project.					
+		Devon Canada Corporation (50.0%)							
+		BP p.l.c. (50.0%)							
+		1A			Type: SAGD	Start-up: 2016	35,000 bpd		Application
+			Description:	The Project as proposed includes a Central Processing Facility (CPF) consisting of multiple phases, well pads, source water and disposal well sites, pipelines, roads and power lines. The Project is expected to produce approximately 109,000 barrels per day (bpd) of bitumen.					
+		1B			Type: SAGD	Start-up: 2017	35,000 bpd		Application
+		1C			Type: SAGD	Start-up: 2018	35,000 bpd		Application
+									
+Grizzly Oil Sands Ulc									
+	Algar Lake								
+			Jul 2012:	Road, plant and civil site construction expected to be complete imminently. SAGD well pair drilling and completions scheduled to be complete in Q3, with in-field plant assembly complete in Q4. Commissioning to be complete and steam circulation initiated in Q1/2013.					
+		Grizzly Oil Sands Ulc (75.0%)							
+		Gulfport Energy Corporation (25.0%)							
+		Phase 1			Type: SAGD	Start-up: 2013	5,650 bpd	$220 million	Construction
+			Description:	The Algar Lake Project involves the drilling of SAGD production wells and the construction of a facility capable of producing 11,300 barrels a day of bitumen. Plans are to develop in two phases each phase consisting of 5,000 - 6,000 bbls/d at a cost of $120 million per phase. The project will consisting of two plant phases and 40 well pairs on four well pads. Grizzly plans to deploy its Advanced, Relocatable, Modular, Standardized (ARMS) Development Model					
+		Phase 2			Type: In Situ	Start-up: 2014	5,650 bpd	$185 million	Approved
+			Description:	Each plant phase is designed to operate at an average capacity of 5,000 - 6,000 bbls per day. Upon approval, Grizzly intends to construct the first phase consisting of one modular central processing facility (CPF), 10 well pairs on one well pad, and associated roads and pipelines. As proposed, the second plant phase, to be developed two years subsequent to approval, will include a second modular CPF and an additional 10 well pairs on one well pad.					
+	May River								
+			Jul 2012:	Grizzly plans to submit a new regulatory application using its SAGD development model at May River in mid-2013.					
+		Grizzly Oil Sands Ulc (100.0%)							
+		Phase 1			Type: SAGD	Start-up: 2013	10,000 bpd	$250 million	Application
+			Description:	The May River Project will consist of an initial phase with a production capacity of between 10,000 partially upgraded bitumen. This will be followed by additional phases to aggressively build production to 100,000 bbl/d. The facility development concept is based on a single central processing ‘hub and spoke’ configuration with production pads located over the McMurray channel.The central processing facility (CPF) is also planned to incorporate leading edge technology to produce a high-quality water by-product for industrial use, utilize oxygen enriched injection air, recover hydrocarbons from the produced gas stream and manage greenhouse gases.					
+		Subsequent Phases			Type: SAGD		90,000 bpd		Disclosed
+									
+Harvest Operations Corp.									
+	BlackGold								
+			Jul 2012:	Harvest expects approval for its 20,000 barrel per day Phase 2 at BlackGold this year.					
+		Harvest Operations Corp. (100.0%)							
+		Phase 1			Type: SAGD	Start-up: 2014	10,000 bpd	$500 million	Construction
+			Description:	Company currently anticipates approximately 18 horizontal well pairs, drilled directionally from three well pads for the first phase. Over the life of the Project 52 well pairs will be drilled from 9 pads. Central corridors with pipelines and access roads will connect the well pads to the Central Processing Facility (CPF). The CPF will include: bitumen/water/gas separation; water de-oiling; water recycle/treating; steam generation, bitumen and diluent storage, and a pipeline transportation system. Other systems such as fuel gas, flare and drain, instrument air, power distribution, office and infrastructure also will be integrated into the CPF and well pads. GS Engineering & Construction Corp. has been awarded the contract to build the BlackGold Phase One project.					
+		Phase 2			Type: SAGD		20,000 bpd	$540 million	Application
+			Description:	Phase Two includes Central Processing Facilities, Powerline, Tankage, Saline Water Source Wells, Distribution and Gathering Lines					
+									
+Husky Energy Inc.									
+	McMullen								
+			Jul 2012:	Husky says that during Q2 eight slant wells that were drilled in late 2011 were put on cold production. Drilling operations for 32 further slant wells began in June. At the air injection pilot, the reservoir process is proceeding with production start-up anticipated in Q3.					
+		Husky Energy Inc. (100.0%)							
+		Air Injection Pilot-Experimental			Type: Air injection	Start-up: 2012	755 bpd	$15 million	Construction
+			Description:	Husky is seeking approval for the McMullen Thermal Conduction Pilot Project, utilizing the concept of air injection and in-situ combustion as a thermal recovery process to conduct heat downward from the depleted gas zone to the underlying bitumen in order to mobilize the heavy oil for production.The Project will provide valuable technical information to demonstrate the effectiveness of the Thermal Conduction Process in the Project area and to determine potential commercial viability. The Project is expected to have a life of 8 years.					
+									
+Japan Canada Oil Sands Limited									
+	Hangingstone								
+			Aug 2012:	The director of environmental assessment has notified the ERCB that the environmental impact assessment for the expansion project is complete. JACOS owner Japan Petroleum Exploration says it will make a final investment decision by the end of this year, pending approvals from Alberta regulators.					
+		Japan Canada Oil Sands Limited (75.0%)							
+		Nexen Inc. (25.0%)							
+		Expansion			Type: SAGD	Start-up: 2016	35,000 bpd	$1.7 billion	Application
+			Description:	JACOS has applied to construct, operate, and reclaim an in situ oil sands project. The Expansion Project would produce up to 35,000 bbls/d of bitumen at peak production using the steam assisted gravity drainage recovery process. The Expansion Project would include the construction of associated facilities, thermal injection wells, production wells, utilities, and infrastructure. About 26 well pads and a central processing facility would be required over the Expansion Project’s expected 25-year operation. Construction is proposed begin in the winter of 2011/2012, with first production by 2014. The Expansion Project would be located adjacent to the existing JACOS Hangingstone Demonstration Project. Approval anticipated Q3 2011.					
+	Hangingstone Pilot								
+		Japan Canada Oil Sands Limited (100.0%)							
+		Pilot			Type: SAGD	Start-up: 1999	11,000 bpd		Operating
+			Description:	Demonstration project started production in 1999 and has a projected 25 year lifespan.Currently producing 7,500 bbls/d.					
+									
+Koch Exploration Canada Corporation									
+	Muskwa								
+			Jun 2012:	Kochs Canadian subsidiaries are seeking a strategic investor to advance development and monetize certain oilsands interests including the Muskwa asset.					
+		Koch Exploration Canada Corporation (100.0%)							
+		Pilot			Type: SAGD	Start-up: 2015	10,000 bpd		Application
+			Description:	The Project will consist of a central processing facility (CPF) designed for a bitumen production capacity up to 10,000 bpd, as well as 18 SAGD well pads. The CPF will include two modular processing facilities (MPF 1 and MPF 2) each designed for a bitumen production capacity up to 5,000 bpd. Installation and commissioning of MPF 1 will occur prior to commencing the construction of MPF 2. Produced bitumen blended with diluent (dil-bit) will be delivered to a point of sale by truck.					
+									
+Laricina Energy Ltd.									
+	Germain								
+			Aug 2012:	Laricina says detailed engineering is essentially complete, 28 of 77 modules have been installed on site, approximately 50 per cent of modules are under fabrication, and regulatory consultation for the 150,000 barrel per day expansion continues as planned.					
+		Laricina Energy Ltd. (96.0%)							
+		Phase 1 CDP			Type: SC-SAGD	Start-up: 2013	5,000 bpd	$435 million	Construction
+			Description:	The Germain pilot would consist of: a central processing facility; a single well pad with 10 SAGD well pairs, electrical substation, utility corridor including roads, gathering lines and power lines, associated infrastructure such as storage tanks, surface run-off pond, flow lines and construction and operations camps. The thermal recovery techniques to be used are SAGD and Solvent-Cyclic Steam Assisted Gravity Drainage (SC-SAGD).					
+		Phase 2			Type: SC-SAGD	Start-up: 2015	30,000 bpd	$1.5 billion	Application
+			Description:	Project will consist of a CPF, infrastructure and well pads. Laricina plans to utilize either SC-SAGD or SAGD technology in Phase 2 of the Project. Pending approvals, construction of Phase 2 will initially require 60 well pairs on six pads for Phase 2 SCSAGD-3.3 operations or 38 well pairs on four well pads for Phase 2 SC-SAGD-2.2 operations, and will commence in 2013.					
+		Phase 3			Type: SC-SAGD		60,000 bpd		Application
+			Description:	Construction of the Phase 3 CPF and initial development of nine well pads, with the drilling of 100 SC-SAGD well pairs, will commence in 2016. Laricina is proposing the construction of additional camp to the northeast of the Phase 3 and 4 CPFs at SE12-85-22 W4M.					
+		Phase 4			Type: SC-SAGD		60,000 bpd		Application
+			Description:	Construction of the Phase 4 CPF and initial development of five well pads, with the drilling of 100 SC-SAGD well pairs, will commence in 2020.					
+	Saleski								
+			Aug 2012:	Laricina says testing on its latest well pair at Saleski has resulted in greatest bitumen production achieved to-date at 1,200 barrels per day. The company says it is now in the final stages of proving commerciality of SAGD in bitumen carbonates. It also says it is now considering incorporating cyclic steam stimulation (CSS) into the 10,700 barrel per day project application.					
+		Laricina Energy Ltd. (60.0%)							
+		OSUM Oil Sands Corp. (40.0%)							
+		Experimental Pilot			Type: SAGD	Start-up: 2011	1,800 bpd	$45 million	Operating
+			Description:	The Saleski Pilot consists of: a small pilot plant central processing facility; a single well pad with three SAGD well pairs; an access corridor, borrow pits, camp site, sumps and source water and disposal wells; and a storm water retention pond. Convert wells to SC-SAGD Q3/Q4 2012.					
+		Phase 1			Type: SC-SAGD	Start-up: 2014	10,700 bpd	$660 million	Application
+		Phase 2			Type: In Situ	Start-up: 2017	10,700 bpd		Announced
+		Phase 3			Type: In Situ	Start-up: 2020	60,000 bpd		Announced
+		Phase 4			Type: In Situ	Start-up: 2023	60,000 bpd		Announced
+		Phase 5			Type: In Situ	Start-up: 2026	60,000 bpd		Announced
+									
+MEG Energy Corporation									
+	Christina Lake								
+			Jul 2012:	As of June 2012, MEG says detailed engineering on the Phase 2B expansion is 99 per cent complete, and over 100 of 140 modules have been installed, with the remainder expected to be complete in 2012. All materials have been ordered, with delivery and on-site construction expected to be complete in 2013. Approximately 60 per cent of the horizontal wells for the 42 SAGD well pairs have been drilled.					
+		MEG Energy Corporation (100.0%)							
+		Phase 1 Pilot			Type: SAGD	Start-up: 2008	3,000 bpd		Operating
+			Description:	Production commenced April 2008. Now integrated with Phase 2 for a total capacity of 25,000 bbls/d.					
+		Phase 2A			Type: SAGD	Start-up: 2009	22,000 bpd		Operating
+			Description:	Phase 1 Pilot Plant of 3,000 bbls/d now integrated with the 22,000 bbl/d Phase 2 project with a production capacity totaling 25,000 bbls/d of bitumen.					
+		Phase 2B			Type: SAGD	Start-up: 2013	35,000 bpd	$1.4 billion	Construction
+			Description:	MEG plans to commence site construction in early 2011. First steam 2013 with production of bitumen three months after first steam and will ramp-up to their designed production capacity within 12-18 months of first steam. The current design and cost estimate for Phase 2B is based on an SOR of 2.8.					
+		Phase 3A			Type: SAGD	Start-up: 2016	50,000 bpd	$500 million	Approved
+			Description:	The Christina Lake expansion would include two new processing facilities consisting of steam generation, bitumen and water treatment, and vapour recovery equipment in the production of an additional 150,000 bbls per day of bitumen. Multiple horizontal SAGD well pairs would be drilled from 138 pads for bitumen production and steam injection, and associated pumping stations.					
+		Phase 3B			Type: SAGD	Start-up: 2018	50,000 bpd		Approved
+			Description:	To satisfy the second ERCB condition with respect to the Phase 3B development area, the MOP study MEG is to provide the results of mini-frac tests and the analysis to be conducted on the Wabiskaw-McMurray reservoir and overlying Clearwater caprock in the Phase 3B development area.					
+		Phase 3C			Type: SAGD	Start-up: 2020	50,000 bpd		Approved
+			Description:	First steam 2020 with production of bitumen three months after first steam and will ramp-up to their designed production capacity within 12-18 months of first steam.					
+	Surmont								
+			Jul 2012:	The final terms of referece for the environmental impact assessment report for the Surmont project have been issued by Alberta Environment.					
+		MEG Energy Corporation (100.0%)							
+		Phase 1			Type: SAGD	Start-up: 2018	60,000 bpd		Announced
+			Description:	The project will consist of multi-well production pads, a Central Processing Facility which includes water treatment and recycling, steam generation, cogeneration, bitumen treating and sulphur recovery.					
+		Phase 2			Type: SAGD		60,000 bpd		Announced
+									
+N-SOLV Corporation									
+	Dover								
+			Jun 2012:	Reports are that first results from a $60 million N-Solv field test are expected in spring 2013.					
+		N-SOLV Corporation (100.0%)							
+		Demonstration Plant			Type: Bitumen Extraction Solvent Techn	Start-up: 2012	500 bpd	$50 million	Announced
+			Description:	N-Solv will drill and complete a 300 metre producer and injector well pair, and complete final engineering and construction of a supporting 500 barrel per day surface facility located at the Suncor Energy Dover oil sands facility. The project is a collaboration between N-Solv, Hatch Ltd, Suncor Energy, Enbridge and Bay International.					
+									
+Nexen Inc.									
+	Long Lake								
+			Jul 2012:	Nexen says it has achieved first production from pad 12 at Long Lake and began steaming pad 13 ahead of expectations. The company says a major turnaround commencing in mid-August will result in lower Q3 production.					
+		Nexen Inc. (65.0%)							
+		CNOOC Limited (35.0%)							
+		Long Lake South (Kinosis) Phase 1			Type: SAGD		40,000 bpd		Approved
+			Description:	Undergoing engineering to begin construction of the next phase of SAGD around 2012					
+		Long Lake South (Kinosis) Phase 2			Type: SAGD		40,000 bpd		Approved
+		Phase 1			Type: SAGD	Start-up: 2008	72,000 bpd	$6.1 billion	Operating
+			Description:	The Project Will Use SAGD Technology To Extract The Bitumen and Incorporate OPTI Canadas Patented Or-crude Upgrading Technology Along with Hydrocracking and Gasification Process to Produce Light Sweet Synthetic Oil, The Process Involves an Asphaltine Waste Similar to Coke That Can Be Fed Into a Gasifier, Producing Syngas, Long Lake SAGD Project Will Use a Combination of Brackish and Potable Water From The Start-up, The objective of the Long Lake South project is to recover approximately 140,000 barrels per day (b/d) of bitumen in two phases of 70,000 b/d each. The project will include central processing facilities (steam generation, production processing, water treatment and recycling and cogeneration)					
+		Phase 2			Type: SAGD		72,000 bpd		Approved
+			Description:	Phase Two Project Named Kinosis Located At The South End Of Long Lake, Upgrader Facilities To Be Built Adjacent To That Of Phase One, Application For The SAGD Portion Of Phase Two Has Regulatory Approval For Up To 140,000 bbls/d of Bitumen Production and May Be Built In Stages of 40,000 bbls/d.					
+		Phase 3			Type: SAGD		72,000 bpd		Application
+		Phase 4			Type: SAGD		72,000 bpd		Announced
+									
+Statoil									
+	Kai Kos Dehseh								
+			Jun 2012:	Statoil says its next projects will be an expansion to Leismer, and the Corner project. Corner will be sanctioned late in 2013 or early in 2014.					
+		Statoil (60.0%)							
+		PTT Exploration and Production (40.0%)							
+		Corner			Type: SAGD	Start-up: 2017	40,000 bpd		Approved
+		Corner Expansion			Type: SAGD		40,000 bpd		Application
+		Hangingstone			Type: SAGD		20,000 bpd		Application
+		Leismer Commercial			Type: SAGD		10,000 bpd		Approved
+		Leismer Demonstration			Type: SAGD	Start-up: 2010	10,000 bpd	$300 million	Operating
+			Description:	The Kai Kos Dehseh Project will include expansion of the Leismer Demonstration Project with development of the Leismer and Corner operating hubs, thereby increasing production by approximately 11,000 cubic metres (70,000 barrels) per day of bitumen. These operating hubs will include central processing facilities, SAGD wells and additional infrastructure. The Leismer hubs will be located adjacent to North American’s Leismer Demonstration Project located in Section 2, Township 79, Range 10, W4M. The Corner operating hubs will be located in Section 31, Township 80, Range 8, W4M. Following these developments, North American expects to expand the Project with a series of added hubs in the Hangingstone, Corner and Thornbury areas for an additional 22,000 cubic metres (140,000 barrels) per day of bitumen.					
+		Leismer Expansion			Type: SAGD		20,000 bpd		Approved
+		Leismer Northwest			Type: SAGD		20,000 bpd		Application
+		Leismer South			Type: SAGD		20,000 bpd		Application
+		Thornbury			Type: SAGD		40,000 bpd		Application
+		Thornbury Expansion			Type: SAGD		20,000 bpd		Application
+									
+Suncor Energy Inc.									
+	Chard								
+		Suncor Energy Inc. (100.0%)							
+		Phase 1			Type: In Situ		40,000 bpd		Announced
+	Meadow Creek								
+		Suncor Energy Inc. (75.0%)							
+		Nexen Inc. (25.0%)							
+		Phase 1			Type: SAGD		40,000 bpd		Approved
+			Description:	Project includes well pads and interconnecting pipelines. Multiple wells will be drilled from the well pads in order to reduce surface disturbance. Each pad site will include well control and monitoring equipment. Approximately forty well pairs would be drilled initially for the first three years of operation. A central corridor of pipelines and access roads will connect the well pads to the central processing facilities.The central processing facilities consist of a diluent bitumen processing plant, a water treatment system, a sulphur removal unit, a water supply /disposal system, and possibly a cogeneration unit combined with gas fired steam boilers, and other utility systems.					
+		Phase 2			Type: SAGD		40,000 bpd		Approved
+									
+Surmont Energy Ltd.									
+	Wildwood								
+		Surmont Energy Ltd. (80.0%)							
+		Bounty Developments Ltd. (20.0%)							
+		Phase 1			Type: SAGD	Start-up: 2015	12,000 bpd		Announced
+			Description:	Phase one regulatory application for a 10,000-12,0000 bbls/d project to be filed summer 2012.Project includes a CPF, 3-5 well pads with approximately 6-8 well pairs per pad, several water source wells, along with associated infrastructure such as roads and pipelines.					
+									
+Value Creation Inc.									
+	Advanced TriStar								
+			Aug 2012:	Value Creation says it is preparing the regulatory application for the Advanced TriStar project. Alberta Environment has issued its final terms of reference for the projects environmental assessment.					
+		Value Creation Inc. (100.0%)							
+		ATS-1			Type: SAGD	Start-up: 2016	15,000 bpd		Announced
+			Description:	The first phase will be comprised of 3-4 well pads, 18-24 SAGD well pairs, 9-12 observation wells, multiple source water wells and water disposal wells, a Central Processing Facility (CPF), storm water ponds, tank farm, temporary asphaltene storage area, materials storage area, administration and maintenance buildings, and a parking area. When the ATS project is fully operational, there will be approximately 300 well pairs and 40 well pads producing 75,000 bbl/d of bitumen that will be converted to 63,750 bbl/d of DCO and blended with diluent to produce 79,688 bbl/d of VC-M oil. Natural gas will be used for steam generation in ATS-1. ATS-2 and ATS-3 will use asphaltenes removed during bitumen processing. A third-party supplier will provide power. VCI is currently assessing options for road access. Initial production will be transported by truck, and thereafter by pipeline or rail.					
+		ATS-2			Type: SAGD	Start-up: 2019	30,000 bpd		Announced
+		ATS-3			Type: SAGD	Start-up: 2022	30,000 bpd		Announced
+									
+Cold Lake									
+									
+									
+Birchwood Resources Inc.									
+	Sage								
+			Jun 2012:	Birchwood has released its public disclosure document and has held an open house with area residents, some of whom were concerned by the development.					
+		Birchwood Resources Inc. (100.0%)							
+		Pilot			Type: LP-SAGD	Start-up: 2015	5,000 bpd	$230 million	Announced
+			Description:	The project consists of one well pad with potential for up to 36 plus well pairs with a lateral reach of 800-1,000 metres.It is proposed that this pilot phase will utilize 10 well pairs.					
+									
+Canadian Natural Resources Limited									
+	Primrose & Wolf Lake								
+			Aug 2012:	Canadian Natural says pads at Primrose are now entering back into the production cycle. The company targets to maximize steam plant capacity through the completion of low cost pad-add projects; projects currently under construction are on schedule and on budget.					
+		Canadian Natural Resources Limited (100.0%)							
+		Primrose East			Type: CSS	Start-up: 2008	32,000 bpd	$600 million	Operating
+		Primrose North			Type: CSS	Start-up: 2006	30,000 bpd		Operating
+			Description:	About 49 horizontal wells of the 120-well program will now be drilled in 2008 and the rest drilled in 2009. Steaming of these wells will start in the fourth quarter of 2009.Primrose North will ultimately have six pads (20 wells a pad) totalling 120 wells. Average output per well is typically 300-400 bbls of oil a day.					
+		Primrose South			Type: CSS	Start-up: 1985	45,000 bpd		Operating
+		Wolf Lake			Type: CSS	Start-up: 1985	13,000 bpd		Operating
+									
+Devon Canada Corporation									
+	Walleye								
+			Jun 2012:	Devon filed its regulatory application for Walleye in June. The company says construction will start in 2013.					
+		Devon Canada Corporation (100.0%)							
+		Phase 1			Type: SAGD	Start-up: 2016	9,000 bpd	$450 million	Application
+			Description:	The main infrastructure required includes a Central Processing Facility, seven pad sites and associated infrastructure such as pipelines, roads and power lines. Production from the Project will be marketed as a bitumen blend. Reclamation will occur progressively over the life of the Project at facilities that are no longer required.					
+									
+Husky Energy Inc.									
+	Caribou								
+		Husky Energy Inc. (100.0%)							
+		Demonstration			Type: SAGD		10,000 bpd		Approved
+	Tucker								
+		Husky Energy Inc. (100.0%)							
+		Phase 1			Type: SAGD	Start-up: 2006	30,000 bpd	$500 million	Operating
+			Description:	Applications are proceeding for additional drilling and field development in 2010 and 2011.					
+									
+Imperial Oil Limited									
+	Cold Lake								
+			Jul 2012:	Imperial says that the Nabiye expansion was 22 per cent complete at the end of Q2.					
+		Imperial Oil Limited (100.0%)							
+		Phase 1-10			Type: CSS	Start-up: 1985	110,000 bpd		Operating
+		Phase 11-13			Type: CSS	Start-up: 2002	30,000 bpd	$630 million	Operating
+			Description:	A new three-phase (phases 11-13) development known as Mahkeses, which would be located adjacent to Imperial’s existing Cold Lake operation. The Mahkeses project would use CSS technology to recover bitumen from the Clearwater Formation; a combination of directional and horizontal wells would be drilled into the Clearwater Formation on an average well spacing of 3.2 hectares (ha). Project to include a central plant in the north half of Section 33-64-3 W4M for processing bitumen and produced water; a cogeneration power plant located in the north half of Section 33-64-3 W4M capable of generating 220 megawatts of electricity; expansion of the approved phases 1-10 development areas and the drilling of additional wells to sustain operations at the existing central plants.					
+		Phase 14-16			Type: CSS	Start-up: 2014	40,000 bpd	$2.0 billion	Construction
+			Description:	Three new phases of bitumen production (Phases 14-16), as well as extensions to phases 9 and 10. Project includes associated steam-generation, bitumen-processing, water-treatment and field facilities, to form a new operating area known as Nabiye. Imperial plans to ammend original application late 2009 in response to new technologies, new plans to include a 170-megawatt cogeneration facility and pad layout changes that will reduce the production footprint. Sulphur recovery units have also been added.  an extension of the existi					
+									
+Koch Exploration Canada Corporation									
+	Gemini								
+			Jun 2012:	Kochs Canadian subsidiaries are seeking a strategic investor to advance development and monetize certain oilsands interests including the Cold Lake (Gemini) asset.					
+		Koch Exploration Canada Corporation (100.0%)							
+		Stage 1			Type: SAGD		1,200 bpd	$410 million	Approved
+			Description:	Stage one will include one SAGD well pair and a processing facility which will produce 1,200 of bitumen and is scheduled to produce for up to three years. Estimated cost for both phases $410 milion. Stage One production will be rolled into Stage Two and the Stage One facility will be decommissioned.					
+		Stage 2			Type: SAGD		10,000 bpd		Approved
+			Description:	Stage Two will include additional SAGD well pairs and a stand-alone processing facility designed to produce 10,000 bbls/d of bitumen over an anticipated 20 year life. Approved with conditions.					
+									
+OSUM Oil Sands Corp.									
+	Taiga								
+			Jul 2012:	OSUM says that Cold Lake First Nations has withdrawan its objection to the Taiga project. It was the only official intervener in the projects regulatory hearing. Pending regulatory approval, OSUM says it will go ahead with development.					
+		OSUM Oil Sands Corp. (100.0%)							
+		Phase 1			Type: CSS & SAGD	Start-up: 2016	23,000 bpd	$1.57 billion	Application
+			Description:	The main components of the project include a common central plant with steam generation facilities, as well as steam delivery and product recovery pipelines and well pads with horizontal wells for both SAGD and CSS. Water treatment and recycling, bitumen treatment and deep disposal wells for safe disposal of concentrated brackish water will also be included in the development. Roads and other infrastructure will also be required. Osum is also evaluating the possibility of steam and electricity cogeneration in the project, to increase overall energy efficiency. Osum plans to begin construction in the third quarter 2011 with subsequent start-up expected in the second quarter 2013.					
+		Phase 2			Type: In Situ	Start-up: 2017	22,000 bpd		Application
+									
+Pengrowth Energy Corporation									
+	Lindbergh								
+			Aug 2012:	Pengrowth says its two well pairs at Lindbergh are now producing after a faster-than-anticipated reservoir response.					
+		Pengrowth Energy Corporation (100.0%)							
+		Phase 1 Commercial			Type: SAGD	Start-up: 2015	12,500 bpd	$450 million	Application
+			Description:	The planned facilities Pengrowth is proposing for the Lindbergh SAGD Project include a number of wells pads and associated infrastructure such as well pairs, roads, above ground gathering and distribution systems, power lines, and a Central Processing Facility (CPF).During the life of the Project there will be 60 to 65 well pairs drilled from approximately eight to nine well pads.					
+		Phase 2 Commercial			Type: SAGD	Start-up: 2016	17,500 bpd	$560 million	Announced
+			Description:	Additional 30 well pairs planned, CPF, well pads, pipelines and infrastructure.					
+		Pilot			Type: SAGD	Start-up: 2012	1,200 bpd	$25 million	Operating
+			Description:	Pengrowth is planning a re-development of the former Murphy facility as a pilot-scale SAGD plant. Much of the original Murphy Oil (now Pengrowth) central processing facility (CPF) located at 07-13-58-05 W4M will be re-commissioned with some modifications and additions.					
+									
+Royal Dutch Shell plc									
+	Orion								
+			Jun 2012:	Shell is looking to sell the Orion property, reportedly to focus on in situ operations at Peace River.					
+		Royal Dutch Shell plc (100.0%)							
+		Phase 1			Type: SAGD	Start-up: 2007	10,000 bpd	$235 million	Operating
+			Description:	Regulatory approval was received in 2005 to expand the 500-barrel-per-day pilot into a 20,000-barrel-per-day commercial development.					
+		Phase 2			Type: SAGD		10,000 bpd		Approved
+									
+Peace River									
+									
+									
+Andora Energy Corporation									
+	Sawn Lake								
+			Aug 2012:	PanOrient Energy Corp. has increased its ownership of Andora Energy from 52.5% to 71.8%. PanOrient says activities are underway to commence steam injection at the Sawn Lake SAGD demonstration in the second quarter of 2013, with production anticipated in the fourth quarter of 2013.					
+		Pan Orient Energy Corp. (71.8%)							
+		Andora Energy Corporation (28.2%)							
+		SAGD Demonstration			Type: SAGD	Start-up: 2013	1,400 bpd	$15 million	Approved
+			Description:	If the demonstration plant meets Andoras expectations, a full scale development would follow. The proposed project includes a single well pair designed for peak anticipated production rates of 750 barrels per day. A decision by Andora to proceed with the demonstration project will be deferred into 2010.					
+									
+Northern Alberta Oil Ltd.									
+	Sawn Lake								
+			Mar 2012:	Company owner Deep Well Oil & Gas says DeGolyer & MacNaughton Canada has completed its reservoir modelling for a proposed horizontal cyclic steam stimulation pilot at Sawn Lake, concluding the project would yield commercial viable extraction. Deep Well is currently preparing a pilot plan and options for capitalization.					
+		Northern Alberta Oil Ltd. (80.0%)							
+		Andora Energy Corporation (10.0%)							
+		1132559 ALBERTA LTD. (10.0%)							
+		CSS Pilot			Type: CSS		700 bpd		Approved
+									
+Petrobank Energy And Resources Ltd.									
+	Dawson								
+			Jul 2012:	Petrobank says it is awaiting regulatory approval to initiate cold production on its two well demonstration project to condition the reservoir prior to THAI operations.					
+		Petrobank Energy And Resources Ltd. (100.0%)							
+		Experimental THAI Demonstration			Type: THAI	Start-up: 2013	10,000 bpd		Construction
+			Description:	Based on this analysis, Petrobank has determined that the Dawson reservoir would benefit from being pre-conditioned for THAI® operations by producing conventional cold heavy oil from our current horizontal production wells. Petrobank may drill additional horizontal conventional production wells near the demonstration project area during this period to further pre-condition the reservoir for THAI® operations. We expect to begin the two-well THAI® demonstration project in 2013 and the full field THAI® development application is expected to be filed after the THAI® demonstration project is on production.					
+		Phase 2			Type: THAI		10,000 bpd		Announced
+			Description:	The environmental assessment and regulatory application associated with the Dawson commercial project are near completion. The applications to the ERCB and Alberta Environment are expected to be submitted later this year. We expect that the regulatory review cycle could take up to 18 months.					
+									
+Royal Dutch Shell plc									
+	Peace River								
+			Dec 2011:	Albertas environmental assessment director has deemed complete Shell Canadas environmental impact assessment report for the Carmon Creek expansion.					
+		Royal Dutch Shell plc (100.0%)							
+		Cadotte Lake			Type: CSS	Start-up: 1986	12,500 bpd		Operating
+			Description:	Started in 1979 as an in-situ pilot.					
+		Carmon Creek - Phase 1			Type: Vertical Steam Drive	Start-up: 2015	40,000 bpd	$3.45 billion	Application
+			Description:	About 95 well pads and two central processing facilities would be required over the Projects expected 35-year operation. The proposed Project would include two central processing facilities, each with a capacity of 40 000 bbl/d, with associated facilities, thermal injection wells, production wells, disposal wells, utilities, and infrastructure.					
+		Carmon Creek - Phase 2			Type: Vertical Steam Drive	Start-up: 2018	40,000 bpd		Application
+									
+Southern Pacific Resource Corp.									
+	Red Earth								
+			May 2012:	Southern Pacific is analyzing results from its latest CSS test at Red Earth. The company says it will finalize future development plans by the end of Q2.					
+		Southern Pacific Resource Corp. (100.0%)							
+		Commercial			Type: CSS		10,000 bpd		Announced
+		Pilot			Type: CSS	Start-up: 2009	1,000 bpd	$15 million	Operating
+			Description:	Re-activated Pilot June 2011.					
+		Pilot Expansion			Type: CSS		3,000 bpd		Announced
+			Description:	Regulatory application for pilot expansion project to be submitted second half of 2009.					
+									
+Saskatchewan									
+									
+									
+Oilsands Quest Inc.									
+	Axe Lake								
+			Jun 2012:	Oilsands Quest says that some of the bids received to acquire, restructure or recapitalize its business could, if subject to further negotiation, be capable of being brought before the court for approval. The company and its court-appointed monitor, Ernst & Young Inc., have agreed that the best interests of Oilsands Quest and its stakeholders will be best served if Ernst & Young takes over operational responsibilities including completion of a transaction.					
+		Oilsands Quest Inc. (100.0%)							
+		Commercial			Type: SAGD		30,000 bpd		On Hold
+			Description:	The proposed project will includec omponents typical of SAGD operations such as multi-well production pads of horizontal well pairs, a central processing facility, infield pipeline and flo-lines, roads, water source and disposal wells, an airstrip and a bitumen treatment facility that includes produced fluid separation, water recycling, steam generation and tank storage facilities. Options for road access, natural gas supply, electricity supply, diluent supply, and a product sales system are all under consideration.					
+		Reservoir Test			Type: In Situ	Start-up: 2008	600 bpd		On Hold
+			Description:	Phase one of the testwill consider up to three test sites with one vertical steam injection well and five vertical observation wells per site. First steam injection is scheduled for September. The purpose of the first phase is to measure heat and fluid movement.					
+		SAGD Pilot			Type: SAGD			$25 million	On Hold
+			Description:	The primary objective of this test is to observe the ability of the Glacial Till overburden to act as a steam cap for SAGD operations in the Dina formation at the Axe Lake Project. Secondary objectives of this test are to confirm SAGD and the steam to injection rates as well as determine the optimal SAGD pressure for a commercial scale project.					
+									
+Oilsands Mining Projects									
+North Athabasca									
+									
+									
+Canadian Natural Resources Limited									
+	Horizon								
+			Aug 2012:	Canadian Natural says its third ore preparation plant, now fully operational, is contributing to safe, steady and reliable operations. The staged expansion to 250,000 barrels per day continues to progress on track, although Canadian Natural has reduced its 2012 projct capital for Horizon by $330 million to $1.55 billion. The company says this is a result of overall cost reductions and strategic deferrals to achieve greater cost certainty.					
+		Canadian Natural Resources Limited (100.0%)							
+		Phase 1			Type: Surface Mining	Start-up: 2008	135,000 bpd	$9.7 billion	Operating
+			Description:	Mining, Extraction & Upgrading Project, The Horizon Project Includes a Minesite, Truck and Shovel, Relocatable Ore Preparation Plant Using Crushers and Slurry Hydrotransport, Three Upgrading Trains, Delayed Coking Upgrader, Four Bitumen Processing Trains and Associated Utillities & Infrastructure, Water and Tailing Management Plans, and an Integrated Development and Reclamation Plan					
+		Phase 2A			Type: Surface Mining	Start-up: 2014	10,000 bpd		Approved
+		Phase 2B			Type: Surface Mining		45,000 bpd		Approved
+		Phase 3			Type: Surface Mining		80,000 bpd		Approved
+			Description:	OPP 5, extraction 3 and 4, combined hydrotreater, sulphur recovery adding 80,000 bbls per day of SCO capacity ($90 million-$150 million in 2011).					
+		Tranche 2			Type: Surface Mining	Start-up: 2012	5,000 bpd		Operating
+									
+Imperial Oil Limited									
+	Kearl								
+			Jul 2012:	Imperial Oil says that as of the end of Q2/2012 Kearl Phase 1 is 94 per cent complete, with construction 88 per cent complete. All modules fabricated in Korea and transported through North America have now arrived at site and are being reassembled and integrated into the plant.					
+		Imperial Oil Limited (71.0%)							
+		ExxonMobil Canada Energy (29.0%)							
+		Phase 1			Type: Surface Mining	Start-up: 2012	110,000 bpd	$10.9 billion	Construction
+			Description:	The Kearl project is envisioned to be developed in three phases and could ultimately produce more than 300,000 barrels a day of bitumen. The first phase of the project, expected to begin production in late 2012 with total production to average 110,000 barrels per day, is anticipated to cost about $8 billion or approximately $4.50 per barrel to construct.					
+		Phase 2			Type: Surface Mining	Start-up: 2015	110,000 bpd	$8.9 billion	Construction
+			Description:	Imperial Oil awarded PCL Industrial Management Inc. a $700-million contract for the Kearl Expansion Project.					
+		Phase 3 Debottleneck			Type: Surface Mining	Start-up: 2020	70,000 bpd		Approved
+									
+Shell Albian Sands									
+	Jackpine								
+			Aug 2012:	The Government of Canadas joint review panel reviewing the proposed Jackpine mine expansion has determined that it has sufficient information to proceed to a public hearing. The hearing will commence on Oct. 29, 2012 at MacDonald Island Park in Fort McMurray.					
+		Shell Albian Sands (100.0%)							
+		Expansion			Type: Surface Mining	Start-up: 2017	100,000 bpd		Application
+			Description:	This will bring the Jackpine Mine’s Total Nominal Bitumen Production Capacity To 300,000 bbl/d. This Expansion Will Include Additional Mining Areas and Associated Processing Facilities, Utilities, Co-generation Plant and Infrastructure.					
+		Phase 1A			Type: Surface Mining	Start-up: 2010	100,000 bpd		Operating
+			Description:	Mining & Extraction Facility located on the eastern portion of Lease 13, Project includes an open pit, truck and shovel mine, bitumen processing train, a cogeneration plant consisting of 170-megawatt gas turbine generators each fitted with a heat recovery steam boiler, infrastructure associated with the mine and facility, water and tailing management plans, and an integrated reclamation plan. The Jackpine Mine is planned to have full production in 2010 and last 22 years. Construction of the first process train and its associated facilities is currently underway with start-up scheduled in late 2009 and production ramping up through 2010.					
+		Phase 1B			Type: Surface Mining		100,000 bpd		Approved
+	Muskeg River								
+			Aug 2012:	Shell reports that the Athabasca Oil Sands Project (Muskeg River and Jackpine) has now reached the milestone of 400 million barrels of cumulative production.					
+		Shell Albian Sands (100.0%)							
+		Commercial			Type: Surface Mining	Start-up: 2002	155,000 bpd	$1.8 billion	Operating
+			Description:	Project Includes a Truck and Shovel Mining Operation, Bitumen Extraction and Treatment Plants and Realted Supporting Facilities, The Corridor Pipeline Will Carry Diluted Bitumen From The Muskeg River Mine To The Scotford Upgrader and Return Recycled Diluent To The Mine, Plans Are To Include a 170 MW Co-generation Facility and Associated Heat Recovery Equipment, ATCO Pipelines Will Build a 118 km Natural Gas Pipeline From an Existing Transmission System To Supply Gas To The Co-generation Plant, ATCO Structures Will Manufacture and Install Housing For 1,700 People ata Cost of $17 Million					
+		Expansion & Debottlenecking			Type: Surface Mining		115,000 bpd		Approved
+			Description:	AOSP joint venture participants plan to increase the production capacity of the existing facilities by debottlenecking and adding a third process train with a nominal production capability of 100,000 bbl/d. Together with debottlenecking, the overall bitumen production capability of the expanded Muskeg River Mine would be about 270,000 bbl/d. April 28 an amendmet was submitted to the EUB that would integrate the development of the Jackpine Mine – Phase 1 resource with facilities associated with the expansion, mainly froth treatment, with associated utilities and infrastructure. The current project execution plan for the Muskeg River Mine Expansion is following this development option by providing an interconnecting pipeline to enable bitumen froth from Jackpine Mine – Phase 1 to be transported to the expanded Muskeg River Mine froth treatment plant for processing.					
+	Pierre River								
+			Aug 2012:	A joint review panel of the Canadian Environmental Assessment Agency and Energy Resources Conservation Board has been established to review the proposed Pierre River mine project. The timeline for the joint review panel to submit its report is 550 days (18 months) from coming into force in July 2012.					
+		Royal Dutch Shell plc (100.0%)							
+		Phase 1			Type: Surface Mining	Start-up: 2018	100,000 bpd		Application
+			Description:	This Development Will Involve Mining and Processing Oil Sands in Two Trains At a Combined Production Rate of 200,000 bbls/d, Project Includes Crushers and Conveyors, Slurry Conditioning and Ore Preparation Facilities, Bitumen Extraction Facilities, Froth Treatment Facility, Tailings Handling and Treatment, Solvent Recovery, Tailings Solvent Recovery, Asphaltene Recovery, Administration Buildings, Mine Offices, Utilities, Co-generation, Airstrip, Camp Accomodations and a Bridge Across the Athabasca River, First Ore Process Train is Planned For 2018					
+		Phase 2			Type: Surface Mining		100,000 bpd		Application
+									
+Suncor Energy Inc.									
+	Base Operations								
+			Jul 2012:	Suncor says it has its tailings reduction operations (TRO) infrastructure project and commenced operations. It is also in the process of starting up the hydrotreating unit and hydrogen plant of the new Millennium Naphtha Unit, which is expected to stabilize secondary upgrading capacity and provide flexibility during maintenance activities for secondary upgrading units in the future.					
+		Suncor Energy Inc. (100.0%)							
+		Millennium Debottlenecking			Type: Surface Mining	Start-up: 2008	23,000 bpd		Operating
+		Millennium Mine			Type: Surface Mining	Start-up: 1967	294,000 bpd		Operating
+		North Steepbank Extension			Type: Surface Mining	Start-up: 2012	180,000 bpd	$400 million	Operating
+			Description:	The North Steepbank Extension is a Continuation Northward of the Steepbank Mine Across the Steepbank River, Ore Will Be Hauled Across the Steepbank River To the Steepbank Ore Preparation Plant Where It Will Be Crushed and Slurried For Hydrotransport To the Proposed Steepbank Extraction Plant For Primary Bitumen Extraction					
+		Steepbank Debottleneck Phase 3			Type: Surface Mining	Start-up: 2007	4,000 bpd		Operating
+	Fort Hills								
+			Jul 2012:	Suncor expects to present development plans to the board of directors for a sanctioning decision in 2013.					
+		Suncor Energy Inc. (40.8%)							
+		Total E&P Canada Ltd. (39.2%)							
+		Teck Resources Limited (20.0%)							
+		Debottleneck			Type: Surface Mining		25,000 bpd		Approved
+		Phase 1			Type: Surface Mining	Start-up: 2016	165,000 bpd		Approved
+			Description:	Fort Hills, Oilsands Mining & Extraction Facilities, Will Use BITMIN Process (Simplified Delayed Coker & Hydro Treating, 170 MW Cogen Facility (Approved by EUB) Deferred for Subsequent Phase, Hydrogen Plant, Boiler, Power Handling Facilities, Water Treatment & Heating Facilities, to Produce 170,000 bbls/day, Building 3,500 bbls/day Pilot Plant to test BITMIN Process, Total Project Costs Between 1.6 - 2.3 Billion Dollars. Project sanction decision by the partners in 2013.					
+	Voyageur South								
+			May 2012:	Suncor considers Voyageur South to be a longer-term project and has not confirmed a start-up date.					
+		Suncor Energy Inc. (100.0%)							
+		Phase 1			Type: Surface Mining		120,000 bpd	$4.4 billion	Application
+			Description:	New Mining & Bitumen Extraction Facility, Co-generation Facilities, Reclamation & Tailings Storage Areas, Pipelines & Roads, Administrative Buildings, & Associated Infrustructure, New Mobile Ore Preparation Technology To Be Used Instead of Truck & Shovel Mining System.					
+									
+Syncrude Canada Ltd.									
+	Mildred Lake/Aurora North & South								
+			Aug 2012:	Lead partner Canadian Oil Sands says Coker 8-3, the newest part of the Syncrude upgrader, has achieved a run length of 36 months. Coker 82 achieved the same last year. Average coker run lengths at Syncrude over the past five years have been 28 months.					
+		Syncrude Canada Ltd. (100.0%)							
+		Aurora South Train 1			Type: Surface Mining	Start-up: 2016	100,000 bpd		Approved
+			Description:	Construction of the two new mine trains.					
+		Aurora South Train 2			Type: Surface Mining	Start-up: 2018	100,000 bpd		Approved
+		Base Mine Stage 1 & 2 Expansion			Type: Surface Mining	Start-up: 1978	290,700 bpd		Operating
+		Stage 3 Expansion			Type: Surface Mining	Start-up: 2006	116,300 bpd		Operating
+									
+Teck Resources Limited									
+	Frontier								
+			Jul 2012:	Teck says it anticipates receiving the final supplemental information requests relating to the Frontier regulatory application in Q3/2012 and responding in Q4.					
+		Teck Resources Limited (100.0%)							
+		Phase 1			Type: Surface Mining	Start-up: 2021	75,000 bpd	$14.5 billion	Application
+			Description:	Application will be for Frontier and Equinox combined project for a 80,000 bbls/d initially, rising to 290,000 bbls/d at full production (gross). Regulatory application to be submitted Q4 2011 wirh approval anticipated in 2014. Phases 1 and 2 of the project to cost $14.5 billion.					
+		Phase 2			Type: Surface Mining	Start-up: 2024	80,000 bpd		Application
+		Phase 3			Type: Surface Mining	Start-up: 2027	80,000 bpd	$8.4 billion	Application
+		Phase 4 Equinox			Type: Surface Mining	Start-up: 2030	40,000 bpd		Application
+			Description:	SilverBirch has announced that the Equinox project will be developed as a fourth phase to the Frontier project.In this configuration, only primary extraction would occur at Equinox and bitumen froth would be transported to Frontier for further froth treatment.Equinox has a capacity of approximately 30-50,000 bbls/day, which, combined with the Frontier Project would bring the total capacity to approximately 290,000 bbls/day.					
+									
+Total E&P Canada Ltd.									
+	Joslyn North Mine								
+			Jul 2012:	Project partner Suncor Energy says submit development plans will be submitted to the companies respective boards of directors for a sanctioning decision in 2013.					
+		Total E&P Canada Ltd. (38.3%)							
+		Suncor Energy Inc. (36.8%)							
+		Occidental Petroleum Corporation (15.0%)							
+		Inpex Canada Limited (10.0%)							
+		Phase 1			Type: Surface Mining	Start-up: 2018	100,000 bpd	$9.0 billion	Approved
+			Description:	The application seeks to construct an open pit, truck and shovel mine; two trains of froth production and treatment; a co-generation plant; one external tailings location; and other related infrastructure to support the operation (water intake, water pipeline, water storage construction, and operations of camps and roads).					
+	Joslyn South Mine								
+		Total E&P Canada Ltd. (38.3%)							
+		Suncor Energy Inc. (36.8%)							
+		Occidental Petroleum Corporation (15.0%)							
+		Inpex Canada Limited (10.0%)							
+		Phase 1			Type: Surface Mining		100,000 bpd		Announced
+
+
