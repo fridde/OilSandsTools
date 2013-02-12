@@ -1,3 +1,8 @@
+# Estimate unknown date of a project
+#
+# This function estimates coming years
+
+# @param delay.value Number of years that a project
 add.unknown.date = function(delay.value = 3) {
   
   project.plan = project.plan[order(project.plan$Project, project.plan$Company, project.plan$Startup),]
