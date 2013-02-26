@@ -1,0 +1,844 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Oil Sands.kml</name>
+	<StyleMap id="failed0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin_hl0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>runtime://clone80#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>runtime://clone80#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_icon181">
+		<IconStyle>
+			<color>ff1f2ae2</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://www.cec.org/naatlas/images/icon18.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://www.cec.org/naatlas/prtr/index.cfm?varlan=english"><img src="http://www.cec.org/naatlas/images/header.gif"/></a>
+	<br /><br /><br />
+	<table border="0" width="400">
+		<tr>	
+		  	<td width="250" valign="bottom">
+				$[description]
+			</td>
+			<td width="150" valign="bottom">
+				<font color="#808080">
+				  <a href="http://www.ec.gc.ca/"><img width="52" src="http://www.ec.gc.ca/commonwebsol/images/gocfip.gif" /><br />
+				  Environment Canada</a><br />
+				  <br />
+				  <a href="http://www.cec.org/naatlas/prtr/index.cfm?varlan=english">About this Mapping Project</a><br />
+				  <a href="http://www.cec.org/naatlas/prtr/faq.cfm?varlan=english">Frequently Asked Questions</a>
+				</font>
+			</td>
+		</tr>
+	</table>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_icon180">
+		<IconStyle>
+			<color>ff1f2ae2</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://www.cec.org/naatlas/images/icon18.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://www.cec.org/naatlas/prtr/index.cfm?varlan=english"><img src="http://www.cec.org/naatlas/images/header.gif"/></a>
+	<br /><br /><br />
+	<table border="0" width="400">
+		<tr>	
+		  	<td width="250" valign="bottom">
+				$[description]
+			</td>
+			<td width="150" valign="bottom">
+				<font color="#808080">
+				  <a href="http://www.ec.gc.ca/"><img width="52" src="http://www.ec.gc.ca/commonwebsol/images/gocfip.gif" /><br />
+				  Environment Canada</a><br />
+				  <br />
+				  <a href="http://www.cec.org/naatlas/prtr/index.cfm?varlan=english">About this Mapping Project</a><br />
+				  <a href="http://www.cec.org/naatlas/prtr/faq.cfm?varlan=english">Frequently Asked Questions</a>
+				</font>
+			</td>
+		</tr>
+	</table>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="failed3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#failed2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#failed1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="msn_icon18">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon18</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon181</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed2">
+	</Style>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="failed">
+	</Style>
+	<Style id="failed10">
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_icon180">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon181</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon180</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_icon181">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>0.4</scale>
+			<Icon>
+				<href>http://www.cec.org/naatlas/images/icon18.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://www.cec.org/naatlas/prtr/index.cfm?varlan=english"><img src="http://www.cec.org/naatlas/images/header.gif"/></a>
+	<br /><br /><br />
+	<table border="0" width="400">
+		<tr>	
+		  	<td width="250" valign="bottom">
+				$[description]
+			</td>
+			<td width="150" valign="bottom">
+				<font color="#808080">
+				  <a href="http://www.ec.gc.ca/"><img width="52" src="http://www.ec.gc.ca/commonwebsol/images/gocfip.gif" /><br />
+				  Environment Canada</a><br />
+				  <br />
+				  <a href="http://www.cec.org/naatlas/prtr/index.cfm?varlan=english">About this Mapping Project</a><br />
+				  <a href="http://www.cec.org/naatlas/prtr/faq.cfm?varlan=english">Frequently Asked Questions</a>
+				</font>
+			</td>
+		</tr>
+	</table>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_icon18">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>0.4</scale>
+			<Icon>
+				<href>http://www.cec.org/naatlas/images/icon18.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://www.cec.org/naatlas/prtr/index.cfm?varlan=english"><img src="http://www.cec.org/naatlas/images/header.gif"/></a>
+	<br /><br /><br />
+	<table border="0" width="400">
+		<tr>	
+		  	<td width="250" valign="bottom">
+				$[description]
+			</td>
+			<td width="150" valign="bottom">
+				<font color="#808080">
+				  <a href="http://www.ec.gc.ca/"><img width="52" src="http://www.ec.gc.ca/commonwebsol/images/gocfip.gif" /><br />
+				  Environment Canada</a><br />
+				  <br />
+				  <a href="http://www.cec.org/naatlas/prtr/index.cfm?varlan=english">About this Mapping Project</a><br />
+				  <a href="http://www.cec.org/naatlas/prtr/faq.cfm?varlan=english">Frequently Asked Questions</a>
+				</font>
+			</td>
+		</tr>
+	</table>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sh_icon18">
+		<IconStyle>
+			<color>ff1f2ae2</color>
+			<scale>0.6</scale>
+			<Icon>
+				<href>http://www.cec.org/naatlas/images/icon18.png</href>
+			</Icon>
+		</IconStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://www.cec.org/naatlas/prtr/index.cfm?varlan=english"><img src="http://www.cec.org/naatlas/images/header.gif"/></a>
+	<br /><br /><br />
+	<table border="0" width="400">
+		<tr>	
+		  	<td width="250" valign="bottom">
+				$[description]
+			</td>
+			<td width="150" valign="bottom">
+				<font color="#808080">
+				  <a href="http://www.ec.gc.ca/"><img width="52" src="http://www.ec.gc.ca/commonwebsol/images/gocfip.gif" /><br />
+				  Environment Canada</a><br />
+				  <br />
+				  <a href="http://www.cec.org/naatlas/prtr/index.cfm?varlan=english">About this Mapping Project</a><br />
+				  <a href="http://www.cec.org/naatlas/prtr/faq.cfm?varlan=english">Frequently Asked Questions</a>
+				</font>
+			</td>
+		</tr>
+	</table>]]></text>
+		</BalloonStyle>
+	</Style>
+	<Style id="sn_icon180">
+		<IconStyle>
+			<color>ff00aaff</color>
+			<scale>0.4</scale>
+			<Icon>
+				<href>http://www.cec.org/naatlas/images/icon18.png</href>
+			</Icon>
+		</IconStyle>
+		<LabelStyle>
+			<scale>0</scale>
+		</LabelStyle>
+		<BalloonStyle>
+			<text><![CDATA[<a href="http://www.cec.org/naatlas/prtr/index.cfm?varlan=english"><img src="http://www.cec.org/naatlas/images/header.gif"/></a>
+	<br /><br /><br />
+	<table border="0" width="400">
+		<tr>	
+		  	<td width="250" valign="bottom">
+				$[description]
+			</td>
+			<td width="150" valign="bottom">
+				<font color="#808080">
+				  <a href="http://www.ec.gc.ca/"><img width="52" src="http://www.ec.gc.ca/commonwebsol/images/gocfip.gif" /><br />
+				  Environment Canada</a><br />
+				  <br />
+				  <a href="http://www.cec.org/naatlas/prtr/index.cfm?varlan=english">About this Mapping Project</a><br />
+				  <a href="http://www.cec.org/naatlas/prtr/faq.cfm?varlan=english">Frequently Asked Questions</a>
+				</font>
+			</td>
+		</tr>
+	</table>]]></text>
+		</BalloonStyle>
+	</Style>
+	<StyleMap id="msn_icon181">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_icon180</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_icon18</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="failed1">
+	</Style>
+	<Folder>
+		<name>Oil Sands</name>
+		<open>1</open>
+		<Style>
+			<ListStyle>
+				<listItemType>radioFolder</listItemType>
+				<bgColor>00ffffff</bgColor>
+				<maxSnippetLines>2</maxSnippetLines>
+			</ListStyle>
+		</Style>
+		<Placemark>
+			<name>Joslyn - Total E&amp;P Canada Ltd.</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-111.786505189628</longitude>
+				<latitude>57.21845597446061</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1258438866887339</heading>
+				<tilt>0</tilt>
+				<range>11424.55465952164</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Point>
+				<coordinates>-111.794319,57.220597,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Base Operations - Suncor Energy Inc.</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-111.4608018167792</longitude>
+				<latitude>56.92868813871973</latitude>
+				<altitude>0</altitude>
+				<heading>-0.07186499348092046</heading>
+				<tilt>0</tilt>
+				<range>7408.354019244595</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Point>
+				<coordinates>-111.484228,56.926693,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Poplar Creek - E-T Energy Ltd</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-111.4417119451547</longitude>
+				<latitude>56.80784957925338</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0373042952633208</heading>
+				<tilt>0</tilt>
+				<range>1615.550873600369</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon181</styleUrl>
+			<Point>
+				<coordinates>-111.4447166327676,56.80757853300788,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Peace River - SHELL CANADA</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<font face="Verdana" size="5" color="#464646"><strong>SHELL CANADA</strong></font>
+<br>
+<font face="Arial" size="4" color="#464646">
+<div>P.O. Bag 1200, LSD SW-21-85-18-W5M<br>Peace River, AB<br>Canada</div>
+<br>
+<div><a href="http://www.ec.gc.ca/pdb/websol/querysite/facility_substance_summary_e.cfm?opt_npri_id=0000002128&opt_report_year=2005">Facility Data NPRI 2005 Report</a></div>
+</font>]]></description>
+			<styleUrl>#msn_icon181</styleUrl>
+			<Point>
+				<coordinates>-116.795,56.38060000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>MacKay River - SuncorEnergy</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-112.1149905832835</longitude>
+				<latitude>56.83994472143318</latitude>
+				<altitude>0</altitude>
+				<heading>-0.652361883439662</heading>
+				<tilt>0</tilt>
+				<range>25939.04679388767</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin0</styleUrl>
+			<Point>
+				<coordinates>-112.1453370142232,56.86674567964235,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Aurora North - SYNCRUDE CANADA</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<font face="Verdana" size="5" color="#464646"><strong>SYNCRUDE CANADA</strong></font>
+<br>
+<font face="Arial" size="4" color="#464646">
+<div>P.O. Bag 4009, M.D. 4160<br>Fort McMurray, AB<br>Canada</div>
+<br>
+<div><a href="http://www.ec.gc.ca/pdb/websol/querysite/facility_substance_summary_e.cfm?opt_npri_id=0000006572&opt_report_year=2005">Facility Data NPRI 2005 Report</a></div>
+</font>]]></description>
+			<styleUrl>#msn_icon18</styleUrl>
+			<Point>
+				<coordinates>-111.5033,57.29890000000002,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Long Lake - Nexen</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<font face="Verdana" size="5" color="#464646"><strong>NEXEN INC.</strong></font>
+<br>
+<font face="Arial" size="4" color="#464646">
+<div>01-31-085-06-W4<br>N/A, AB<br>Canada</div>
+<br>
+<div><a href="http://www.ec.gc.ca/pdb/websol/querysite/facility_substance_summary_e.cfm?opt_npri_id=0000017330&opt_report_year=2005">Facility Data NPRI 2005 Report</a></div>
+</font>]]></description>
+			<styleUrl>#failed3</styleUrl>
+			<Point>
+				<coordinates>-110.9283,56.4078,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Kai Kos Dehseh - Statoil</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-111.2096402650572</longitude>
+				<latitude>55.72917463964665</latitude>
+				<altitude>0</altitude>
+				<heading>6.866913902178588</heading>
+				<tilt>0</tilt>
+				<range>55778.72441582918</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Point>
+				<coordinates>-111.4523090833994,55.80968996926642,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jackfish Devon Canada Corporation</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<font face="Verdana" size="5" color="#464646"><strong>Devon Canada Corporation</strong></font>
+<br>
+<font face="Arial" size="4" color="#464646">
+<div>03-07-077-07 W4M<br>N/A, AB<br>Canada</div>
+<br>
+<div><a href="http://www.ec.gc.ca/pdb/websol/querysite/facility_substance_summary_e.cfm?opt_npri_id=0000016302&opt_report_year=2005">Facility Data NPRI 2005 Report</a></div>
+</font>]]></description>
+			<styleUrl>#A0</styleUrl>
+			<Point>
+				<coordinates>-111.0844,55.65180000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Surmont - CONOCO PHILLIPS CANADA</name>
+			<visibility>0</visibility>
+			<open>1</open>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<font face="Verdana" size="5" color="#464646"><strong>CONOCO PHILLIPS CANADA</strong></font>
+<br>
+<font face="Arial" size="4" color="#464646">
+<div>14-24-083-07W4<br>n/a, AB<br>Canada</div>
+<br>
+<div><a href="http://www.ec.gc.ca/pdb/websol/querysite/facility_substance_summary_e.cfm?opt_npri_id=0000016288&opt_report_year=2005">Facility Data NPRI 2005 Report</a></div>
+</font>]]></description>
+			<styleUrl>#msn_icon181</styleUrl>
+			<Point>
+				<coordinates>-110.9681,56.21500000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jackpine - Shell Albian Sands</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-111.43605003085</longitude>
+				<latitude>57.25970884672646</latitude>
+				<altitude>0</altitude>
+				<heading>-5.036391108027685</heading>
+				<tilt>0</tilt>
+				<range>34508.24737320433</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<coordinates>-111.3875884554254,57.2634963292343,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Horizon - Canadian Natural Resources Limited</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-111.7459318347551</longitude>
+				<latitude>57.3382126693097</latitude>
+				<altitude>0</altitude>
+				<heading>-0.09179583350316926</heading>
+				<tilt>0</tilt>
+				<range>6224.503945118629</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon18</styleUrl>
+			<Point>
+				<coordinates>-111.7459318347551,57.3382126693097,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hangingstone Japan Canada Oil Sands</name>
+			<visibility>0</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<font face="Verdana" size="5" color="#464646"><strong>JAPAN CANADA OIL SANDS</strong></font>
+<br>
+<font face="Arial" size="4" color="#464646">
+<div>Lots 12 & 13, 26-084-11W4M<br>N/A, AB<br>Canada</div>
+<br>
+<div><a href="http://www.ec.gc.ca/pdb/websol/querysite/facility_substance_summary_e.cfm?opt_npri_id=0000017122&opt_report_year=2005">Facility Data NPRI 2005 Report</a></div>
+</font>]]></description>
+			<styleUrl>#msn_icon180</styleUrl>
+			<Point>
+				<coordinates>-111.6353,56.31310000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Firebag - Suncor Energy</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-110.777079832814</longitude>
+				<latitude>57.38981068434217</latitude>
+				<altitude>0</altitude>
+				<heading>0.3877038736233867</heading>
+				<tilt>0</tilt>
+				<range>7762.878057647954</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Point>
+				<coordinates>-110.777079832814,57.38981068434217,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Christina Lake - MEG Energy Corporation</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-110.8634531946887</longitude>
+				<latitude>55.61139604083513</latitude>
+				<altitude>0</altitude>
+				<heading>0.0660532275416636</heading>
+				<tilt>0</tilt>
+				<range>44226.259629998</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<StyleMap id="msn_ylw-pushpin">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>runtime://clone80#sn_ylw-pushpin</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>runtime://clone80#sh_ylw-pushpin</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Point>
+				<coordinates>-110.624239,55.70201999999999,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Blackrod - Black Pearl Resource Inc.</name>
+			<LookAt>
+				<longitude>-112.6570297071853</longitude>
+				<latitude>55.66544117456242</latitude>
+				<altitude>0</altitude>
+				<heading>-0.03204970920565489</heading>
+				<tilt>0</tilt>
+				<range>15971.81590198002</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin1</styleUrl>
+			<Point>
+				<coordinates>-112.6702667301558,55.63860217897936,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mildred Lake - SYNCRUDE CANADA</name>
+			<visibility>0</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<font face="Verdana" size="5" color="#464646"><strong>SYNCRUDE CANADA</strong></font>
+<br>
+<font face="Arial" size="4" color="#464646">
+<div>P.O. Bag 4009, M.D. 4160<br>Fort McMurray, AB<br>Canada</div>
+<br>
+<div><a href="http://www.ec.gc.ca/pdb/websol/querysite/facility_substance_summary_e.cfm?opt_npri_id=0000002274&opt_report_year=2005">Facility Data NPRI 2005 Report</a></div>
+</font>]]></description>
+			<styleUrl>#failed0</styleUrl>
+			<Point>
+				<coordinates>-111.6192,57.0405,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Foster Creek Cenovus Energy</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-110.5632589056183</longitude>
+				<latitude>54.90683267836869</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1218471558411241</heading>
+				<tilt>0</tilt>
+				<range>4261.536881794743</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>-110.5632589056183,54.90683267836869,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>IMPERIAL OIL</name>
+			<visibility>0</visibility>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<font face="Verdana" size="5" color="#464646"><strong>IMPERIAL OIL</strong></font>
+<br>
+<font face="Arial" size="4" color="#464646">
+<div>11-04-065-03 W4M, Service 15, Amisk Site<br>Grande Centre, AB<br>Canada</div>
+<br>
+<div><a href="http://www.ec.gc.ca/pdb/websol/querysite/facility_substance_summary_e.cfm?opt_npri_id=0000000442&opt_report_year=2005">Facility Data NPRI 2005 Report</a></div>
+</font>]]></description>
+			<styleUrl>#A0</styleUrl>
+			<Point>
+				<coordinates>-110.395,54.59640000000001,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Great Divide - Connacher Oil &amp; Gas Ltd.</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-111.6134791462814</longitude>
+				<latitude>56.24972797615398</latitude>
+				<altitude>0</altitude>
+				<heading>0.3390663800940662</heading>
+				<tilt>0</tilt>
+				<range>4110.313320257562</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Point>
+				<coordinates>-111.6134791462814,56.24972797615398,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hangingstone Excelcior</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-111.3021324833388</longitude>
+				<latitude>56.43113665161803</latitude>
+				<altitude>0</altitude>
+				<heading>0.2169041360822222</heading>
+				<tilt>0</tilt>
+				<range>8509.317584473016</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>-111.3021324833388,56.43113665161803,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Muskeg River - Shell Albian Sands</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-111.5356583338222</longitude>
+				<latitude>57.24176745953851</latitude>
+				<altitude>0</altitude>
+				<heading>-5.12012185951946</heading>
+				<tilt>0</tilt>
+				<range>9677.471701928404</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>-111.5597567110774,57.25915623002604,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Orion - Royal Dutch Shell</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-110.3897213206831</longitude>
+				<latitude>54.51515791001066</latitude>
+				<altitude>0</altitude>
+				<heading>0.02871451129256473</heading>
+				<tilt>0</tilt>
+				<range>5935.527384696163</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin</styleUrl>
+			<Point>
+				<coordinates>-110.3976939854392,54.51290521314645,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Primrose and Wolf Lake - Canadian Natural Resources Ltd</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-110.7193866127554</longitude>
+				<latitude>54.69636778452273</latitude>
+				<altitude>0</altitude>
+				<heading>-0.05142697791897995</heading>
+				<tilt>0</tilt>
+				<range>5049.522196431178</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon181</styleUrl>
+			<Point>
+				<coordinates>-110.7193866127554,54.69636778452273,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Red Earth - Southern Pacific Resource Corp.</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-115.3525470188422</longitude>
+				<latitude>56.63445467022049</latitude>
+				<altitude>0</altitude>
+				<heading>-0.1000268851199568</heading>
+				<tilt>0</tilt>
+				<range>7663.751825506679</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon181</styleUrl>
+			<Point>
+				<coordinates>-115.3525470188422,56.63445467022049,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Tucker Lake - Husky Energy Inc.</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-110.5549936084614</longitude>
+				<latitude>54.55773604118384</latitude>
+				<altitude>0</altitude>
+				<heading>0.0388224050091996</heading>
+				<tilt>0</tilt>
+				<range>8652.524717692106</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_icon181</styleUrl>
+			<Point>
+				<coordinates>-110.557499506466,54.56944971602279,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Christina Lake - Cenovus Energy Inc.</name>
+			<visibility>0</visibility>
+			<LookAt>
+				<longitude>-110.8662814269465</longitude>
+				<latitude>55.58563699395548</latitude>
+				<altitude>0</altitude>
+				<heading>0.06370094300606274</heading>
+				<tilt>0</tilt>
+				<range>8118.41942231878</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-pushpin0</styleUrl>
+			<Point>
+				<coordinates>-110.890382,55.57919,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
