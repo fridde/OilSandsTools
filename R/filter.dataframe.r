@@ -6,7 +6,8 @@ filter.dataframe = function(dataframe, scheme) {
   
   columns.to.choose = Compilation.schemes$Scheme[which(Compilation.schemes[,scheme] == "x")]
   years = Compilation.schemes$Year[which(Compilation.schemes[,scheme] == "x")]
-  columns.to.choose = columns.to.choose[order(years)]
+  print.prio = Compilation.schemes$PrintPrio[which(Compilation.schemes[,scheme] == "x")]
+  columns.to.choose = columns.to.choose[order(print.prio, years)]
   column.names = character()
   for (current.column in columns.to.choose) {
     current.short.name = Compilation.schemes$Short.Name[Compilation.schemes$Scheme == current.column]

@@ -56,6 +56,7 @@ convert.to.barrel.per.day <-
 
         
         if (recognized) {
+          value = as.numeric(format(value, scientific = FALSE))
           return.vector = c(return.vector, round(value))
         } else {
           return.vector = c(return.vector, "Unit definition unknown")

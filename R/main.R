@@ -9,9 +9,9 @@ main = function () {
   source("R/quick.load.r")
   quick.load()
   #update.databases()
-  #calculate.correlations()
-  #dataset = compile.prod.proj()
-  #save(dataset, file = "data/dataset.rda")
+  #calculate.correlations()  # takes > 15min on a Quad-Core at 2.6 Ghz
+  dataset = compile.prod.proj()
+  save(dataset, file = "data/dataset.rda")
   
   predict.values()
   create.plot.collection()

@@ -1,104 +1,104 @@
-Scheme	Short.Name	Year	Type	BelongsTo	KeepEmpty	Important	Low	High	Old	NEB	CERI	Miscellaneous	Recent	Historical.All	Prognosis.All	In.Situ.Historical	In.Situ.Prognosis	Mining.Historical	Mining.Prognosis	Selection.1	Selection.2	Scenario	Scenario.Mining	Scenario.In.Situ	Types	Statistics	All.Graphs
-CAPP Bitumen Historical 2012	CAPP Bit Hist 2012	2012	Historical			x		x								x											x
-CAPP Historical 2012	CAPP 2012 Hist	2012	Historical						x	x	x	x		x	x						x						x
-CAPP In-Situ Historical 2012	CAPP In-Situ Hist 2012	2012	Historical													x				x							x
-CAPP In-situ SCO 2012	CAPP In-situ SCO 2012	2012	Historical													x											x
-CAPP Mining Historical 2012	CAPP Mining 2012	2012	Historical															x									x
-CAPP Mining SCO 2012	CAPP Mining SCO 2012	2012	Historical															x									x
-CAPP SCO 2012	CAPP SCO 2012	2012	Historical																								x
-environment.alberta.ca 2012	Alberta Government 2012	2012	Historical											x							x						x
-oilsandsreview.com Historical 2012	OSR Hist 2012	2012	Historical											x							x						x
-StatCan Bitumen + SCO 2012	Statcan 2012	2012	Historical											x													x
-Statistics Canada - All Oil 2012	StatCan 2012	2012	Historical																								x
-Statistics Canada - Condensate 2012	StatCan Condensate 2012	2012	Historical																								x
-Statistics Canada - Crude Bitumen 2012	StatCan Bitumen 2012	2012	Historical													x											x
-Statistics Canada - Heavy Crude 2012	StatCan Heavy 2012	2012	Historical																								x
-Statistics Canada - Light+Medium Crude 2012	StatCan Light+Medium 2012	2012	Historical																								x
-Statistics Canada - Pentanes Plus 2012	StatCan Pentanes 2012	2012	Historical																								x
-Statistics Canada - SCO 2012	StatCan SCO 2012	2012	Historical															x									x
-Upgrader 2012	Upgrader 2012	2012	Historical																								x
-"NEB $14, 2000"	"NEB $14, 2000"	2000	Prognosis				x		x	x					x							x					x
-"NEB $18, 2000"	"NEB $18, 2000"	2000	Prognosis						x	x					x							x					x
-"NEB $22, 2000"	"NEB $22, 2000"	2000	Prognosis						x	x					x							x					x
-"NEB In-Situ $14, 2000"	"NEB In-Situ $14, 2000"	2000	Prognosis														x							x			x
-"NEB In-Situ $18, 2000"	"NEB In-Situ $18, 2000"	2000	Prognosis														x							x			x
-"NEB In-Situ $22, 2000"	"NEB In-Situ $22, 2000"	2000	Prognosis														x							x			x
-"NEB Mining $14, 2000"	"NEB Mining $14, 2000"	2000	Prognosis																x				x				x
-"NEB Mining $18, 2000"	"NEB Mining $18, 2000"	2000	Prognosis																x				x				x
-"NEB Mining $22, 2000"	"NEB Mining $22, 2000"	2000	Prognosis																x				x				x
-imperialinvestmentrealty.com 2002	IIR 2002	2002	Prognosis									x			x						x						x
-"Canada's Energy Future - In-Situ, Supply Push 2003"	CEF In-Situ Supply Push 2003	2003	Prognosis														x			x				x			x
-"Canada's Energy Future - In-Situ, Techno-Vert 2003"	CEF In-Situ Techno-Vert 2003	2003	Prognosis														x			x				x			x
-"Canada's Energy Future - Mining, Supply Push 2003"	CEF Mining Supply Push 2003	2003	Prognosis																x				x				x
-"Canada's Energy Future - Mining, Techno-Vert 2003"	CEF Mining Techno-Vert 2003	2003	Prognosis																x				x				x
-CEF - Supply Push 2003	CEF - Supply Push 2003	2003	Prognosis						x	x					x						x	x					x
-CEF - Techno-Vert 2003	CEF - Techno-Vert 2003	2003	Prognosis						x	x					x						x	x					x
-CERI Gross Adjusted Unconstrained 2004	CERI Gross Adjusted Unconstrained 2004	2004	Prognosis						x		x																x
-CERI Gross High Supply 2004	CERI High Supply 2004	2004	Prognosis						x		x																x
-CERI Gross Low Supply 2004	CERI  Low Supply 2004	2004	Prognosis						x		x																x
-CERI Gross Reference 2004	CERI  Reference 2004	2004	Prognosis						x		x																x
-CERI Gross Unconstrained 2004	CERI  Unconstrained 2004	2004	Prognosis						x		x																x
-CERI Production Net Adjusted Unconstrained 2004	CERI Production Net Adjusted Unconstrained 2004	2004	Prognosis																								x
-CERI Production Net High Supply 2004	CERI Production Net High Supply 2004	2004	Prognosis																								x
-CERI Production Net Low Supply 2004	CERI Production Net Low Supply 2004	2004	Prognosis																								x
-CERI Production Net Reference 2004	CERI Production Net Reference 2004	2004	Prognosis																								x
-CERI Production Net Unconstrained 2004	CERI Production Net Unconstrained 2004	2004	Prognosis																								x
-CERI SCO Adjusted Unconstrained 2004	CERI SCO Adjusted Unconstrained 2004	2004	Prognosis																								x
-CERI SCO High Supply 2004	CERI SCO High Supply 2004	2004	Prognosis																								x
-CERI SCO Low Supply 2004	CERI SCO Low Supply 2004	2004	Prognosis																								x
-CERI SCO Reference 2004	CERI SCO Reference 2004	2004	Prognosis																								x
-CERI SCO Unconstrained 2004	CERI SCO Unconstrained 2004	2004	Prognosis																								x
-CERI To Upgrading Adjusted Unconstrained 2004	CERI To Upgrading Adjusted Unconstrained 2004	2004	Prognosis																								x
-CERI To Upgrading High Supply 2004	CERI To Upgrading High Supply 2004	2004	Prognosis																								x
-CERI To Upgrading Low Supply 2004	CERI To Upgrading Low Supply 2004	2004	Prognosis																								x
-CERI To Upgrading Reference 2004	CERI To Upgrading Reference 2004	2004	Prognosis																								x
-CERI To Upgrading Unconstrained 2004	CERI To Upgrading Unconstrained 2004	2004	Prognosis																								x
-CERI Total Adjusted Unconstrained 2004	CERI Total Adjusted Unconstrained 2004	2004	Prognosis																			x					x
-CERI Total High Supply 2004	CERI Total High Supply 2004	2004	Prognosis						x													x					x
-CERI Total Low Supply 2004	CERI Total Low Supply 2004	2004	Prognosis						x													x					x
-CERI Total Reference 2004	CERI Total Reference 2004	2004	Prognosis						x													x					x
-CERI Total Unconstrained 2004	CERI Total Unconstrained 2004	2004	Prognosis						x													x					x
-Oil sands technology roadmap 2004	OSTR 2004	2004	Prognosis						x			x			x						x						x
-AEUB 2005	AEUB 2005	2005	Prognosis						x						x						x						x
-AEUB In-Situ 2005	AEUB In-Situ 2005	2005	Prognosis														x			x							x
-AEUB Mining 2005	AEUB Mining 2005	2005	Prognosis																x								x
-AEUB Mining+In-Situ 2005	AEUB 2005	2005	Prognosis									x															x
-CAPP 2006	CAPP 2006	2006	Prognosis						x			x			x						x						x
-CAPP In-Situ 2006	CAPP In-Situ 2006	2006	Prognosis														x			x							x
-CAPP Mining 2006	CAPP Mining 2006	2006	Prognosis																x								x
-Canada's Energy Future - Upgraded 2007	CEF Upgraded 2007	2007	Prognosis																								x
-Canada's Energy Future - Upgraded+Non-Upgraded 2007	CEF 2007	2007	Prognosis						x	x					x						x						x
-CEF Non-Upgraded 2007	CEF Non-Upgraded 2007	2007	Prognosis																								x
-CEF Upgraded 2007	CEF Upgraded 2007	2007	Prognosis																								x
-NEB Non-Upgraded 2009	CEF Non-Upgraded 2009	2009	Prognosis																								x
-NEB Upgraded 2009	CEF Upgraded 2009	2009	Prognosis																								x
-NEB Upgraded+Non-Upgraded 2009	CEF 2009	2009	Prognosis							x			x		x												x
-CERI Announced 2011	CERI Announced 2011	2011	Prognosis																						x		x
-CERI Announced+Awaiting Approval+Suspended+Approved+Construction+Onstream 2011	CERI 2011	2011	Prognosis	imperialinvestmentrealty.com 2002									x														x
-CERI Approved 2011	CERI Approved 2011	2011	Prognosis																						x		x
-CERI Approved+Construction+Onstream 2011	CERI Approved+Construction+Onstream 2011	2011	Prognosis																								x
-CERI Awaiting Approval 2011	CERI Awaiting Approval 2011	2011	Prognosis																						x		x
-CERI Awaiting Approval+Suspended+Approved+Construction+Onstream 2011	CERI Awaiting Approval+Suspended+Approved+Construction+Onstream 2011	2011	Prognosis																								x
-CERI Construction 2011	CERI Construction 2011	2011	Prognosis																						x		x
-CERI Construction+Onstream 2011	CERI Construction+Onstream 2011	2011	Prognosis																								x
-CERI Onstream 2011	CERI Onstream 2011	2011	Prognosis																						x		x
-CERI Protracted 2011	CERI Protracted 2011	2011	Prognosis	CERI Gross Low Supply 2004									x									x					x
-CERI Realistic 2011	CERI Realistic 2011	2011	Prognosis	CERI Gross Reference 2004									x									x					x
-CERI Security 2011	CERI Security 2011	2011	Prognosis	CERI Gross High Supply 2004									x									x					x
-CERI Suspended 2011	CERI Suspended 2011	2011	Prognosis																						x		x
-CERI Suspended+Approved+Construction+Onstream 2011	CERI Suspended+Approved+Construction+Onstream 2011	2011	Prognosis																								x
-CERI Unconstrained 2011	CERI Unconstrained 2011	2011	Prognosis	CERI Gross Unconstrained 2004									x									x					x
-NEB 2011	NEB 2011	2011	Prognosis	"NEB Upgraded+Non-Upgraded 2009; Canada's Energy Future - Upgraded+Non-Upgraded 2007; NEB $14, 2000; NEB Mining $18, 2000; NEB Mining $22, 2000; CEF - Supply Push 2003; CEF - Techno-Vert 2003"									x														
-NEB In-Situ 2011	NEB In-Situ 2011	2011	Prognosis																								
-NEB Mining 2011	NEB Mining 2011	2011	Prognosis																								
-CAPP In-Situ Prognosis 2012	CAPP In-Situ 2012	2012	Prognosis														x			x							x
-CAPP Mining Prognosis 2012	CAPP Mining 2012	2012	Prognosis																x								x
-CAPP Prognosis 2012	CAPP 2012	2012	Prognosis	CAPP 2006									x		x						x						x
-Citibank - All Oil 2012	Citibank All 2012	2012	Prognosis																								x
-Citibank - All Oil minus Oil Sands 2012	Citibank All minus OilSands 2012	2012	Prognosis																								x
-Citibank 2012	Citibank 2012	2012	Prognosis	imperialinvestmentrealty.com 2002									x		x												x
-Lower.05	Lower Bound	2012	Prognosis																							x	
-Middle	Median	2012	Prognosis																							x	
-oilsandsreview.com Prognosis 2012	OSR Prog 2012	2012	Prognosis	imperialinvestmentrealty.com 2002									x		x						x						x
-Upper.95	Upper Bound	2012	Prognosis																							x	
-WEO 2012	WEO 2012	2012	Prognosis										x														
+Scheme	Short.Name	Year	Type	BelongsTo	PrintPrio	KeepEmpty	Important	Low	High	Old	NEB	CERI	Miscellaneous	Recent	Historical.All	Prognosis.All	In.Situ.Historical	In.Situ.Prognosis	Mining.Historical	Mining.Prognosis	Selection.1	Selection.2	Scenario	Scenario.Mining	Scenario.In.Situ	Types	Statistics	All.Graphs
+CAPP Bitumen Historical 2012	CAPP Bit Hist 2012	2012	Historical				x		x								x											x
+CAPP Historical 2012	CAPP 2012 Hist	2012	Historical		1					x	x	x	x		x	x						x						x
+CAPP In-Situ Historical 2012	CAPP In-Situ Hist 2012	2012	Historical														x				x							x
+CAPP In-situ SCO 2012	CAPP In-situ SCO 2012	2012	Historical														x											x
+CAPP Mining Historical 2012	CAPP Mining 2012	2012	Historical																x									x
+CAPP Mining SCO 2012	CAPP Mining SCO 2012	2012	Historical																x									x
+CAPP SCO 2012	CAPP SCO 2012	2012	Historical																									x
+environment.alberta.ca 2012	Alberta Government 2012	2012	Historical												x							x						x
+oilsandsreview.com Historical 2012	OSR Hist 2012	2012	Historical												x							x						x
+StatCan Bitumen + SCO 2012	Statcan 2012	2012	Historical												x													x
+Statistics Canada - All Oil 2012	StatCan 2012	2012	Historical																									x
+Statistics Canada - Condensate 2012	StatCan Condensate 2012	2012	Historical																									x
+Statistics Canada - Crude Bitumen 2012	StatCan Bitumen 2012	2012	Historical														x											x
+Statistics Canada - Heavy Crude 2012	StatCan Heavy 2012	2012	Historical																									x
+Statistics Canada - Light+Medium Crude 2012	StatCan Light+Medium 2012	2012	Historical																									x
+Statistics Canada - Pentanes Plus 2012	StatCan Pentanes 2012	2012	Historical																									x
+Statistics Canada - SCO 2012	StatCan SCO 2012	2012	Historical																x									x
+Upgrader 2012	Upgrader 2012	2012	Historical																									x
+NEB $14, 2000	NEB $14, 2000	2000	Prognosis					x		x	x					x							x					x
+NEB $18, 2000	NEB $18, 2000	2000	Prognosis							x	x					x							x					x
+NEB $22, 2000	NEB $22, 2000	2000	Prognosis							x	x					x							x					x
+NEB In-Situ $14, 2000	NEB In-Situ $14, 2000	2000	Prognosis															x							x			x
+NEB In-Situ $18, 2000	NEB In-Situ $18, 2000	2000	Prognosis															x							x			x
+NEB In-Situ $22, 2000	NEB In-Situ $22, 2000	2000	Prognosis															x							x			x
+NEB Mining $14, 2000	NEB Mining $14, 2000	2000	Prognosis																	x				x				x
+NEB Mining $18, 2000	NEB Mining $18, 2000	2000	Prognosis																	x				x				x
+NEB Mining $22, 2000	NEB Mining $22, 2000	2000	Prognosis																	x				x				x
+imperialinvestmentrealty.com 2002	IIR 2002	2002	Prognosis										x			x						x						x
+Canada's Energy Future - In-Situ, Supply Push 2003	CEF In-Situ Supply Push 2003	2003	Prognosis															x			x				x			x
+Canada's Energy Future - In-Situ, Techno-Vert 2003	CEF In-Situ Techno-Vert 2003	2003	Prognosis															x			x				x			x
+Canada's Energy Future - Mining, Supply Push 2003	CEF Mining Supply Push 2003	2003	Prognosis																	x				x				x
+Canada's Energy Future - Mining, Techno-Vert 2003	CEF Mining Techno-Vert 2003	2003	Prognosis																	x				x				x
+CEF - Supply Push 2003	CEF - Supply Push 2003	2003	Prognosis							x	x					x						x	x					x
+CEF - Techno-Vert 2003	CEF - Techno-Vert 2003	2003	Prognosis							x	x					x						x	x					x
+CERI Gross Adjusted Unconstrained 2004	CERI Gross Adjusted Unconstrained 2004	2004	Prognosis							x		x																x
+CERI Gross High Supply 2004	CERI High Supply 2004	2004	Prognosis							x		x																x
+CERI Gross Low Supply 2004	CERI  Low Supply 2004	2004	Prognosis							x		x																x
+CERI Gross Reference 2004	CERI  Reference 2004	2004	Prognosis							x		x																x
+CERI Gross Unconstrained 2004	CERI  Unconstrained 2004	2004	Prognosis							x		x																x
+CERI Production Net Adjusted Unconstrained 2004	CERI Production Net Adjusted Unconstrained 2004	2004	Prognosis																									x
+CERI Production Net High Supply 2004	CERI Production Net High Supply 2004	2004	Prognosis																									x
+CERI Production Net Low Supply 2004	CERI Production Net Low Supply 2004	2004	Prognosis																									x
+CERI Production Net Reference 2004	CERI Production Net Reference 2004	2004	Prognosis																									x
+CERI Production Net Unconstrained 2004	CERI Production Net Unconstrained 2004	2004	Prognosis																									x
+CERI SCO Adjusted Unconstrained 2004	CERI SCO Adjusted Unconstrained 2004	2004	Prognosis																									x
+CERI SCO High Supply 2004	CERI SCO High Supply 2004	2004	Prognosis																									x
+CERI SCO Low Supply 2004	CERI SCO Low Supply 2004	2004	Prognosis																									x
+CERI SCO Reference 2004	CERI SCO Reference 2004	2004	Prognosis																									x
+CERI SCO Unconstrained 2004	CERI SCO Unconstrained 2004	2004	Prognosis																									x
+CERI To Upgrading Adjusted Unconstrained 2004	CERI To Upgrading Adjusted Unconstrained 2004	2004	Prognosis																									x
+CERI To Upgrading High Supply 2004	CERI To Upgrading High Supply 2004	2004	Prognosis																									x
+CERI To Upgrading Low Supply 2004	CERI To Upgrading Low Supply 2004	2004	Prognosis																									x
+CERI To Upgrading Reference 2004	CERI To Upgrading Reference 2004	2004	Prognosis																									x
+CERI To Upgrading Unconstrained 2004	CERI To Upgrading Unconstrained 2004	2004	Prognosis																									x
+CERI Total Adjusted Unconstrained 2004	CERI Total Adjusted Unconstrained 2004	2004	Prognosis																				x					x
+CERI Total High Supply 2004	CERI Total High Supply 2004	2004	Prognosis							x													x					x
+CERI Total Low Supply 2004	CERI Total Low Supply 2004	2004	Prognosis							x													x					x
+CERI Total Reference 2004	CERI Total Reference 2004	2004	Prognosis							x													x					x
+CERI Total Unconstrained 2004	CERI Total Unconstrained 2004	2004	Prognosis							x													x					x
+Oil sands technology roadmap 2004	OSTR 2004	2004	Prognosis							x			x			x						x						x
+AEUB 2005	AEUB 2005	2005	Prognosis							x						x						x						x
+AEUB In-Situ 2005	AEUB In-Situ 2005	2005	Prognosis															x			x							x
+AEUB Mining 2005	AEUB Mining 2005	2005	Prognosis																	x								x
+AEUB Mining+In-Situ 2005	AEUB 2005	2005	Prognosis										x															x
+CAPP 2006	CAPP 2006	2006	Prognosis							x			x			x						x						x
+CAPP In-Situ 2006	CAPP In-Situ 2006	2006	Prognosis															x			x							x
+CAPP Mining 2006	CAPP Mining 2006	2006	Prognosis																	x								x
+Canada's Energy Future - Upgraded 2007	CEF Upgraded 2007	2007	Prognosis																									x
+Canada's Energy Future - Upgraded+Non-Upgraded 2007	CEF 2007	2007	Prognosis							x	x					x						x						x
+CEF Non-Upgraded 2007	CEF Non-Upgraded 2007	2007	Prognosis																									x
+CEF Upgraded 2007	CEF Upgraded 2007	2007	Prognosis																									x
+NEB Non-Upgraded 2009	CEF Non-Upgraded 2009	2009	Prognosis																									x
+NEB Upgraded 2009	CEF Upgraded 2009	2009	Prognosis																									x
+NEB Upgraded+Non-Upgraded 2009	CEF 2009	2009	Prognosis								x			x		x												x
+CERI Announced 2011	CERI Announced 2011	2011	Prognosis																							x		x
+CERI Announced+Awaiting Approval+Suspended+Approved+Construction+Onstream 2011	CERI 2011	2011	Prognosis	imperialinvestmentrealty.com 2002										x														x
+CERI Approved 2011	CERI Approved 2011	2011	Prognosis																							x		x
+CERI Approved+Construction+Onstream 2011	CERI Approved+Construction+Onstream 2011	2011	Prognosis																									x
+CERI Awaiting Approval 2011	CERI Awaiting Approval 2011	2011	Prognosis																							x		x
+CERI Awaiting Approval+Suspended+Approved+Construction+Onstream 2011	CERI Awaiting Approval+Suspended+Approved+Construction+Onstream 2011	2011	Prognosis																									x
+CERI Construction 2011	CERI Construction 2011	2011	Prognosis																							x		x
+CERI Construction+Onstream 2011	CERI Construction+Onstream 2011	2011	Prognosis																									x
+CERI Onstream 2011	CERI Onstream 2011	2011	Prognosis																							x		x
+CERI Protracted 2011	CERI Protracted 2011	2011	Prognosis	CERI Gross Low Supply 2004										x									x					x
+CERI Realistic 2011	CERI Realistic 2011	2011	Prognosis	CERI Gross Reference 2004										x									x					x
+CERI Security 2011	CERI Security 2011	2011	Prognosis	CERI Gross High Supply 2004										x									x					x
+CERI Suspended 2011	CERI Suspended 2011	2011	Prognosis																							x		x
+CERI Suspended+Approved+Construction+Onstream 2011	CERI Suspended+Approved+Construction+Onstream 2011	2011	Prognosis																									x
+CERI Unconstrained 2011	CERI Unconstrained 2011	2011	Prognosis	CERI Gross Unconstrained 2004										x									x					x
+NEB 2011	NEB 2011	2011	Prognosis	NEB Upgraded+Non-Upgraded 2009; Canada's Energy Future - Upgraded+Non-Upgraded 2007; NEB $14, 2000; NEB Mining $18, 2000; NEB Mining $22, 2000; CEF - Supply Push 2003; CEF - Techno-Vert 2003										x														
+NEB In-Situ 2011	NEB In-Situ 2011	2011	Prognosis																									
+NEB Mining 2011	NEB Mining 2011	2011	Prognosis																									
+CAPP In-Situ Prognosis 2012	CAPP In-Situ 2012	2012	Prognosis															x			x							x
+CAPP Mining Prognosis 2012	CAPP Mining 2012	2012	Prognosis																	x								x
+CAPP Prognosis 2012	CAPP 2012	2012	Prognosis	CAPP 2006										x		x						x						x
+Citibank - All Oil 2012	Citibank All 2012	2012	Prognosis																									x
+Citibank - All Oil minus Oil Sands 2012	Citibank All minus OilSands 2012	2012	Prognosis																									x
+Citibank 2012	Citibank 2012	2012	Prognosis	imperialinvestmentrealty.com 2002										x		x												x
+Lower.05	Lower Bound	2012	Prognosis																								x	
+Middle	Median	2012	Prognosis																								x	
+oilsandsreview.com Prognosis 2012	OSR Prog 2012	2012	Prognosis	imperialinvestmentrealty.com 2002										x		x						x						x
+Upper.95	Upper Bound	2012	Prognosis																								x	
+WEO 2012	WEO 2012	2012	Prognosis											x														

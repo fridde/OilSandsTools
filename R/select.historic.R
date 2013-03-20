@@ -54,7 +54,6 @@ select.historic <-
       
       indices = intersect(indices, which(production.data$Dates == date.value.vector[i.date]))
       indices = intersect(indices, compilation.indices)
-      #if (length(indices) != 0 && compilation == "NEB Mining 2011") {browser()}
       Values = convert.to.barrel.per.day(production.data$Value[indices], production.data$Unit.Def[indices])
       production.values.vector[i.date] = sum(Values, na.rm = TRUE)
     }
